@@ -1,0 +1,772 @@
+{
+  "HomeHero.title": "¡DiDi ahora en Guayaquil!",
+  "HomeHero.textColor": "white",
+  "HomeHero.btnMode": "light",
+  "HomeHero.btnText": "teste",
+  "HeroCarrousel.bgColor": "bg-white",
+  "HeroCarrousel.textColor": "gray-primary",
+  "HeroCarrousel.columns": [
+    {
+      "title": "DiDi Conductor"
+    },
+    {
+      "title": "DiDi Pasajero"
+    }
+  ],
+  "PaxCTAApp.title": "La nueva app de DiDi Conductor",
+  "PaxCTAApp.desc": "",
+  "PaxCTAApp.bullets": [
+    "Más claridad en tus ganancias",
+    "Personaliza la forma en la que ves tus ingresos",
+    "Fácil de usar"
+  ],
+  "SafetyCTA.title": "En DiDi, tu seguridad es nuestra prioridad.",
+  "SafetyCTA.desc": "Conoce aquí las funcionalidades y medidas de seguridad que hemos tomado para que tu próxima solicitud de viaje en la app sea tan segura como tú esperas.",
+  "SafetyCTA.textColor": "white",
+  "SafetyCTA.bgColor": "bg-blue-primary",
+  "SafetyCTA.btnText": "Conoce más",
+  "SafetyCTA.btnMode": "light",
+  "SafetyCTA.btnLink": "/ec/seguridad/",
+  "SafetyFeatures.linkItem": "/ec/seguridad/funciones/{{feature}}",
+  "HelloCTA.title": "Sobre DiDi",
+  "HelloCTA.bullets": false,
+  "HelloCTA.desc": "Nacimos en 2012 y hoy conectamos a +550 millones de usuarios con +31 millones de Socios Conductores en 260 de las ciudades más importantes del mundo.",
+  "HelloCTA.btnText": "Conoce más sobre nosotros",
+  "HelloCTA.btnMode": "primary",
+  "HelloCTA.btnLink": "/ec/sobre-didi/",
+  "AboutGlobalCTA.title": "DiDi en el Mundo",
+  "AboutGlobalCTA.bullets": false,
+  "AboutGlobalCTA.desc": "Nos  asociamos con Grab, Lyft, Ola, 99 y Bolt (Taxify), creando una red global de viajes compartidos, llegando a más del 80% de la población mundial en más de 1,000 ciudades.",
+  "AboutGlobalCTA.btnText": "Conoce más de DiDi Global",
+  "AboutGlobalCTA.btnMode": "primary",
+  "AboutGlobalCTA.btnLink": "http://www.didiglobal.com/",
+  "DrvCTA.title": "Genera ingresos extra con DiDi Conductor",
+  "DrvCTA.bullets": false,
+  "DrvCTA.desc": "Conéctate con la app con impacto en la movilidad y obtén ingresos extra en tu tiempo libre. Registra tus datos y los de tu vehículo y comienza a generar ingresos adicionales. Tus documentos se validarán hasta 72 horas para que empieces a manejar.",
+  "DrvCTA.bgColor": "bg-gray-light",
+  "DrvCTA.textColor": "gray-primary",
+  "DrvCTA.btnMode": "primary",
+  "AboutCTA.title": "+550 millones de usuarios",
+  "AboutCTA.bullets": false,
+  "AboutCTA.desc": "Conectamos a más de 550 millones de usuarios con más de 31 millones de conductores en el mundo. Hoy lo hacemos a través de nuestros productos: Taxi, Express, Premier, Luxe, Bus, conductor designado, soluciones empresariales, bicicletas compartidas, bicicletas eléctricas compartidas, renta de autos y entrega de alimentos.",
+  "AboutCTA.bgColor": "bg-gray-light",
+  "AboutCTA.textColor": "gray-primary",
+  "AboutCTA.btnMode": "primary",
+  "AboutCountryCTA.title": "¡Más ecuatorianos que nunca!",
+  "AboutCountryCTA.bullets": false,
+  "AboutCountryCTA.desc": "En el 2021 llegamos a Ecuador con el  propósito de servir a los usuarios, socios conductores y a la capital del país.",
+  "AboutCountryCTA.bgColor": "bg-gray-light",
+  "AboutCountryCTA.textColor": "gray-primary",
+  "AboutCountryCTA.btnMode": "primary",
+  "HelpCenterCTA.title": "En DiDi estamos 24/7 para ti",
+  "HelpCenterCTA.desc": "¿Necesitas ayuda sobre tu cuenta o tus solicitudes en DiDi? Ingresa a nuestro Centro de Ayuda",
+  "HelpCenterCTA.btnMode": "primary",
+  "HelpCenterCTA.btnText": "Aquí",
+  "HelpCenterCTA.btnLink": "/ec/centro-de-ayuda",
+  "PaxCTA.title": "Elige DiDi",
+  "PaxCTA.desc": "La plataforma que te ofrece seguridad y calidad. DiDi te conecta con vehículos particulares para que tengas un viaje increíble. Disfruta de nuestra amplia disponibilidad. Descarga ya la app DiDi Pasajero y disfruta tu próximo viaje con la app con impacto en movilidad.",
+  "PaxCTA.bullets": false,
+  "PaxCTA.textColor": "gray-primary",
+  "PaxCTA.btnMode": "primary",
+  "HomeColumns.bgColor": "bg-gray-light",
+  "HomeColumns.textColor": "gray-primary",
+  "HomeColumns.columns": [
+    {
+      "title": "Acerca de Nosotros",
+      "desc": "Somos una de las app de movilidad más grande del mundo.",
+      "textColor": "gray-primary",
+      "btnText": "Saber Más",
+      "btnLink": "/ec/sobre-didi/",
+      "btnMode": "light",
+      "height": "h-80"
+    },
+    {
+      "title": "Legal",
+      "desc": "Conoce nuestras políticas y términos y condiciones de uso de la app DiDi Pasajero y la app DiDi Conductor en Ecuador.",
+      "textColor": "gray-primary",
+      "btnText": "Saber Más",
+      "btnLink": "/ec/legal/",
+      "btnMode": "light",
+      "height": "h-80"
+    },
+    {
+      "title": "Preguntas Frecuentes",
+      "desc": "Conoce aquí las respuestas a las preguntas más frecuentes de nuestros Socios Conductores y Usuarios de DiDi Pasajero",
+      "textColor": "gray-primary",
+      "btnText": "Saber Más",
+      "btnLink": "/ec/centro-de-ayuda/",
+      "btnMode": "light",
+      "height": "h-80"
+    }
+  ],
+  "DrvColumns.columns": [
+    {
+      "desc": "Tener flexibilidad para que manejes tu tiempo como quieras",
+      "textColor": "gray-primary",
+      "height": "h-40"
+    },
+    {
+      "desc": "Contar con un equipo que está siempre listo para ayudarte 24/7",
+      "textColor": "gray-primary",
+      "height": "h-40"
+    },
+    {
+      "desc": "Generar más ingresos con nuestras promociones diarias",
+      "textColor": "gray-primary",
+      "height": "h-40"
+    },
+    {
+      "desc": "Conocer el destino de un viaje antes de aceptarlo",
+      "textColor": "gray-primary",
+      "height": "h-40"
+    },
+    {
+      "desc": "Visitar la oficina privada",
+      "textColor": "gray-primary",
+      "height": "h-40"
+    },
+    {
+      "desc": "Acceder a soluciones automáticas dentro de la app",
+      "textColor": "gray-primary",
+      "height": "h-40"
+    }
+  ],
+  "SafetyColumns.columns": [
+    {
+      "title": "Evaluación del socio conductor durante el registro en la plataforma",
+      "desc": "Para que una persona pueda registrarse como socio conductor en DiDi, debe pasar por una revisión de antecedentes y validación de documentos personales.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "Reconocimiento facial de socios conductores",
+      "desc": "Esta función solicita una fotografía  con la cual se verifica de manera regular que el socio conductor que se conecta a la app sea el mismo registrado en el sistema a través de reconocimiento facial.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "Registro con selfie de usuarios",
+      "desc": "Nuestra app solicita una selfie de seguridad al usuario durante su registro. Esta no se comparte con ningún socio conductor.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "Botón de emergencia",
+      "desc": "Durante cualquier situación de emergencia , puedes presionar el botón de emergencia en la app que te conecta con la Línea Nacional de Emergencia 911.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "Centro de Emergencias DiDi 24/7",
+      "desc": "Contamos con un equipo calificado para apoyarte durante una emergencia. Nuestro Centro tiene comunicación directa con las autoridades y sus diferentes redes de apoyo.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "Privacidad de tu número telefónico y datos personales",
+      "desc": "En DiDi protegemos tu número telefónico y tus datos personales. Las llamadas realizadas entre usuarios y socios conductores usando la aplicación NO mostrarán tu número real.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "Desvincular socio conductor",
+      "desc": "Si sientes que la experiencia en tu solicitud de viaje no fue buena, al llegar a tu destino, en el menú de calificación, encontrarás el botón de desvinculación de socio conductor. Esto evitará que, en futuras oportunidades, se sugiera  este socio conductor. ",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "Desvincular usuario",
+      "desc": "Si no deseas que la plataforma te vuelva a conectar con el  usuario, podrás usar la opción desvinculación de usuario. Esto evitará que en el futuro coincidas de nuevo con este usuario.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "Comparte tu ubicación en tiempo real",
+      "desc": "En DiDi puedes compartir tu ubicación con familiares y amigos en tiempo real.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "Zonas de seguridad o geoceldas para socios conductores.",
+      "desc": "Pensando en tu seguridad tenemos identificadas zonas de alto riesgo en donde nuestras opciones NO están habilitadas.  ",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "Tips de seguridad y calificación a socios conductores",
+      "desc": "Al usar nuestros servicios de movilidad  te damos ciertos tips de seguridad para que tengas en cuenta al momento de usar nuestra app.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    }
+  ],
+  "PaxHero.title": "Solicita viajes a través de DiDi",
+  "PaxHero.desc": "Es momento de redescubrir tu ciudad y recorrer cada rincón de ella a través de DiDi",
+  "PaxHero.textColor": "white",
+  "PaxHero.btnMode": "light",
+  "PaxHero.btnText": "Descarga DiDi Pasajero",
+  "LostItemsBanner.title": "¿Olvidaste un objeto en el vehículo?",
+  "LostItemsBanner.desc": "Da clic en el botón de abajo, dirígete a Preguntas Pasajeros y en la sección Olvidé un objeto en el vehículo llena el formulario para poder ayudarte.",
+  "LostItemsBanner.bgColor": "bg-blue-primary",
+  "LostItemsBanner.textColor": "white",
+  "LostItemsBanner.btnMode": "light",
+  "LostItemsBanner.btnText": "Cómo Recuperarlo",
+  "LostItemsBanner.btnLink": "/ec/centro-de-ayuda/#inconvenientes-con-un-viaje",
+  "PaxColumns.bgColor": "bg-gray-light",
+  "PaxColumns.textColor": "gray-primary",
+  "PaxColumns.columns": [
+    {
+      "title": "Amplia disponibilidad y cobertura",
+      "desc": "Tenemos opciones que se adaptan a tus necesidades de movilidad, ¡encuéntranos ahora en todo Ecuador!",
+      "bgColor": "white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Precios bajos",
+      "desc": "Disfruta de viajes tranquilos y de todos nuestros beneficios sin pagar más.",
+      "bgColor": "white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Si necesitas asistencia",
+      "desc": "Contamos con soporte en nuestro Chat en vivo, allí atenderemos todas tus dudas y solicitudes. Tenemos un horario de 9:00 a 22:00",
+      "bgColor": "white",
+      "textColor": "gray-primary"
+    }
+  ],
+  "SimplifyHero.title": "Simplifica tu día",
+  "SimplifyHero.desc": "",
+  "SimplifyHero.btnText": "",
+  "SimplifyHero.textColor": "white",
+  "SimplifyColumns.bgColor": "bg-gray-light",
+  "SimplifyColumns.textColor": "gray-primary",
+  "SimplifyColumns.columns": [
+    {
+      "title": "Simplifica tus preocupaciones",
+      "desc": "Con DiDi puedes ver la info del carro, la foto del socio y todos los filtros de seguridad que aprobó. Además, si tienes un contratiempo con tu viaje, contamos con botón de emergencia en la app.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "Simplifica los problemas",
+      "desc": "Si requieres soporte con un viaje, en DiDi cuentas con una línea telefónica 24/7 atendida por personas que te ayudarán en lo que necesites.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "Simplifica las largas esperas",
+      "desc": "Comprueba los cortos tiempos de espera cuando solicitas un viaje.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "Simplifica tu presupuesto",
+      "desc": "Pide un viaje sin sacrificar tu seguridad y comodidad desde tan solo $1,50.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    }
+  ],
+  "TecnologiaEspaciosHero.title": "Diseñamos tecnología que busca generar espacios más seguros para las mujeres",
+  "TecnologiaEspaciosHero.desc": "",
+  "TecnologiaEspaciosHero.btnText": "",
+  "TecnologiaEspaciosHero.textColor": "white",
+  "FuncionesColumns.bgColor": "bg-gray-light",
+  "FuncionesColumns.textColor": "gray-primary",
+  "FuncionesColumns.columns": [
+    {
+      "title": "Botón de emergencia",
+      "desc": "Durante cualquier incidente o caso de violencia de género puedes presionar el botón de emergencia en la app que te conecta con la Línea Nacional de Emergencia 911 y nuestro Centro de Emergencias DiDi 24/7.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "Evaluación de socios durante el registro en la plataforma tecnológica",
+      "desc": "Quien desee registrarse como socio o usuario en DiDi, debe pasar por una revisión de antecedentes y validación de documentos personales desarrollada a través de un tercero experto en seguridad.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "Centro de emergencias DiDi 24/7",
+      "desc": "Sin buscar suplir o reemplazar a las autoridades, contamos con un equipo calificado para apoyarte durante una emergencia. Nuestro Centro tiene comunicación directa con las autoridades y sus diferentes redes de apoyo.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "Desvincular socio o usuario",
+      "desc": "Si la experiencia en tu solicitud te hizo sentir incómoda frente al trato del socio o usuario, al llegar a tu destino, en el menú de calificación encontrarás el botón de desvinculación de socio o usuario. Esto evitará que en futuras oportunidades te conectes con esta persona.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "Compartir ubicación en tiempo real",
+      "desc": "Contactos de confianza como amigos y familiares, pueden hacer seguimiento a la solicitud sin tener la aplicación DiDi descargada en su teléfono. Mediante una solicitud activa, puedes compartir tu ubicación por medio de un mensaje de texto, Whatsapp, entre otras opciones.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    }
+  ],
+  "ProtocolCTA.title": "¿Cómo lo hacemos?",
+  "ProtocolCTA.desc": "A través de la educación, la tecnología y el soporte humano. Por un lado, concientizando y educando a las personas para visibilizar el problema y contribuyendo a generar cambios en las conductas de las personas y en la forma como interactúan basadas en el respeto y la empatía. Por otro lado, creando mecanismos que aporten a la reducción de estos casos, brindando acompañamiento cercano a la víctima, y tomando medidas inmediatas y contundentes para contribuir a una comunidad libre de violencia de género. Contamos con un centro de emergencias manejado por personal especializado en seguridad para atender este tipo de casos. No buscamos reemplazar las líneas nacionales de emergencia, pero sí estamos comprometidos con brindar apoyo y acompañamiento adicional a las usuarias que pasen por estas inadmisibles situaciones.",
+  "ProtocolCTA.title2": "Protocolo de seguridad para casos de violencia de género",
+  "ProtocolCTA.desc2": "Combatir los casos de violencia de género, en sus múltiples expresiones, es responsabilidad de todos. Por eso, de la mano de expertas, hemos desarrollado un protocolo de seguridad que busca aportar a una cultura de prevención centrada en la mujer.",
+  "ProtocolCTA.bullets": false,
+  "ProtocolCTA.btnText": "",
+  "ProtocolBullets.title": "Paso a Paso",
+  "ProtocolBullets.bullets": [
+    "Asistencia en seguridad, en caso de que la usuaria o socia lo requiera o se encuentre en peligro. Por medio de la Central de Emergencias mantenemos comunicación permanente con las autoridades para brindar colaboración a las personas involucradas en la situación.",
+    "Orientación para presentar una denuncia ante las autoridades. Nuestros agentes de la central de emergencia mantienen un seguimiento telefónico con la víctima para darle acompañamiento en el manejo de situaciones complicadas.",
+    "Direccionamos a la víctima con canales oficiales como la Línea Púrpura de la Secretaría de la mujer o CAIVAS, y así propiciar el acompañamiento necesario desde todos los frentes.",
+    "En caso de que sea necesario, ofrecemos asistencia médica y apoyo psicológico, por medio de SBS Seguros con base en los términos de la póliza respectiva.",
+    "Facilitamos el contacto con la autoridad competente para brindar orientación presencial de ser necesario.",
+    "Por razones preventivas, y mientras el equipo especializado realiza las diligencias pertinentes en el caso, podría realizarse una suspensión temporal de las cuentas involucradas.",
+    "Si la cuenta denunciada incumplió con los términos y condiciones de la app, será bloqueada permanentemente.",
+    "Nuestro equipo hace un seguimiento periódicamente con las partes involucradas, para conocer el estado de la situación."
+  ],
+  "ProtocolBullets.desc": "",
+  "NeutralFAQ.items": [
+    {
+      "title": "¿Qué debo hacer si soy víctima de una situación de violencia basada en género al usar la aplicación?",
+      "content": "En caso de ser víctima durante una solicitud intermediada por DiDi, y dependiendo de la situación, puedes utilizar los siguientes canales: – Botón de emergencias de DiDi: Para recibir soporte inmediato de una agente de la central de emergencias. – Línea de soporte: Comunícate a la línea de usuario +593 23422607 o línea de socio +593 23422606"
+    },
+    {
+      "title": "¿DiDi colabora con las autoridades para solucionar los incidentes de seguridad?",
+      "content": "Estamos en permanente contacto con las autoridades para colaborar inmediatamente ante cualquier incidente de seguridad. De igual forma, direccionamos a la víctima en el proceso de denuncia y necesidades psicológicas, con el apoyo de grupos de expertas."
+    },
+    {
+      "title": "¿DiDi me puede compartir la información de los socios y/o usuarios que están involucrados en un caso de seguridad?",
+      "content": "En apoyo a la ley de Habeas Data y como medida de protección a nuestra comunidad dentro de nuestros esfuerzos de responsabilidad social, no podemos proporcionar información confidencial de los usuarios o socios. Sin embargo, como parte de nuestro compromiso de colaborar con las autoridades competentes y colaborar en la resolución de este tipo de casos, ponemos esta información a disposición de las autoridades inmediatamente recibimos un requerimiento formal."
+    },
+    {
+      "title": "¿DiDi realiza validación de antecedentes de forma periódica?",
+      "content": "Para DiDi, la seguridad es una prioridad. Por esta razón, además de la validación inicial que se realiza con todos los socios que deseen registrarse en la aplicación, adelantamos acciones permanentes relacionadas con seguridad y antifraude como verificación facial para confirmar la identidad de la persona que utiliza la aplicación; monitoreo en tiempo real, en el que recibimos alertas automáticas en caso de que un servicio esté tomando más tiempo del estimado; y dentro de nuestras gestiones de responsabilidad social contamos con una póliza de responsabilidad civil contractual y extracontractual que cubre accidentes personales, gastos médicos, entre otros."
+    },
+    {
+      "title": "¿Qué pasa con los agresores?",
+      "content": "Cualquier persona que utilice nuestra plataforma tecnológica indebidamente, y en contra de los términos y condiciones, podrá ser bloqueada."
+    }
+  ],
+  "NeutralFAQ.title": "",
+  "NeutralFAQ.content": "",
+  "PaxWhyDiDi.title": "¡Tu seguridad es nuestra prioridad! por eso tenemos funcionalidades pensadas para ti:",
+  "PaxWhyDiDi.bullets": [
+    "Verificación de antecedentes de socios conductores",
+    "Botón de emergencia",
+    "Comparte tu ubicación en tiempo real con tus contactos de confianza",
+    "Patrullas de emergencia",
+    "Privacidad de números telefónicos",
+    "Desvincular socio conductor"
+  ],
+  "PaxWhyDiDi.desc": "",
+  "PaxWhyDiDi.textColor": "gray-primary",
+  "PaxWhyDiDi.btnMode": "primary",
+  "SliderSection.title": "Nuestros Servicios en Ecuador",
+  "SliderSectionCity.title": "Nuestros Servicios en {{city}}",
+  "PaxBanner.title": "¿Quieres ser socio conductor en DiDi?",
+  "PaxBanner.desc": "",
+  "PaxBanner.bgColor": "bg-orange-primary",
+  "PaxBanner.textColor": "white",
+  "PaxBanner.btnMode": "light",
+  "DrvHero.title": "Genera ingresos extra con DiDi Conductor",
+  "DrvHero.desc": "Regístrate como Socio Conductor y accede a una tasa de servicio competitiva por el uso de la app y muchas promociones",
+  "DrvHero.textColor": "white",
+  "DrvHero.btnMode": "light",
+  "DrvMotoHero.title": "Conduce a través de DiDi Conduce",
+  "DrvMotoHero.desc": "Regístrate en DiDi Conductor y comienza ya a generar ganancias cuando más te convenga.",
+  "DrvMotoHero.textColor": "white",
+  "DrvMotoHero.btnMode": "light",
+  "DrvWhyDiDi.title": "¡Tu seguridad es nuestra prioridad! por eso tenemos funcionalidades pensadas para ti:",
+  "DrvWhyDiDi.bullets": [
+    "Registro con selfie de usuarios",
+    "Botón de emergencia",
+    "Comparte tu ubicación en tiempo real con tus contactos de confianza",
+    "Privacidad de números telefónicos",
+    "Desvincular usuario"
+  ],
+  "DrvWhyDiDi.textColor": "gray-primary",
+  "DrvWhyDiDi.btnMode": "primary",
+  "DrvVideoGrid.bgColor": "bg-blue-primary",
+  "DrvVideoGrid.title": "Sigue estos pasos para empezar a manejar y generar ingresos",
+  "DrvVideoGrid.textColor": "white",
+  "DrvVideoGrid.columns": [
+    {
+      "title": "Sube tu Cédula de Identidad Chilena",
+      "bgColor": "bg-blue-primary",
+      "videoSrc": "https://www.youtube.com/embed/1853mnRqTW4"
+    },
+    {
+      "title": "Sube una fotografía de ti sosteniendo tu cédula de identidad",
+      "bgColor": "bg-blue-primary",
+      "videoSrc": "https://www.youtube.com/embed/6TyVl3r1wUM"
+    },
+    {
+      "title": "Sube tu licencia de conducir Chilena",
+      "bgColor": "bg-blue-primary",
+      "videoSrc": "https://www.youtube.com/embed/cDXmKDkOlL4"
+    },
+    {
+      "title": "Sube tu Permiso de Circulación al día",
+      "bgColor": "bg-blue-primary",
+      "videoSrc": "https://www.youtube.com/embed/LH6BgttFSTc"
+    },
+    {
+      "title": "Sube tu Permiso de Circulación al día",
+      "bgColor": "bg-blue-primary",
+      "videoSrc": "https://www.youtube.com/embed/6lq6C1AbdPw"
+    }
+  ],
+  "Requirements.title": "Requerimientos para ser Conductor",
+  "Requirements.bgColor": "bg-gray-light",
+  "Requirements.textColor": "bg-white",
+  "DrvBanner.title": "Tenemos expertos para ayudarte a completar tu registro y responder a cualquier duda que tengas",
+  "DrvBanner.desc": "Conoce todo sobre DiDi.",
+  "DrvBanner.bgColor": "bg-orange-primary",
+  "DrvBanner.textColor": "white",
+  "DrvBanner.btnMode": "light",
+  "DrvFeatures.title": "Te damos la mejor experiencia. En nuestra App puedes:",
+  "DrvFeatures.bullets": [
+    "Ver el destino de todos tus viajes las 24 horas.",
+    "Tener más ingresos con nuestras promociones y referidos.",
+    "Tener flexibilidad para que manejes tu tiempo como quieras, además de herramientas que te ayudan a sacarle provecho a la aplicación cuando estás conectado.",
+    "Apoyarte en nuestro equipo que está siempre listo para ayudarte. 7 días de la semana, 24 horas al día."
+  ],
+  "DrvFeatures.textColor": "gray-primary",
+  "DrvFeatures.bgColor": "bg-gray-light",
+  "DrvFeatures.btnMode": "primary",
+  "DrvCityList.title": "Operamos en las siguientes ciudades en Ecuador",
+  "DrvCityList.desc": "Descubre las ciudades de Ecuador donde esta operando DiDi",
+  "DrvCityList.bgColor": "bg-white",
+  "DrvCityList.textColor": "gray-primary",
+  "DrvCityList.linkItem": "/ec/conductor/conductor-en-{{city}}/",
+  "TaxiHero.title": "DiDi Taxi",
+  "TaxiHero.desc": "Los taxis de siempre con acceso a la experiencia de servicio y la tecnología DiDi. Recibe pedidos de viaje a través de la app o recoge a los usuarios en la calle y conecta el viaje a través de DiDi Taxi.",
+  "TaxiHero.textColor": "white",
+  "TaxiHero.btnMode": "primary",
+  "TaxiWhyDiDi.title": "Recibe pedidos a través de la app o recoge a los pasajeros conectando el viaje con DiDi Taxi",
+  "TaxiWhyDiDi.bullets": [
+    "¿Ya estas registrado como DiDi Taxista? Regístrate online y te explicamos cómo se usa la App.",
+    "¿Ya hiciste viajes como DiDi Taxista? No olvides registrar tu cuenta bancaria para recibir tu pago. Acá te mostramos cómo.",
+    "¿Más dudas? Tenemos expertos listos para ayudarle a completar su registro y responder cualquier duda que tenga. Teléfono: +56 2 29 38 93 02"
+  ],
+  "TaxiWhyDiDi.textColor": "gray-primary",
+  "TaxiWhyDiDi.btnMode": "primary",
+  "KnowMoreBanner.title": "¿Tienes dudas?",
+  "KnowMoreBanner.desc": "",
+  "KnowMoreBanner.bgColor": "bg-orange-primary",
+  "KnowMoreBanner.textColor": "white",
+  "KnowMoreBanner.btnText": "Centro de ayuda",
+  "KnowMoreBanner.btnLink": "/ec/centro-de-ayuda/",
+  "KnowMoreBanner.btnMode": "light",
+  "AboutHero.title": "Somos una de las plataforma de movilidad más grande del mundo",
+  "AboutHero.desc": false,
+  "AboutHero.textColor": "white",
+  "AboutHero.btnMode": "light",
+  "AboutColumns.bgColor": "bg-blue-primary",
+  "AboutColumns.title": "Información útil para usuarios y conductores",
+  "AboutColumns.textColor": "white",
+  "AboutColumns.columns": [
+    {
+      "title": "Seguridad de Usuarios y Conductores",
+      "desc": "En DiDi nos preocupa mucho tu seguridad. Aprende sobre todas las opciones de seguridad que tienes.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary",
+      "linkItem": "/ec/seguridad/",
+      "btnText": "Saber Más",
+      "btnMode": "dark",
+      "btnLink": "/ec/seguridad/"
+    },
+    {
+      "title": "Preguntas Frecuentes",
+      "desc": "Juntamos las principales preguntas de usuarios y conductores para que puedas informarte.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary",
+      "linkItem": "/ec/centro-de-ayuda/",
+      "btnText": "Saber Más",
+      "btnMode": "dark",
+      "btnLink": "/ec/centro-de-ayuda/"
+    }
+  ],
+  "SafetyHero.title": "En DiDi tu seguridad no es un mito",
+  "SafetyHero.desc": "Tu seguridad es nuestra prioridad y por eso queremos demostrar con acciones reales y específicas cómo DiDi te ofrece un viaje más tranquilo y seguro. Revisa todas las funciones de seguridad que tiene nuestra app, antes, durante y después de cada viaje.",
+  "SafetyHero.textColor": "white",
+  "SafetyHero.btnMode": "light",
+  "SafetyGridBeforeTrip.bgColor": "bg-white",
+  "SafetyGridBeforeTrip.title": "Antes del Viaje",
+  "SafetyGridBeforeTrip.textColor": "gray-primary",
+  "SafetyGridBeforeTrip.columns": [
+    {
+      "title": "Verificación de Socios Conductores",
+      "desc": "Para que una persona pueda registrarse como socio conductor o socio taxista en DiDi, debe pasar por una serie de validaciones de documentos personales.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Reconocimiento Facial de Socios Conductores",
+      "desc": "Esta función verifica de manera aleatoria que el socio conductor que se conecta a la app sea el mismo registrado en el sistema a través de una selfie.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Selfie para usuarios",
+      "desc": "Nuestra app solicita una selfie de seguridad al usuario de manera aleatoria antes de solicitar un viaje. Esta no se comparte con ningún socio conductor.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "RUT para usuarios (ID)",
+      "desc": "La app solicita el número de RUT al usuario de manera aleatoria antes de solicitar un viaje. Este no se comparte con ningún socio conductor.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Información del viaje",
+      "desc": "Antes de subir al auto, la app te mostrará el nombre, la foto del socio conductor, número de viajes, calificación y los datos del vehículo.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Privacidad de números telefónicos",
+      "desc": "En DiDi protegemos tu número telefónico y tus datos personales. Las llamadas realizadas entre usuarios y socios conductores usando la aplicación NO mostrarán tu número real.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Contactos de confianza",
+      "desc": "Puedes elegir hasta cinco personas de tus contactos para compartirles tus viajes en tiempo real.",
+      "bgColor": "bg-white"
+    }
+  ],
+  "SafetyGridDuringTrip.bgColor": "bg-orange-primary",
+  "SafetyGridDuringTrip.title": "Durante el Viaje",
+  "SafetyGridDuringTrip.desc": false,
+  "SafetyGridDuringTrip.textColor": "white",
+  "SafetyGridDuringTrip.columns": [
+    {
+      "title": "Botón de Emergencia",
+      "desc": "Durante cualquier situación de emergencia , puedes presionar el botón de emergencia en la app que te conecta con la Línea Nacional de Emergencia 911.",
+      "bgColor": "bg-orange-primary"
+    },
+    {
+      "title": "Compartir Viaje",
+      "desc": "En DiDi puedes compartir tu ubicación en tiempo real con cualquier persona que tú elijas.",
+      "bgColor": "bg-orange-primary"
+    },
+    {
+      "title": "Monitoreo de viaje en tiempo real",
+      "desc": "Rastreamos por GPS todos los viajes para que, en caso de un incidente, podamos reaccionar de forma inmediata. Si necesitas ayuda presiona el Botón de servicios de emergencia dentro de tu app para enlazarte al 133 y rastrear tu ubicación exacta.",
+      "bgColor": "bg-orange-primary"
+    },
+    {
+      "title": "Patrullas de asistencia",
+      "desc": "Se ha habilitado a las patrullas de asistencia, las mismas que serán activadas por el Centro de Ayuda DiDi en caso de alguna emergencia.",
+      "bgColor": "bg-orange-primary"
+    },
+    {
+      "title": "Viajes Asegurados",
+      "desc": "Todos los viajes realizados a través de la aplicación cuentan con un seguro de accidentes personales y responsabilidad civil para terceros y usuarios.",
+      "bgColor": "bg-orange-primary"
+    }
+  ],
+  "SafetyGridAfterTrip.bgColor": "bg-gray-light",
+  "SafetyGridAfterTrip.title": "Al Finalizar el Viaje",
+  "SafetyGridAfterTrip.textColor": "gray-primary",
+  "SafetyGridAfterTrip.columns": [
+    {
+      "title": "Objetos perdidos",
+      "desc": "¿Olvidaste algo en el vehículo? Con DiDi puedes contactar directamente al socio conductor para acordar la devolución.",
+      "bgColor": "bg-gray-light"
+    },
+    {
+      "title": "Si necesitas asistencia",
+      "desc": "Contamos con soporte en nuestro Chat en vivo, allí atenderemos todas tus dudas y solicitudes. Tenemos un horario de 9:00 a 22:00",
+      "bgColor": "bg-gray-light"
+    },
+    {
+      "title": "Califica a tu Socio Conductor",
+      "desc": "Califica a tu conductor después de cada viaje y, si deseas, puedes darle un pago extra. Esto ayuda a retroalimentar el sistema y mantener la seguridad en la comunidad de usuarios y socios conductores.",
+      "bgColor": "bg-gray-light"
+    },
+    {
+      "title": "Bloquear Socio Conductor",
+      "desc": "Si sientes que la experiencia en tu recorrido no fue buena, al terminar el viaje, en el menú de calificación, encontrarás el botón de desvinculación de socio conductor/ socio taxista. Esto evitará que, en futuras oportunidades, vuelvas a tener viajes con este socio conductor / socio taxista en particular.",
+      "bgColor": "bg-gray-light"
+    }
+  ],
+  "SafetyGridDrv.bgColor": "bg-white",
+  "SafetyGridDrv.title": "Además, si eres un Socio Conductor/Taxista",
+  "SafetyGridDrv.desc": false,
+  "SafetyGridDrv.textColor": "gray-primary",
+  "SafetyGridDrv.columns": [
+    {
+      "title": "Zonas de seguridad para Socios Conductores",
+      "desc": "Pensando en tu seguridad, tenemos identificadas zonas de riesgo en las cuales la conectividad de la app no está habilitada.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Cancelar viajes en zonas de alto riesgo",
+      "desc": "Si recibes una solicitud de viaje en una zona de alto riesgo, podrás cancelar el viaje sin penalidad.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Bloquear usuario",
+      "desc": "Si eres socio conductor y no deseas que la plataforma te vuelva a conectar con el pasajero de tu último viaje, podrás usar la opción desvinculación de usuario. Esto evitará que futuros viajes coincidan con esa persona.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Información del usuario",
+      "desc": "Si eres socio conductor/taxista, la aplicación te mostrará quién es el pasajero y podrás ver todos los detalles antes de iniciar el viaje, incluso el destino al que se dirige.",
+      "bgColor": "bg-white"
+    }
+  ],
+  "HelpCenterHero.title": "Centro de Ayuda",
+  "HelpCenterHero.desc": "Conoce las principales preguntas que nos hacen pasajeros y socios conductores",
+  "HelpCenterHero.textColor": "white",
+  "HelpCenterHero.btnMode": "light",
+  "HelpCenterFAQDrv.title": "Preguntas Socios Conductores",
+  "HelpCenterFAQDrv.desc": "",
+  "HelpCenterFAQDrv.textColor": "gray-primary",
+  "HelpCenterFAQDrv.bgColor": "bg-white",
+  "HelpCenterFAQPax.title": "Preguntas Pasajeros",
+  "HelpCenterFAQPax.desc": "",
+  "HelpCenterFAQPax.textColor": "gray-primary",
+  "HelpCenterFAQPax.bgColor": "bg-gray-light",
+  "FaqList.title": "Todas las preguntas frecuentes en DiDi Ecuador",
+  "FaqList.desc": "Leer para más información",
+  "FaqList.bgColor": "bg-white",
+  "FaqList.textColor": "gray-primary",
+  "FaqList.linkItem": "/ec/centro-de-ayuda/{{faqSlug}}/",
+  "FaqHero.bgColor": "bg-white",
+  "FaqHero.textColor": "white",
+  "FaqHero.btnMode": "primary",
+  "ArticlesHero.title": "DiDi Artículos",
+  "ArticlesHero.desc": "Entérate de lugares interesantes y divertidos de ir a visitar. Toma un DiDi para viajar barato y seguro.",
+  "ArticlesHero.textColor": "white",
+  "ArticlesHero.btnMode": "light",
+  "NewsroomHero.title": "DiDi Newsroom",
+  "NewsroomHero.desc": "En esta sección destacaremos las principales comunicaciones de DiDi",
+  "NewsroomHero.textColor": "white",
+  "NewsroomHero.btnMode": "light",
+  "ArticlesColumns.title": "DiDi Artículos de Lugares para Visitar en Ecuador",
+  "ArticlesColumns.bgColor": "bg-blue-primary",
+  "ArticlesColumns.textColor": "white",
+  "ArticlesColumns.btnText": "Leer Artículo",
+  "ArticlesColumns.btnMode": "dark",
+  "ArticlesColumns.linkItem": "/ec/articulos/{{article}}/",
+  "NewsroomColumns.title": "Comunicados Oficiales DiDi",
+  "NewsroomColumns.bgColor": "bg-blue-primary",
+  "NewsroomColumns.textColor": "white",
+  "NewsroomColumns.btnText": "Leer Comunicado",
+  "NewsroomColumns.btnMode": "dark",
+  "NewsroomColumns.linkItem": "/ec/newsroom/{{article}}/",
+  "ArticleHero.textColor": "white",
+  "ArticleHero.btnMode": "light",
+  "GuidesHero.title": "Guías para Conductores Ecuador",
+  "GuidesHero.desc": "Te invitamos a leer nuestras guías para conductores. Abarcan diferentes temas de interés desde tipos de licencias, trámites entre otros.",
+  "GuidesHero.textColor": "white",
+  "GuidesHero.btnMode": "light",
+  "GuideHero.textColor": "white",
+  "GuideHero.btnMode": "light",
+  "GuidesColumns.title": "Guías para Socios Conductores en Ecuador",
+  "GuidesColumns.bgColor": "bg-blue-primary",
+  "GuidesColumns.textColor": "white",
+  "GuidesColumns.btnText": "Leer Artículo",
+  "GuidesColumns.btnMode": "dark",
+  "GuidesColumns.linkItem": "/ec/guias/{{guide}}/",
+  "PartnersHero.title": "Club de Beneficios DiDiMás+",
+  "PartnersHero.desc": "Conoce nuestro club de beneficios siendo Socio Conductor de DiDi. ",
+  "PartnersHero.textColor": "white",
+  "PartnersHero.btnMode": "light",
+  "PartnersGrid.bgColor": "bg-white",
+  "PartnersGrid.title": "Beneficios que siempre suman",
+  "PartnersGrid.textColor": "gray-primary",
+  "PartnersGrid.linkItem": "/ec/didimas/{{partnerName}}/",
+  "PartnersCTA.title": "Con DiDiMás+ mientras más manejes, más beneficios obtendrás",
+  "PartnersCTA.desc": "¡Y eso no es todo! Prontamente tendremos más beneficios para ti. Te mantendremos informado de todas las novedades de DiDiMás+.",
+  "PartnersCTA.textColor": "white",
+  "PartnersCTA.bgColor": "bg-blue-primary",
+  "PartnersCTA.btnMode": "light",
+  "DrvCityHero.title": "Socios Conductores en {{city}}",
+  "DrvCityHero.desc": "¿Quieres convertirte en Socio Conductor DiDi en {{city}}?. Regístrate online y comienza a generar ingresos de manera segura y flexible. ",
+  "DrvCityHero.textColor": "white",
+  "DrvCityHero.bgColor": "bg-blue-primary",
+  "DrvCityHero.btnMode": "primary",
+  "DrvCityOffice.title": "Driver Center {{city}}",
+  "DrvCityOffice.desc": "Dirección: {{officeAddress}} {{officePhone}}",
+  "DrvCityOffice.textColor": "gray-primary",
+  "DrvCityOffice.bgColor": "bg-white",
+  "DrvCityOffice.btnMode": "primary",
+  "DirectionHero.title": "Como llegar a {{destination}} desde {{origin}}",
+  "DirectionHero.desc": "Desde: {{originAddress}} | Hacia: {{destinationAddress }}",
+  "DirectionHero.textColor": "white",
+  "DirectionHero.bgColor": "bg-blue-primary",
+  "DirectionHero.btnMode": "light",
+  "CityList.title": "Ciudades en Ecuador",
+  "CityList.desc": "Descubre lugares para ir a visitar en Ecuador",
+  "CityList.bgColor": "bg-white",
+  "CityList.textColor": "gray-primary",
+  "CityList.linkItem": "/ec/lugares/lugares-en-{{city}}/",
+  "PlaceMap.title": "Líneas cercanas a {{placeName}}",
+  "PlaceMap.desc": "Mejor pide un DiDi y viajarás mas seguro y  más rápido",
+  "PlaceMap.textColor": "gray-primary",
+  "PlaceMap.bgColor": "bg-white",
+  "PlaceMap.btnMode": "primary",
+  "DirectoryList.title": "Direcciones a Atracciones en {{city}}",
+  "DirectoryList.desc": "Encontraras detalle de lineas y como irte en distintos medios",
+  "DirectoryList.bgColor": "bg-white",
+  "DirectoryList.textColor": "gray-primary",
+  "DirectoryList.linkItem": "/ec/lugares/como-llegar-a-{{placeName}}_{{placeAddress}}/",
+  "DirectoryOriginList.title": "Como llegar a {{placeName}} desde distintos puntos de la ciudad",
+  "DirectoryOriginList.desc": "Encontraras detalle de lineas y como irte en distintos medios",
+  "DirectoryOriginList.bgColor": "bg-white",
+  "DirectoryOriginList.textColor": "gray-primary",
+  "DirectoryOriginList.linkItem": "/ec/lugares/como-llegar-a-{{destination}}-desde-{{origin}}_{{destinationAddress}}/",
+  "DirectionBanner.title": "Pide un DiDi a {{destination}} y llega en {{ carDuration }} ",
+  "DirectionBanner.desc": "Si te vas en transporte público te tomará {{duration}} en llegar. Viaja rápido, seguro y barato.",
+  "DirectionBanner.bgColor": "bg-orange-primary",
+  "DirectionBanner.textColor": "white",
+  "DirectionBanner.btnMode": "light",
+  "LegalHero.title": "Revisa nuestros Términos y Condiciones",
+  "LegalHero.desc": "Revisa nuestra sección de términos y condiciones además de nuestras política de privacidad.",
+  "LegalHero.textColor": "white",
+  "LegalHero.btnMode": "light",
+  "LegalHero.linkItem": "/ec/legal/terminos-y-condiciones/",
+  "LegalHero.btnText": "Términos y Condiciones",
+  "LegalCTA.title": "Revisa nuestra Políticas de Privacidad",
+  "LegalCTA.desc": "Revisa en qué consiste nuestras políticas de privacidad",
+  "LegalCTA.textColor": "gray-primary",
+  "LegalCTA.btnMode": "dark",
+  "StoreHero.title": "Escanéa el QR con tu celular ",
+  "StoreHero.desc": "Descarga DiDi Pasajero escaneando el código con tu celular",
+  "StoreHero.textColor": "white",
+  "StoreHero.bgColor": "bg-orange-primary",
+  "StoreHero.btnMode": "light",
+  "SBDrv.title": "DiDi Conductor",
+  "SBDrv.desc": "Ganancias Extras",
+  "SBPax.title": "DiDi Pasajero",
+  "SBPax.desc": "Pide un Viaje",
+  "RequirementHero.title": "Requisitos para registrarte como Socio Conductor",
+  "RequirementHero.desc": "Elige cuando conectarte, genera ingresos y conéctate con confianza con nuestro soporte 24/7.",
+  "RequirementHero.btnMode": "primary",
+  "RequirementHero.textColor": "white",
+  "DrvRequirementColumns.title": "",
+  "DrvRequirementColumns.columns": [
+    {
+      "title": "Socio conductor: Tengo vehiculo y quiero conducir:",
+      "desc": "1) Descarga DiDi Conductor \n 2) Sube tus documentos: Licencia de conducir \n 3) Registra tu vehículo: Documento único de Matrícula. El vehículo debe ser modelo 2006 en adelante \n 4) La aprobación de tus documentos puede tomar de 24 a 72 horas"
+    }
+  ],
+  "VehicleRequirementCTA.title": "Requisitos del vehículo",
+  "VehicleRequirementCTA.desc": "Para aceptar un vehículo tendrá que estar en buen estado físico (sin daños estéticos), contar con 4 puertas, aire acondicionado y bolsas de aire, así como cumplir con los años de antigüedad mínimos en tu ciudad. \n Para conocer la regulación aplicable en tu ciudad comunícate al 800 725 8888 o envía un correo a help.driver@mx.didiglobal.com. \n • Tarjeta de circulación \n • Póliza de seguro del auto \n • Registro Federal de Contribuyentes (RFC)",
+  "BankInfoCTA.title": "Actualiza tu información bancaria",
+  "BankInfoCTA.desc": "Queremos ayudarte a actualizar tus datos, sigue los siguientes pasos dentro de la app: \n 1. Haz clic en tu perfil y después en tu nombre \n 2. Haz clic en cuenta bancaria \n 3. Da clic en “Agregar” \n 4. Ingresa todos los datos solicitados en los espacios y da clic en “Enviar” \n 5. Verifica que tus datos sean correctos y da clic en “Confirmar”",
+  "BankInfoCTA.bgColor": "bg-gray-light",
+  "FindInfoCTA.title": "Encuentra tu centro DiDi más cercano",
+  "FindInfoCTA.desc": "Si tienes alguna duda, visítanos en nuestro Centro DiDi o contáctanos a través de: \n • Línea de atención 24/7 800 725 8888 \n • Escríbenos al correo help.driver@mx.didiglobal.com",
+  "VehicleSection.title": "Genera ganancias en DiDi Conductor",
+  "VehicleSection.bgColor": "bg-gray-light",
+  "VehicleSection.subTitle": "¿Tienes vehículo de?",
+  "VehicleSection.vehicles": [
+    {
+      "text": "4 ruedas",
+      "image": "/car.png"
+    }
+  ],
+  "VehicleSection.bulletTitle": "Hay un DiDi para ti.",
+  "VehicleSection.bulletDesc": "Contamos con diferentes modalidades de acuerdo a tus necesidades:",
+  "VehicleSection.bulletFooter": "Completa tu processo de registro en linea.",
+  "VehicleSection.bulletsCar": ["Express"],
+
+  "VehicleSection.btnType": "drv",
+  "VehicleSection.btnMode": "primary"
+}

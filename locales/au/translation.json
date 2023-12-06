@@ -1,0 +1,698 @@
+{
+  "HomeHero.title": "Award Winning Rideshare at Low Fares Every Day",
+  "HomeHero.textColor": "white",
+  "HomeHero.btnMode": "light",
+  "SafetyCTA.title": "Your safety comes first",
+  "SafetyCTA.desc": "Your safety is our top priority, learn more about the safety features available in the DiDi app so you can use them any time you need to.",
+  "SafetyCTA.textColor": "white",
+  "SafetyCTA.bgColor": "bg-blue-primary",
+  "SafetyCTA.btnText": "Know More",
+  "SafetyCTA.btnMode": "light",
+  "SafetyCTA.btnLink": "safety/",
+  "DrivePreventionHero.title": "Driving Safe and Preventing Fatigue",
+  "DrivePreventionHero.desc": " ",
+  "DrivePreventionHero.textColor": "white",
+  "DrvPreventionFeatureBanner.title": "DiDi Fatigue Prevention Feature",
+  "DrvPreventionFeatureBanner.desc": " ",
+  "DrvPreventionFeatureBanner.textColor": "white",
+  "DrvPreventionFeatureBanner.bgColor": "bg-orange-primary",
+  "DrvPreventionFeatureBanner.btnText": "Read more",
+  "DrvPreventionFeatureBanner.btnLink": "/au/safety/fatigue-prevention-feature/",
+  "DrvPreventionFeatureBanner.btnMode": "light",
+  "FatiguePreventionFAQ.title": "FAQ",
+  "DrvCTA.title": "Become a driver",
+  "DrvCTA.desc": "All Drivers have the opportunity to take home more of the fare with DiDi’s industry-leading low Services Fees",
+  "DrvCTA.bullets": [
+    "Increase Your Earning Potential: Low Services Fees ",
+    "Safety First: Access in-app safety features and our 24/7 dedicated support team ",
+    "Be in Control: Pick up nearby riders or choose the location you want to drive in ",
+    "Weekly Payouts: Get paid weekly and earn flexibly"
+  ],
+  "DrvCTA.bgColor": "bg-gray-light",
+  "DrvCTA.textColor": "bg-gray-primary",
+  "DrvCTA.btnMode": "primary",
+  "PaxCTA.title": "Get a ride",
+  "PaxCTA.desc": "Safe, reliable and affordable rides are a tap away",
+  "PaxCTA.textColor": "gray-primary",
+  "PaxCTA.btnMode": "dark",
+  "PaxCTA.bullets": [
+    "Enjoy low fares everyday ",
+    "Get matched to a nearby driver in minutes",
+    "Added peace of mind with in-app safety features",
+    "Give drivers more of the fare with DiDi"
+  ],
+  "HomeColumns.bgColor": "bg-gray-light",
+  "HomeColumns.textColor": "gray-primary",
+  "HomeColumns.columns": [
+    {
+      "title": "Available in 28 Cities",
+      "desc": "DiDi is now available in 28 cities across Australia. From north, south, east and west - we’ve got you covered. Check here to see a full list of the cities we are currently operating.",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Good for you, good for drivers",
+      "desc": "DiDi’s industry leading Services Fees means a greater share of the fare goes into the Drivers' pocket. ",
+      "textColor": "gray-primary"
+    }
+  ],
+  "PaxHero.title": "Ride with DiDi",
+  "PaxHero.desc": "Get safe, fast and affordable rides",
+  "PaxHero.textColor": "white",
+  "PaxHero.btnMode": "light",
+  "SliderSection.title": "Our Services in Australia",
+  "SliderSectionCity.title": "Our Services in {{city}}",
+  "PaxBenefits.title": "Learn about our Benefits",
+  "PaxBenefits.desc": "Download our App and enjoy the ride",
+  "PaxBenefits.bgColor": "bg-white",
+  "PaxBenefits.columns": [
+    {
+      "title": "Affordable fares",
+      "desc": "Let your dollar travel further with DiDi’s everyday low fares and offers.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Quick & Reliable",
+      "desc": "Your ride is ready in minutes. Break free from timetables and request a ride on your own watch.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Safety first",
+      "desc": "Get added peace of mind when you ride with pre-screened drivers, built-in safety features, and pay as you go with secure cashless payments.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Happy drivers equals happy rides",
+      "desc": "With an average industry-leading Services Fee, every ride taken with DiDi allows Australian rideshare drivers to earn more of the fare.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    }
+  ],
+  "PaxWhyDiDi.title": "Get FREE* rides",
+  "PaxWhyDiDi.bullets": [
+    "For a limited time only you’ll get a $5 ride voucher every time you invite a friend to sign up and ride with DiDi.",
+    "They’ll also get a $5 ride voucher too!",
+    "After they’ve finished taking their first ride, you’ll get a ride voucher in your account.",
+    "Please note that your referral code only applies to new users."
+  ],
+  "PaxWhyDiDi.desc": "You can pay with debit or credit card",
+  "PaxWhyDiDi.bgColor": "bg-blue-primary",
+  "PaxWhyDiDi.textColor": "white",
+  "PaxWhyDiDi.btnMode": "primary",
+  "PaxBanner.title": "Would you like to drive with DiDi?",
+  "PaxBanner.desc": "Take home more of the fare with DiDi’s industry-leading low Services Fees and additional bonuses. ",
+  "PaxBanner.bgColor": "bg-orange-primary",
+  "PaxBanner.textColor": "white",
+  "PaxBanner.btnMode": "light",
+  "DrvHero.title": "Drive with DiDi",
+  "DrvHero.desc": "Start making great money with industry-leading Services Fees, added support and safety features.",
+  "DrvHero.textColor": "white",
+  "DrvHero.btnMode": "light",
+  "DrvBenefits.title": "Driver-partner Benefits",
+  "DrvBenefits.bgColor": "bg-white",
+  "DrvBenefits.columns": [
+    {
+      "title": "Increase your earning potential",
+      "desc": "Take home more of the fare with DiDi’s industry-leading low Services Fees and additional bonuses.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Safety first",
+      "desc": "Access in-app safety features and our 24/7 dedicated support team.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Be in control",
+      "desc": "Pick up nearby riders or choose the location you want to drive in. ",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Weekly payouts",
+      "desc": "Get paid weekly and earn flexibly. You decide when you want to earn.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    }
+  ],
+  "Requirements.title": "Requirements to become a Driver",
+  "Requirements.bgColor": "bg-gray-light",
+  "Requirements.textColor": "bg-white",
+  "DrvBanner.title": "Start earning extra money today",
+  "DrvBanner.desc": "Sign-up Now",
+  "DrvBanner.bgColor": "bg-orange-primary",
+  "DrvBanner.textColor": "white",
+  "DrvBanner.btnMode": "light",
+  "DrvFeatures.title": "DiDi Advance",
+  "DrvFeatures.desc": "Free access to a program that rewards the most committed drivers with lower services fee and bonus perks. Available in participating cities only.",
+  "DrvFeatures.textColor": "gray-primary",
+  "DrvFeatures.bgColor": "bg-gray-light",
+  "DrvFeatures.btnMode": "primary",
+  "DrvCityList.title": "Our services are available in these cities in Australia",
+  "DrvCityList.desc": "All cities have Express, Max and Delivery",
+  "DrvCityList.bgColor": "bg-white",
+  "DrvCityList.textColor": "gray-primary",
+  "DrvCityList.linkItem": "/au/driver/driver-{{city}}/",
+  "DrvColumns.bgColor": "bg-gray-primary",
+  "DrvColumns.textColor": "white",
+  "DrvColumns.columns": [
+    {
+      "title": "DIDI ADVANCE",
+      "desc": "DiDi Advance is a program that rewards the most committed drivers with lower services fee and bonus perks. It is available in limited cities only.",
+      "bgColor": "bg-gray-primary",
+      "textColor": "white"
+    },
+    {
+      "title": "SAFETY",
+      "desc": "Your safety is our priority, learn more about the safety features available in the DiDi app so you can use them any time you need to.",
+      "bgColor": "bg-gray-primary",
+      "textColor": "white"
+    },
+    {
+      "title": "STILL HAVE QUESTIONS?",
+      "desc": "Visit our Driver Help Center page and find out more about Signing up, payments and reward program",
+      "bgColor": "bg-gray-primary",
+      "textColor": "white"
+    }
+  ],
+  "KnowMoreBanner.title": "Do you have questions?",
+  "KnowMoreBanner.desc": "Know More about DiDi.",
+  "KnowMoreBanner.bgColor": "bg-orange-primary",
+  "KnowMoreBanner.textColor": "white",
+  "KnowMoreBanner.btnText": "Help Center",
+  "KnowMoreBanner.btnLink": "/au/help-center/",
+  "KnowMoreBanner.btnMode": "light",
+  "DeliveryHero.title": "DiDi Delivery",
+  "DeliveryHero.desc": "Power your business with instant and affordable delivery",
+  "DeliveryHero.textColor": "white",
+  "DeliveryHero.btnMode": "primary",
+  "DeliveryColumns.bgColor": "bg-white",
+  "DeliveryColumns.textColor": "gray-primary",
+  "DeliveryColumns.columns": [
+    {
+      "title": "24/7 Instant Delivery",
+      "desc": "Dispatch your products to customers, friends and family around your metro area with 24/7 delivery.",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Send Multiple Packages",
+      "desc": "Add up to 3 drop off points in a single delivery – save on delivery fees by booking multiple parcels at a time. ",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Live Tracking",
+      "desc": "Easily track your deliveries in the app. Get real-time alerts.",
+      "textColor": "gray-primary"
+    }
+  ],
+  "DeliveryWhyDiDi.title": "Affordable Delivery Prices",
+  "DeliveryWhyDiDi.desc": "We know every penny counts, especially during these uncertain times. That’s why we offer low and affordable delivery fees. ",
+  "DeliveryWhyDiDi.bgColor": "bg-gray-light",
+  "DeliveryWhyDiDi.textColor": "gray-primary",
+  "DeliveryWhyDiDi.btnMode": "primary",
+  "DeliveryFeatures.title": "Getting Started",
+  "DeliveryFeatures.desc": "Simply download the DiDi app in the App Store or Google Play and request a DiDi Delivery.",
+  "DeliveryFeatures.textColor": "gray-primary",
+  "DeliveryFeatures.bgColor": "bg-gray-light",
+  "DeliveryFeatures.btnMode": "primary",
+  "DeliveryPersonalHero.title": "DiDi Delivery for personal",
+  "DeliveryPersonalHero.desc": "Affordable on-demand city-wide delivery. DiDi Delivery is an on-demand delivery service allowing Australians to send and receive parcels – all delivered by DiDi drivers. At launch, individuals and businesses can request delivery of items across your cities anywhere, anytime.",
+  "DeliveryPersonalHero.textColor": "white",
+  "DeliveryPersonalHero.btnMode": "primary",
+  "DeliveryPersonalWhyDiDi.title": "Affordable Delivery Prices",
+  "DeliveryPersonalWhyDiDi.desc": "We know every penny counts, especially during these uncertain times. That’s why we offer low and affordable delivery fees. ",
+  "DeliveryPersonalWhyDiDi.bgColor": "bg-gray-light",
+  "DeliveryPersonalWhyDiDi.textColor": "gray-primary",
+  "DeliveryPersonalWhyDiDi.btnMode": "primary",
+  "DeliveryPersonalFeatures.title": "Getting Started",
+  "DeliveryPersonalFeatures.desc": "Simply download the DiDi app in the App Store or Google Play and request a DiDi Delivery.",
+  "DeliveryPersonalFeatures.textColor": "gray-primary",
+  "DeliveryPersonalFeatures.bgColor": "bg-white",
+  "DeliveryPersonalFeatures.btnMode": "primary",
+  "DeliveryBusinessHero.title": "DiDi Delivery for Business",
+  "DeliveryBusinessHero.desc": "Power your business with instant and affordable delivery",
+  "DeliveryBusinessHero.textColor": "white",
+  "DeliveryBusinessHero.btnMode": "primary",
+  "DeliveryBusinessWhyDiDi.title": "Affordable Delivery Prices",
+  "DeliveryBusinessWhyDiDi.desc": "We know every penny counts, especially during these uncertain times. That’s why we offer low and affordable delivery fees. ",
+  "DeliveryBusinessWhyDiDi.bgColor": "bg-gray-light",
+  "DeliveryBusinessWhyDiDi.textColor": "gray-primary",
+  "DeliveryBusinessWhyDiDi.btnMode": "primary",
+  "DeliveryBusinessFeatures.title": "Getting Started",
+  "DeliveryBusinessFeatures.desc": "Simply download the DiDi app in the App Store or Google Play and request a DiDi Delivery.",
+  "DeliveryBusinessFeatures.textColor": "gray-primary",
+  "DeliveryBusinessFeatures.bgColor": "bg-white",
+  "DeliveryBusinessFeatures.btnMode": "primary",
+  "AboutHero.title": "Questions about DiDi?",
+  "AboutHero.desc": "Learn about our Safety Features and other frequently asked questions",
+  "AboutHero.textColor": "white",
+  "AboutHero.btnMode": "light",
+  "AboutColumns.bgColor": "bg-blue-primary",
+  "AboutColumns.title": "Information for Users and Drivers",
+  "AboutColumns.textColor": "white",
+  "AboutColumns.columns": [
+    {
+      "title": "Safety for Riders and Drivers",
+      "desc": "Safety is our N°1 priority",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary",
+      "linkItem": "/au/safety/",
+      "btnText": "Learn more",
+      "btnMode": "dark",
+      "btnLink": "/au/safety/"
+    },
+    {
+      "title": "FAQ for Drivers",
+      "desc": "Read about the more commons questions for drivers.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary",
+      "linkItem": "/au/driver/help/",
+      "btnText": "Learn more",
+      "btnMode": "dark",
+      "btnLink": "/au/driver/help/"
+    },
+    {
+      "title": "FAQ for Riders",
+      "desc": "Read about the more commons questions for riders.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary",
+      "linkItem": "/au/rider/help/",
+      "btnText": "Learn more",
+      "btnMode": "dark",
+      "btnLink": "/au/rider/help/"
+    }
+  ],
+  "SafetyHero.title": "Your safety comes first. Driver and Rider Safety Features.",
+  "SafetyHero.desc": "We continually improve our service and safety standards to ensure an enjoyable rideshare experience for both riders and drivers.",
+  "SafetyHero.textColor": "white",
+  "SafetyHero.btnMode": "light",
+  "SafetyDrvHero.title": "Your safety comes first. Driver Safety Features.",
+  "SafetyDrvHero.desc": "We continually improve our service and safety standards to ensure an enjoyable rideshare experience for drivers.",
+  "SafetyDrvHero.textColor": "white",
+  "SafetyDrvHero.btnMode": "light",
+  "SafetyPaxHero.title": "Your safety comes first. Rider Safety Features.",
+  "SafetyPaxHero.desc": "We continually improve our service and safety standards to ensure an enjoyable rideshare experience for riders.",
+  "SafetyPaxHero.textColor": "white",
+  "SafetyPaxHero.btnMode": "light",
+  "SafetyPaxColumns.title": "",
+  "SafetyPaxColumns.bgColor": "bg-gray-primary",
+  "SafetyPaxColumns.textColor": "white",
+  "SafetyPaxColumns.columns": [
+    {
+      "title": "EXCEEDING LOCAL GOVERNMENT REGULATIONS",
+      "desc": "DiDi enforces all local government regulations. All drivers must pass numerous document verifications and the required background checks including being accredited to drive in the state they are driving in. There are limitations in the DiDi app to how many hours a driver can be driving for to combat driver fatigue. All vehicles must not exceed the set age of the state they are driving in and must pass an initial inspection and their yearly check-ups.",
+      "bgColor": "bg-gray-primary",
+      "textColor": "white"
+    },
+    {
+      "title": "PARTNERING UP WITH LAW ENFORCEMENT",
+      "desc": "DiDi will assist law enforcement agencies with all investigation requests. Helping the police helps to keep our community safer.",
+      "bgColor": "bg-gray-primary",
+      "textColor": "white"
+    },
+    {
+      "title": "COMMUNITY GUIDELINES",
+      "desc": "We want to look out for each and every member of our community. The following guidelines are meant to ensure that drivers and riders will feel safe, respected, and at ease while using the DiDi app.",
+      "bgColor": "bg-gray-primary",
+      "textColor": "white",
+      "btnLink": "/au/blog/community-guidelines",
+      "btnText": "View Full Guidelines",
+      "btnMode": "light"
+    },
+    {
+      "title": "LISTENING TO OUR COMMUNITY",
+      "desc": "Our community is powered by self-reflection. We are always looking for opportunities to improve. We use such listening tools as regular safety surveys, our customer service channels, the Driver Advisory Council, focus groups and other research methods to ensure the features and procedures we create are fit for you. You can even click here to provide feedback!",
+      "bgColor": "bg-gray-primary",
+      "textColor": "white"
+    }
+  ],
+  "SafetyGridDuringTrip.bgColor": "bg-white",
+  "SafetyGridDuringTrip.title": "Riders Safety Features",
+  "SafetyGridDuringTrip.desc": "The safety of our users is our top priority. While you are on a DiDi trip, wherever you are going you should always know that we have your back.",
+  "SafetyGridDuringTrip.textColor": "gray-primary",
+  "SafetyGridDuringTrip.columns": [
+    {
+      "title": "SOS Button",
+      "desc": "With the tap of a button, you can contact law enforcement and emergency services. Your location details will also be shown in-app for easy reference.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Unmatch drivers",
+      "desc": "If you think that any of your drivers were not up to standard you can now unmatch with them so your trip requests are never dispatched to them again. Please remember if there was a serious incident to report it to us.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Share trip",
+      "desc": "Our live GPS tracking allows you to share your trip with your Trusted Contacts. This can be found in the Safety Toolkit.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Private Numbers",
+      "desc": "When a rider and driver contact each other regarding a trip, whether that be before or after, both phone numbers will be anonymised.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Hidden Addresses",
+      "desc": "To protect your personal information, your specific pick up and drop off addresses are hidden after the trip finishes.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Driver Screening",
+      "desc": "To ensure all DiDi driver-partners are of the highest quality, they’re required to pass a series of safety verifications and background checks prior to driving.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Facial Verification",
+      "desc": "Facial verification matches a picture of your driver against the approved profile picture to make sure that it is not someone else driving.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "TripCheck",
+      "desc": "If anything unusual is detected during your trip you will receive a notification. If there is a problem our safety toolkit and SOS button will be made available to you.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "24/7 Incident Response Team",
+      "desc": "If you ever feel unsafe during a trip, you can get in touch with our Incident Response Team for immediate assistance.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Trusted Contacts",
+      "desc": "Add your family and friends as Trusted Contacts to track your live location in a single tap.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Driver Fatigue Prevention",
+      "desc": "All DiDi driver-partners undertake compulsory safety training before they take their first trip meaning you can ride with confidence.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "TripChoice",
+      "desc": "This feature allows female driver-partners the choice to be matched with only female riders. ",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Preview Driver",
+      "desc": "You can view your  driver’s info, including their name, profile picture, and Star Rating before your ride starts. ",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Driver Education",
+      "desc": "All DiDi driver-partners undertake compulsory safety training before they take their first trip meaning you can ride with confidence.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "DiDi Sal",
+      "desc": "DiDi Sal is a new in-trip safety assistant that works together with existing safety features to help keep you safe.",
+      "bgColor": "bg-white"
+    }
+  ],
+  "SafetyGridDrv.bgColor": "bg-white",
+  "SafetyGridDrv.title": "Drivers Safety Features",
+  "SafetyGridDrv.desc": "The safety of our users is our top priority. While you are on the road it is important that you feel at ease while driving.",
+  "SafetyGridDrv.textColor": "gray-primary",
+  "SafetyGridDrv.columns": [
+    {
+      "title": "Facial Verification",
+      "desc": "Facial verification is used to secure your account against any unwanted activity. This matches a picture of you against your profile picture to make sure that it is you logging into your driver account and not someone else.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Preview Rider",
+      "desc": "Get to know your rider before accepting the trip by viewing their star rating.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Preview Destination",
+      "desc": "Before accepting a trip you can preview the destination to make sure you know where you are going at all times.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "TripCheck",
+      "desc": "If anything unusual is detected during your trip you will receive a notification. If there is a problem our safety toolkit and SOS button will be made available to you.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Share trip",
+      "desc": "Our live GPS tracking allows you to share your trip with your Trusted Contacts. This can be found in the Safety Toolkit.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Unmatch riders",
+      "desc": "If you think that any of your riders were not up to standard you can now unmatch with them so you will never receive a trip request from them again. Please remember if there was a serious incident to report it to us.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Private Numbers",
+      "desc": "When a rider and driver contact each other regarding a trip, whether that be before or after, both phone numbers will be anonymised.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "SOS button",
+      "desc": "With the tap of a button, you can contact law enforcement and emergency services. Your location details will also be shown in-app for easy reference.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "24/7 Incident Response Team",
+      "desc": "If you ever feel unsafe during a trip, you can get in touch with our Incident Response Team for immediate assistance.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Trusted Contacts",
+      "desc": "Add your family and friends as Trusted Contacts to track your live location in a single tap.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Driver Fatigue Prevention",
+      "desc": "To help keep everyone safe on the road, drivers are prompted to take a break after 13 consecutive hours of driving.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "TripChoice",
+      "desc": "This feature allows female driver-partners the choice to be matched with only female riders. ",
+      "bgColor": "bg-white"
+    }
+  ],
+  "SafetyBanner.title": "How we handle safety incidents",
+  "SafetyBanner.desc": "We take all reports of safety incidents seriously. Our dedicated 24/7 Incident Response team was designed to assist whenever required and make decisions that keep our community safe. This team has been specifically trained to handle all types of cases with fairness, empathy and care. Our 24/7 Incident Response team performs full investigations to ensure fair and logical resolutions are met.",
+  "SafetyBanner.textColor": "white",
+  "SafetyBanner.bgColor": "bg-blue-primary",
+  "HelpCenterHero.title": "Help Center",
+  "HelpCenterHero.desc": "FAQ for riders and drivers.",
+  "HelpCenterHero.textColor": "white",
+  "HelpCenterHero.btnMode": "primary",
+  "HelpCenterFAQDrv.title": "FAQ Drivers",
+  "HelpCenterFAQDrv.desc": " ",
+  "HelpCenterFAQDrv.textColor": "gray-primary",
+  "HelpCenterFAQDrv.bgColor": "bg-white",
+  "HelpCenterFAQ.title": "FAQ",
+  "HelpCenterFAQ.textColor": "gray-primary",
+  "HelpCenterFAQ.bgColor": "bg-gray-light",
+  "HelpCenterFAQPax.title": "FAQ Riders",
+  "HelpCenterFAQPax.desc": " ",
+  "HelpCenterFAQPax.textColor": "gray-primary",
+  "HelpCenterFAQPax.bgColor": "bg-gray-light",
+  "FaqList.title": "All FAQ in DiDi Australia",
+  "FaqList.desc": "Read for more information",
+  "FaqList.bgColor": "bg-white",
+  "FaqList.textColor": "gray-primary",
+  "FaqList.linkItem": "/au/help-center/{{faqSlug}}/",
+  "FaqHero.bgColor": "bg-white",
+  "FaqHero.textColor": "white",
+  "FaqHero.btnMode": "primary",
+  "ContactHero.title": "Contact Us",
+  "ContactHero.desc": "If you have a problem please contact with our support team",
+  "ContactHero.textColor": "white",
+  "ContactHero.btnMode": "primary",
+  "ContactHero.btnText": "Call Customer Support",
+  "ContactHero.btnLink": "tel:1800413678",
+  "ContactBenefits.title": "We are here to listen to you.",
+  "ContactBenefits.bgColor": "bg-white",
+  "ContactBenefits.textColor": "gray-primary",
+  "ContactBenefits.columns": [
+    {
+      "title": "What do you need?",
+      "desc": "DiDi Customer Support can assist you with any enquiries, issues, or questions you have with DiDi.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Call us",
+      "desc": "You can speak to our Customer Support Team",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Email us",
+      "desc": "Need further information, you can contact DiDi Customer Support directly via email at help.driver@au.didiglobal.com or help.rider@au.didiglobal.com ",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Urgent Contact",
+      "desc": "For any safety critical incidents, you can contact the 24/7 DiDi Incident Response Team via email at help.safety@didiglobal.com",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    }
+  ],
+  "AboutWomenDrvHero.title": "About Women Drivers",
+  "AboutWomenDrvHero.desc": "DiDi Australia’s commitment to reducing barriers for women to participate in rideshare and achieving a platform made of minimum 40% women and 40% men.",
+  "AboutWomenDrvHero.textColor": "white",
+  "AboutWomenDrvHero.btnMode": "light",
+  "AboutWomenDrvCTA.title": "Our Commitment",
+  "AboutWomenDrvCTA.bullets": [
+    "DiDi is committed to the goal of becoming a community that reflects Australia’s diverse community.",
+    "We are committed to addressing existing and new barriers that stand in the way of equal gender representation on our platform",
+    "We are committed to a culture of respect and inclusiveness",
+    "We are committed to investing in safety for driver-partners and riders on our platform."
+  ],
+  "AboutWomenDrvCTA.textColor": "gray-primary",
+  "AboutWomenDrvCTA.bgColor": "bg-white",
+  "AboutWomenDrvCTA.btnMode": "light",
+  "AboutWomenDrvBanner.title": "OUR FIVE YEAR ACTION PLAN",
+  "AboutWomenDrvBanner.desc": "DiDi Australia has embarked on an initial five-year roadmap to increase women driver numbers from less than 5% to 20%, by 2026.",
+  "AboutWomenDrvBanner.textColor": "white",
+  "AboutWomenDrvBanner.bgColor": "bg-orange-primary",
+  "AboutWomenDrvBanner.btnMode": "light",
+  "AboutWomenDrvVideo.title": "Meet the Women Drivers on the DiDi APP",
+  "AboutWomenDrvVideo.textColor": "gray-primary",
+  "AboutWomenDrvVideo.bgColor": "bg-white",
+  "AboutWomenDrvVideo.btnMode": "primary",
+  "ArticlesHero.title": "DiDi Blog",
+  "ArticlesHero.desc": "Latest news of DiDi",
+  "ArticlesHero.textColor": "white",
+  "ArticlesHero.btnMode": "light",
+  "ArticlesColumns.title": "DiDi Latest Updates",
+  "ArticlesColumns.bgColor": "bg-blue-primary",
+  "ArticlesColumns.textColor": "white",
+  "ArticlesColumns.btnText": "Read More",
+  "ArticlesColumns.btnMode": "dark",
+  "ArticlesColumns.linkItem": "/au/blog/{{article}}/",
+  "ArticleHero.textColor": "white",
+  "ArticleHero.btnMode": "light",
+  "GuidesHero.title": "Guías para Conductores Chile",
+  "GuidesHero.desc": "Te invitamos a leer nuestras guías para conductores. Abarcan diferentes temas de interés desde tipos de licencias, trámites entre otros.",
+  "GuidesHero.textColor": "white",
+  "GuidesHero.btnMode": "light",
+  "GuideHero.textColor": "white",
+  "GuideHero.btnMode": "light",
+  "GuidesColumns.title": "Guías para Socios Conductores en Chile",
+  "GuidesColumns.bgColor": "bg-blue-primary",
+  "GuidesColumns.textColor": "white",
+  "GuidesColumns.btnText": "Leer Artículo",
+  "GuidesColumns.btnMode": "dark",
+  "GuidesColumns.linkItem": "/au/guias/{{guide}}/",
+  "PartnersHero.title": "DiDi Advance",
+  "PartnersHero.desc": "Free access to a program that rewards the most committed drivers with lower services fee and bonus perks. Available in participating cities only.",
+  "PartnersHero.textColor": "white",
+  "PartnersHero.btnMode": "light",
+  "PartnersGrid.bgColor": "bg-white",
+  "PartnersGrid.title": "Exclusive Discounts & Benefits",
+  "PartnersGrid.textColor": "gray-primary",
+  "PartnersGrid.linkItem": "/au/didi-advance/{{partnerName}}/",
+  "PartnersCTA.title": "DiDi Advance",
+  "PartnersCTA.desc": "Free access to a program that rewards the most committed drivers with lower services fee and bonus perks. Available in participating cities only.",
+  "PartnersCTA.textColor": "white",
+  "PartnersCTA.bgColor": "bg-blue-primary",
+  "PartnersCTA.btnMode": "light",
+  "PartnerHero.textColor": "white",
+  "PartnerHero.bgColor": "bg-orange-primary",
+  "PartnerHero.btnMode": "light",
+  "DrvCityHero.title": "DiDi Drivers in {{city}}",
+  "DrvCityHero.desc": "Do you live in {{city}} and want some extra earnings? Sign-up and become a DiDi Driver. ",
+  "DrvCityHero.textColor": "white",
+  "DrvCityHero.bgColor": "bg-blue-primary",
+  "DrvCityHero.btnMode": "primary",
+  "RequirementHero.desc": "",
+  "RequirementHero.textColor": "white",
+  "RequirementHero.btnMode": "light",
+  "RequirementsLinks.title": "Driver Requirements per State",
+  "RequirementsLinks.desc": "Select the state you are planning to drive",
+  "RequirementsLinks.textColor": "white",
+  "RequirementsLinks.bgColor": "bg-blue-primary",
+  "RequirementsLinks.linkItem": "/au/driver/{{requirement}}/",
+  "DirectionHero.title": "Como llegar a {{destination}} desde {{origin}}",
+  "DirectionHero.desc": "Desde: {{originAddress}} | Hacia: {{destinationAddress }}",
+  "DirectionHero.textColor": "white",
+  "DirectionHero.bgColor": "bg-blue-primary",
+  "DirectionHero.btnMode": "light",
+  "CityList.title": "Ciudades en Chile",
+  "CityList.desc": "Descubre lugares para ir a visitar en Chile",
+  "CityList.bgColor": "bg-white",
+  "CityList.textColor": "gray-primary",
+  "CityList.linkItem": "/au/lugares/lugares-en-{{city}}/",
+  "PlaceMap.title": "Líneas cercanas a {{placeName}}",
+  "PlaceMap.desc": "Mejor pide un DiDi y viajarás mas seguro y  más rápido",
+  "PlaceMap.textColor": "gray-primary",
+  "PlaceMap.bgColor": "bg-white",
+  "PlaceMap.btnMode": "primary",
+  "DirectoryList.title": "Direcciones a Atracciones en {{city}}",
+  "DirectoryList.desc": "Encontraras detalle de lineas y como irte en distintos medios",
+  "DirectoryList.bgColor": "bg-white",
+  "DirectoryList.textColor": "gray-primary",
+  "DirectoryList.linkItem": "/au/lugares/como-llegar-a-{{placeName}}_{{placeAddress}}/",
+  "DirectoryOriginList.title": "Como llegar a {{placeName}} desde distintos puntos de la ciudad",
+  "DirectoryOriginList.desc": "Encontraras detalle de lineas y como irte en distintos medios",
+  "DirectoryOriginList.bgColor": "bg-white",
+  "DirectoryOriginList.textColor": "gray-primary",
+  "DirectoryOriginList.linkItem": "/au/lugares/como-llegar-a-{{destination}}-desde-{{origin}}_{{destinationAddress}}/",
+  "DirectionBanner.title": "Pide un DiDi a {{destination}} y llega en {{ carDuration }} ",
+  "DirectionBanner.desc": "Si te vas en transporte público te tomará {{duration}} en llegar. Viaja rápido, seguro y barato.",
+  "DirectionBanner.bgColor": "bg-orange-primary",
+  "DirectionBanner.textColor": "white",
+  "DirectionBanner.btnMode": "light",
+  "LegalHero.title": "Legal",
+  "LegalHero.desc": "Check our  privacy policy and other terms and conditions",
+  "LegalHero.textColor": "white",
+  "LegalHero.btnMode": "light",
+  "LegalHero.btnText": "Privacy Policy",
+  "LegalHero.linkItem": "/au/legal/privacy-policy/",
+  "StoreHero.title": "Download DiDi Rides by scanning the QR code",
+  "StoreHero.desc": "Get safe, fast and affordable rides",
+  "StoreHero.textColor": "white",
+  "StoreHero.bgColor": "bg-orange-primary",
+  "StoreHero.btnMode": "light",
+  "OffersHero.title": "DiDi Offers",
+  "OffersHero.desc": "Select you next discount for your next ride",
+  "OffersHero.textColor": "white",
+  "OffersHero.btnMode": "light",
+  "OffersGrid.title": "Select your Offer",
+  "OffersGrid.bgColor": "bg-gray-light",
+  "OffersGrid.desc": "Select you next discount",
+  "OffersGrid.textColor": "gray-primary",
+  "OffersGrid.linkItem": "/au/offers/{{offerSlug}}/",
+  "OfferHero.textColor": "white",
+  "OfferHero.bgColor": "bg-orange-primary",
+  "OfferHero.btnType": "pax",
+  "OfferHero.btnText": false,
+  "OfferHero.btnLink": false,
+  "OfferHero.btnMode": "light",
+  "OfferColumns.title": "How it works",
+  "OfferColumns.bgColor": "bg-white",
+  "OfferColumns.textColor": "gray-primary",
+  "OfferFeatures.bgColor": "bg-blue-primary",
+  "OfferFeatures.textColor": "white",
+  "OfferFeatures.btnMode": "light",
+  "OfferFeatures.btnLink": "https://web.didiglobal.com/au/offers/",
+  "OfferFeatures.btnText": "See Other Offers",
+  "DrvTaxInfoHero.title": "DiDi Tax Information",
+  "DrvTaxInfoHero.desc": "Where to find your tax information",
+  "DrvTaxInfoHero.textColor": "white",
+  "DrvTaxInfoHero.btnMode": "light",
+  "DrvTaxInfoFeatures.title": "You can find your Tax Summary in two ways.",
+  "DrvTaxInfoFeatures.bullets": [
+    "Via email – Between the 2nd and 5th of every month, we’ll email you a Tax Summary from noreply@didiglobal.com.",
+    "In the app – You can access your monthly Tax Summary after the 5th of every month. Tap Earnings > Tax Summary and Invoice. Select the month and Submit."
+  ],
+  "DrvTaxInfoFeatures.textColor": "gray-primary",
+  "DrvTaxInfoFeatures.bgColor": "bg-gray-light",
+  "DrvTaxInfoFeatures.btnMode": "primary",
+  "SBDrv.title": "DiDi Driver",
+  "SBDrv.desc": "Make Extra Money",
+  "SBPax.title": "DiDi Rider",
+  "SBPax.desc": "Affordable Rides"
+}

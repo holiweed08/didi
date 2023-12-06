@@ -1,0 +1,715 @@
+{
+  "HomeHero.title": "Movete por tu ciudad",
+  "HomeHero.textColor": "white",
+  "HomeHero.btnMode": "light",
+  "HeroCarrousel.bgColor": "bg-white",
+  "HeroCarrousel.textColor": "gray-primary",
+  "HeroCarrousel.columns": [
+    {
+      "title": "DiDi Conductor"
+    },
+    {
+      "title": "DiDi Pasajero"
+    }
+  ],
+  "SafetyCTA.title": "En DiDi, tu seguridad es nuestra prioridad",
+  "SafetyCTA.desc": "Revisá todas las funciones de seguridad que tiene nuestra app, antes, durante y después de cada viaje",
+  "SafetyCTA.textColor": "white",
+  "SafetyCTA.bgColor": "bg-blue-primary",
+  "SafetyCTA.btnText": "Saber Más",
+  "SafetyCTA.btnMode": "light",
+  "SafetyCTA.btnLink": "/ar/seguridad/",
+  "SafetyFeatures.linkItem": "/ar/seguridad/funciones/{{feature}}",
+  "DrvCTA.title": "Manejá con DiDi",
+  "DrvCTA.desc": "Conectate con nuestros servicios de autos particulares o taxi de manera más segura y empezá a generar ingresos extra con DiDi. Ahorrá para tus vacaciones soñadas, pagá la educación de tus hijos o complementá tus ingresos conectándose a una de las app de movilidad más grande del mundo en tu tiempo libre. Registrate en DiDi con tus datos y los de tu vehículo y comenzá a generar ingresos adicionales. Estarás activo entre 24 a 48 horas para que empecés a manejar.",
+  "DrvCTA.bullets": [
+    "Comisiones Bajas",
+    "Seguridad para tu Viaje",
+    "Pago Semanal"
+  ],
+  "DrvCTA.bgColor": "bg-gray-light",
+  "DrvCTA.textColor": "gray-primary",
+  "DrvCTA.btnMode": "primary",
+  "PaxCTA.title": "Viajá con DiDi por tu Ciudad",
+  "PaxCTA.desc": "La app de movilidad que te conecta con autos particulares y taxis de forma segura para que tengás un viaje increíble. Disfrutá de amplia disponibilidad, mayor cobertura, soporte 24/7 y precios bajos.",
+  "PaxCTA.bullets": [
+    "Cómodo, Rápido y Seguro",
+    "Soporte 24/7",
+    "Más de 20 funciones de seguridad"
+  ],
+  "PaxCTA.textColor": "gray-primary",
+  "PaxCTA.btnMode": "dark",
+  "PaxCTA.reverse": "true",
+  "HomeColumns.bgColor": "bg-gray-light",
+  "HomeColumns.textColor": "gray-primary",
+  "HomeColumns.columns": [
+    {
+      "title": "Acerca de Nosotros",
+      "desc": "Somos una de las app de movilidad más grande del mundo.",
+      "textColor": "gray-primary",
+      "btnText": "Saber Más",
+      "btnLink": "/ar/centro-de-ayuda/",
+      "btnMode": "light",
+      "height": "h-80"
+    },
+    {
+      "title": "Legal",
+      "desc": "Conocé nuestras políticas y términos y condiciones de uso de la app DiDi Pasajero y la app DiDi Conductor en Argentina.",
+      "textColor": "gray-primary",
+      "btnText": "Saber Más",
+      "btnLink": "/ar/legal/",
+      "btnMode": "light",
+      "height": "h-80"
+    },
+    {
+      "title": "Centro de Ayuda",
+      "desc": "Para tus consultas y solicitudes te invitamos a usar nuestro Chat en Vivo 24/7 en el menú de Ayuda de tu app DiDi Pasajero.",
+      "textColor": "gray-primary",
+      "btnText": "Saber Más",
+      "btnLink": "/ar/centro-de-ayuda/",
+      "btnMode": "light",
+      "height": "h-80"
+    }
+  ],
+  "PaxHero.title": "Conectá tu próximo viaje con DiDi Pasajero ",
+  "PaxHero.desc": "La App de movilidad en la que recibís más y viajás mejor.",
+  "PaxHero.textColor": "white",
+  "PaxHero.btnMode": "light",
+  "PaxColumns.bgColor": "bg-white",
+  "PaxColumns.textColor": "gray-primary",
+  "PaxColumns.columns": [
+    {
+      "title": "Amplia disponibilidad y cobertura",
+      "desc": "Tenemos opciones que se adaptan a tus necesidades de movilidad, ¡Encontranos en Buenos Aires!",
+      "bgColor": "white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Comodidad y Seguridad",
+      "desc": "Disfrutá de viajes tranquilos y cómodos.",
+      "bgColor": "white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Soporte 24/7 para Emergencias",
+      "desc": "Tu seguridad es nuestra prioridad, por eso contamos con soporte telefónico 24/7 para atención de emergencias. Para otras consultas te invitamos a usar nuestro Chat 24/7 en el menú de Ayuda de tu app DiDi Pasajero.",
+      "bgColor": "white",
+      "textColor": "gray-primary"
+    }
+  ],
+  "PaxWhyDiDi.title": "Por qué viajar hoy con DiDi:",
+  "PaxWhyDiDi.bullets": [
+    "Viajes a pedido. Obtené un viaje confiable en minutos, a cualquier hora y en cualquier día del año.",
+    "Opciones económicas: Cotizá los precios de todos los tipos de viaje, desde los traslados diarios hasta las salidas nocturnas.",
+    "Una forma fácil de viajar. Pedí un viaje para que llegue por vos y te lleve a destino con solo tocar un botón."
+  ],
+  "PaxWhyDiDi.desc": "Pagá tus servicios con tarjeta de crédito o efectivo. ",
+  "PaxWhyDiDi.textColor": "gray-primary",
+  "PaxWhyDiDi.bgColor": "bg-white",
+  "PaxWhyDiDi.btnMode": "primary",
+  "SliderSection.title": "Nuestros Servicios en Argentina",
+  "SliderSectionCity.title": "Nuestros Servicios en {{city}}",
+  "PaxBanner.title": "¿Querés ser conductor en DiDi?",
+  "PaxBanner.desc": "Generá Dinero y maneja tus tiempos.",
+  "PaxBanner.bgColor": "bg-orange-primary",
+  "PaxBanner.textColor": "white",
+  "PaxBanner.btnMode": "light",
+  "DrvHero.title": "Manejá con DiDi Conductor",
+  "DrvHero.desc": "Nos preocupamos por tener tasas de servicio competitivas que beneficien los ingresos de los conductores.",
+  "DrvHero.textColor": "white",
+  "DrvHero.btnMode": "light",
+  "DrvWhyDiDi.title": "Tu seguridad es nuestra prioridad. Por eso tenemos herramientas pensadas para vos:",
+  "DrvWhyDiDi.bullets": [
+    "Compartí tu viaje.",
+    "Privacidad de números telefónicos.",
+    "Desvinculá un usuario."
+  ],
+  "DrvWhyDiDi.textColor": "gray-primary",
+  "DrvWhyDiDi.btnMode": "primary",
+  "DrvColumns.textColor": "gray-primary",
+  "DrvColumns.bgColor": "bg-white",
+  "DrvColumns.columns": [
+    {
+      "title": "Manejá tus Tiempos",
+      "desc": "Flexibilidad para que manejés tu tiempo como querás",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Soporte 24/7",
+      "desc": "Contar con un equipo de soporte 24/7",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Generá Más Ganancias",
+      "desc": "Generá más ganancias con nuestras promociones",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Conocé el Destino",
+      "desc": "Conocé el destino de un viaje antes de aceptarlo.",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Driver Center",
+      "desc": "Visitá nuestro centro de atención.",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Constante Mejora",
+      "desc": "Accedé a soluciones automáticas dentro de la app",
+      "textColor": "gray-primary"
+    }
+  ],
+  "DrvVideoGrid.bgColor": "bg-blue-primary",
+  "DrvVideoGrid.title": "¿Cómo Registrarse como Conductor?",
+  "DrvVideoGrid.textColor": "white",
+  "DrvVideoGrid.columns": [
+    {
+      "title": "Seguí estos pasos para empezar a manejar y generar ingresos",
+      "bgColor": "bg-blue-primary",
+      "videoSrc": "https://www.youtube.com/embed/Es6Wtg_2Vas"
+    }
+  ],
+  "Requirements.title": "Requerimientos para ser Conductor",
+  "Requirements.bgColor": "bg-gray-light",
+  "Requirements.textColor": "bg-white",
+  "DrvBanner.title": "Tenemos expertos para ayudarte a completar tu registro y responder a cualquier duda que tengás",
+  "DrvBanner.desc": "Conocé todo sobre DiDi.",
+  "DrvBanner.bgColor": "bg-orange-primary",
+  "DrvBanner.textColor": "white",
+  "DrvBanner.btnMode": "light",
+  "DrvFeatures.title": "Te damos la mejor experiencia. En nuestra App podés:",
+  "DrvFeatures.bullets": [
+    "Ver el destino de todos tus viajes las 24 horas.",
+    "Ganá más ingresos con nuestras promociones y referidos.",
+    "Flexibilidad para que manejés tu tiempo como querás, además de herramientas que te ayudan a sacarle provecho a la aplicación cuando estás conectado.",
+    "Apoyarte en nuestro equipo que está siempre listo para ayudarte. 7 días de la semana, 24 horas al día."
+  ],
+  "DrvFeatures.textColor": "gray-primary",
+  "DrvFeatures.bgColor": "bg-gray-light",
+  "DrvFeatures.btnMode": "primary",
+  "DrvCityList.title": "Operamos en las siguientes ciudades de Argentina",
+  "DrvCityList.desc": "Descubrí las ciudades de Argentina donde esta operando DiDi",
+  "DrvCityList.bgColor": "bg-white",
+  "DrvCityList.textColor": "gray-primary",
+  "DrvCityList.linkItem": "/ar/conductor/conductor-en-{{city}}/",
+  "DrvMotoHero.title": "Aumentá tus Ganancias con DiDi Moto",
+  "DrvMotoHero.desc": "Registrate en DiDi Moto y comenzá ya a generar ganancias cuando más te convenga.",
+  "DrvMotoHero.textColor": "white",
+  "DrvMotoHero.btnMode": "light",
+  "TaxiHero.title": "DiDi Taxi",
+  "TaxiHero.desc": "Los taxis de siempre con la tecnología DiDi. Recibí pedidos de viaje a través de la app o recogé a los usuarios en la calle y conectá el viaje a través de DiDi Taxi.",
+  "TaxiHero.textColor": "white",
+  "TaxiHero.btnMode": "primary",
+  "TaxiWhyDiDi.title": "Recibí pedidos a través de la app o recoge a los pasajeros conectando el viaje con DiDi Taxi",
+  "TaxiWhyDiDi.bullets": [
+    "¿Ya está registrado como DiDi Taxista? Registrate online y te explicamos cómo se usa la App.",
+    "¿Ya hiciste viajes como DiDi Taxista? No olvidés registrar tu cuenta bancaria y recibí tu pago.",
+    "¿Más dudas? Tenemos expertos listos para ayudarle a completar tu registro y responder cualquier duda que tengás."
+  ],
+  "TaxiWhyDiDi.textColor": "gray-primary",
+  "TaxiWhyDiDi.btnMode": "primary",
+  "KnowMoreBanner.title": "¿Aún tenés dudas?",
+  "KnowMoreBanner.desc": "Conocé todo sobre DiDi.",
+  "KnowMoreBanner.bgColor": "bg-orange-primary",
+  "KnowMoreBanner.textColor": "white",
+  "KnowMoreBanner.btnText": "Saber Más",
+  "KnowMoreBanner.btnLink": "/ar/centro-de-ayuda/",
+  "KnowMoreBanner.btnMode": "light",
+  "FleetHero.title": "DiDi Fleet: Dejá que tu auto facture por vos.",
+  "FleetHero.desc": "Vos ponés el auto y DiDi Fleet te ayuda a encontrar un conductor para alquilarlo y generar ganancias.",
+  "FleetHero.textColor": "white",
+  "FleetHero.btnMode": "light",
+  "FleetSocioCTA.title": "Generá en promedio $364.000* alquilando tu auto",
+  "FleetSocioCTA.desc": "Generá en promedio $364.000* alquilando tu auto por mes y recibí hasta $100.000** EXTRA por cada auto que alquiles en la app y que complete el número de viajes requerido en el tiempo establecido de la promoción.\n *Alquiler promedio de vehículos en la app de Fleet en Argentina \n **Aplica T&Cs / Solo aplica para carros nuevos en la app de DiDi",
+  "FleetSocioCTA.btnText": "Conocé Más",
+  "FleetSocioCTA.btnLink": "#",
+  "FleetSocioCTA.btnMode": "dark",
+  "FleetSafety.title": "Con DiDi Fleet podés:",
+  "FleetSafety.desc": "",
+  "FleetSafety.bullets": [
+    "Generar ganancias  alquilando tu auto a un usuario conductor verificado y de confianza.",
+    "Rentarle tu carro a un usuario conductor que cuenta con verificación de antecedentes y cuya identidad es verificada mediante reconocimiento facial.",
+    "Monitorear los viajes que hayan completado los autos que alquilas.",
+    "¡Estar tranquilo! Tu auto y el usuario conductor cuentan con +20 funciones de seguridad.",
+    "Encontrar un usuario conductor con 5 estrellas y experiencia para alquilarle tu auto"
+  ],
+  "FleetSafety.bgColor": "bg-blue-primary",
+  "FleetSafety.textColor": "white",
+  "FleetRegistraAutos.title": "Con DiDi Fleet podés:",
+  "FleetRegistraAutos.desc": "",
+  "FleetRegistraAutos.bullets": [
+    "Generar en promedio $364.000* rentando tu auto por mes",
+    "Alquilar tu auto mientras estudiás o trabajás.",
+    "Recibir promociones exclusivas en cualquier momento.",
+    "Administrar las ganancias de los viajes completados con tu auto."
+  ],
+  "FleetRegistraAutos.bgColor": "bg-gray-light",
+  "FleetRegistraAutos.textColor": "gray-primary",
+  "FleetAgregaCTA.title": "Agregá conductores a tu flota DiDi",
+  "FleetAgregaCTA.desc": "Una vez que tu auto o tus autos se encuentren aprobados, podrás agregar conductores haciendo click en la sección de “Conductores” dentro de tu app DiDi Fleet.\n ¿No conocés conductores para tu flota? \n No te preocupes, hacé click acá y empezá a conectar con conductores previamente seleccionados listos para conducir.",
+  "FleetAgregaCTA.btnMode": "primary",
+  "FleetAgregaCTA.btnText": "Conectar con conductores",
+  "FleetAgregaCTA.btnLink": "https://page.linkeeglobal.com/global/quickbolt/page/online/f59e140d7477f4b7a7bf122ceda64151.html",
+  "FleetWhyDiDi.title": "Beneficios de DiDi Fleet",
+  "FleetWhyDiDi.bullets": [
+    "Te conectamos con un socio conductor potencial. Verificamos todos los antecedentes de los socios durante su proceso de registro.",
+    "¡Generá ganancias sin salir de casa! Además, aprovechá una de las tasas de servicio más bajas del mercado.",
+    "¡Contás con soporte 24/7! y todas las funciones de seguridad DiDi.",
+    "Monitorea los ingresos de las solicitudes generadas con tu vehículo y recibí los pagos con tarjeta de crédito directamente en tu app."
+  ],
+  "FleetWhyDiDi.textColor": "gray-primary",
+  "FleetWhyDiDi.btnMode": "primary",
+  "AboutDidiFleetVideo.title": "Mirá el video y conocé cómo funciona DiDi Fleet",
+  "AboutDidiFleetVideo.video": "https://www.youtube.com/embed/XbfHvQlFKlY",
+  "AboutDidiFleetVideo.textColor": "gray-primary",
+  "AboutDidiFleetVideo.bgColor": "bg-gray-light",
+  "FleetColumns.bgColor": "bg-blue-primary",
+  "FleetColumns.title": "Beneficios de DiDi Fleet",
+  "FleetColumns.textColor": "white",
+  "FleetColumns.columns": [
+    {
+      "title": "1) Descargá DiDi Fleet",
+      "desc": "Verificamos todos los antecedentes de los socios durante su proceso de registro.",
+      "textColor": "white"
+    },
+    {
+      "title": "2) Subí tus documentos ",
+      "desc": "Cédula de identidad",
+      "textColor": "white"
+    },
+    {
+      "title": "3) Agregá tus autos",
+      "desc": "Para subirlos a tu flotilla necesitarás los siguientes documentos para cada auto: Licencia de conducir, Certificado de antecedentes penales, Cédula de identificación de vehículos y Seguro del automotor",
+      "textColor": "white"
+    },
+    {
+      "title": "4) Seleccioná un conductor para alquilarle tu auto a través de la app",
+      "desc": "Ingresando al menú de conductores pulsando en buscar conductores",
+      "textColor": "white"
+    }
+  ],
+  "FleetStepsColumns.bgColor": "white",
+  "FleetStepsColumns.columns": [
+    {
+      "desc": "Registrate como socio aliado y completá tus documentos",
+      "textColor": "gray-primary"
+    },
+    {
+      "desc": "Invitá a otros socios a registrarse como parte de tu grupo",
+      "textColor": "gray-primary"
+    },
+    {
+      "desc": "¡Estás listo para empezar a administrar tus vehículos!",
+      "textColor": "gray-primary"
+    }
+  ],
+  "DownloadFleetCTA.title": "¿Cómo te registrás en DiDi Fleet?",
+  "DownloadFleetCTA.desc": "Descargá DiDi Fleet",
+  "DownloadFleetCTA.textColor": "gray-primary",
+  "DownloadFleetCTA.bgColor": "bg-gray-light",
+  "DownloadFleetCTA.btnMode": "primary",
+  "AboutHero.title": "¿Tenés preguntas sobre DiDi?",
+  "AboutHero.desc": "Revisá nuestra sección de seguridad y preguntas frecuentes. Tanto si sos pasajero o conductor podrás encontrar respuestas.",
+  "AboutHero.textColor": "white",
+  "AboutHero.btnMode": "light",
+  "AboutColumns.bgColor": "bg-blue-primary",
+  "AboutColumns.title": "Información útil para usuarios y conductores",
+  "AboutColumns.textColor": "white",
+  "AboutColumns.columns": [
+    {
+      "title": "Seguridad de Usuarios y Conductores",
+      "desc": "En DiDi nos preocupa mucho tu seguridad. Aprendé sobre todas las opciones de seguridad que tenés.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary",
+      "linkItem": "/ar/seguridad/",
+      "btnText": "Saber Más",
+      "btnMode": "dark",
+      "btnLink": "/ar/seguridad/"
+    },
+    {
+      "title": "Preguntas Frecuentes",
+      "desc": "Juntamos las principales preguntas de usuarios y conductores para que podás informarte.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary",
+      "linkItem": "/ar/centro-de-ayuda/",
+      "btnText": "Saber Más",
+      "btnMode": "dark",
+      "btnLink": "/ar/centro-de-ayuda/"
+    }
+  ],
+  "SafetyHero.title": "En DiDi tu seguridad es nuestra prioridad",
+  "SafetyHero.desc": "Conocé aquí las funcionalidades de seguridad que hemos tomado para que tu próximo viaje lo disfrutes.",
+  "SafetyHero.textColor": "white",
+  "SafetyHero.btnMode": "light",
+  "SafetyGridBeforeTrip.bgColor": "bg-white",
+  "SafetyGridBeforeTrip.title": "Antes del Viaje",
+  "SafetyGridBeforeTrip.textColor": "gray-primary",
+  "SafetyGridBeforeTrip.columns": [
+    {
+      "title": "Verificación de Socios Conductores",
+      "desc": "Para que una persona pueda registrarse como socio conductor o socio taxista en DiDi, debe pasar por una serie de validaciones de documentos personales.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Reconocimiento Facial de Socios Conductores",
+      "desc": "Esta función verifica de manera aleatoria que el socio conductor que se conecta a la app sea el mismo registrado en el sistema a través de una selfie.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Selfie para usuarios",
+      "desc": "Nuestra app solicita una selfie de seguridad al usuario de manera aleatoria antes de solicitar un viaje. Esta no se comparte con ningún socio conductor.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Información del viaje",
+      "desc": "Antes de que te subás al auto, la app te mostrará el nombre, la foto del socio conductor, número de viajes, calificación y los datos del vehículo.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Privacidad de números telefónicos",
+      "desc": "En DiDi protegemos tu número telefónico y tus datos personales. Las llamadas realizadas entre usuarios y socios conductores usando la aplicación NO mostrarán tu número real.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Contactos de confianza",
+      "desc": "Podés elegir hasta cinco personas de tus contactos para compartirles tus viajes en tiempo real.",
+      "bgColor": "bg-white"
+    }
+  ],
+  "SafetyGridDuringTrip.bgColor": "bg-orange-primary",
+  "SafetyGridDuringTrip.title": "Durante del Viaje",
+  "SafetyGridDuringTrip.desc": false,
+  "SafetyGridDuringTrip.textColor": "white",
+  "SafetyGridDuringTrip.columns": [
+    {
+      "title": "Botón de Emergencia",
+      "desc": "Durante cualquier situación inesperada en tu viaje, podés presionar el botón de servicios de emergencia en la app, el cual te conecta directamente con el 911.",
+      "bgColor": "bg-orange-primary"
+    },
+    {
+      "title": "Compartir Viaje",
+      "desc": "En DiDi podés compartir tu ubicación en tiempo real con cualquier persona que vos elijás.",
+      "bgColor": "bg-orange-primary"
+    },
+    {
+      "title": "Monitoreo de viaje en tiempo real",
+      "desc": "Rastreamos por GPS todos los viajes hacés, en caso de un incidente, podamos reaccionar de forma inmediata.",
+      "bgColor": "bg-orange-primary"
+    }
+  ],
+  "SafetyGridAfterTrip.bgColor": "bg-gray-light",
+  "SafetyGridAfterTrip.title": "Al Finalizar el Viaje",
+  "SafetyGridAfterTrip.textColor": "gray-primary",
+  "SafetyGridAfterTrip.columns": [
+    {
+      "title": "Objetos perdidos",
+      "desc": "¿Olvidaste algo en el vehículo? Con DiDi podés contactar directamente al socio conductor para acordar la devolución.",
+      "bgColor": "bg-gray-light"
+    },
+    {
+      "title": "Soporte 24/7",
+      "desc": "Contamos con un equipo calificado para apoyarte durante una emergencia. Nuestro Centro tiene comunicación directa con las autoridades y sus diferentes redes de apoyo.",
+      "bgColor": "bg-gray-light"
+    },
+    {
+      "title": "Calificá a tu Socio Conductor",
+      "desc": "Calificá a tu conductor después de cada viaje y, si deseas, puedes darle un pago extra. Esto ayuda a retroalimentar el sistema y mantener la seguridad en la comunidad de usuarios y socios conductores.",
+      "bgColor": "bg-gray-light"
+    },
+    {
+      "title": "Bloqueá un Socio Conductor",
+      "desc": "Si sentís que la experiencia en tu recorrido no fue buena, al terminar el viaje, en el menú de calificación, encontrarás el botón de desvinculación de socio conductor/ socio taxista. Esto evitará que, en futuras oportunidades, vuelvas a tener viajes con este socio conductor / socio taxista en particular.",
+      "bgColor": "bg-gray-light"
+    }
+  ],
+  "SafetyGridDrv.bgColor": "bg-white",
+  "SafetyGridDrv.title": "Además, si sos un Socio Conductor/Taxista",
+  "SafetyGridDrv.desc": false,
+  "SafetyGridDrv.textColor": "gray-primary",
+  "SafetyGridDrv.columns": [
+    {
+      "title": "Zonas de seguridad para Socios Conductores",
+      "desc": "Pensando en tu seguridad, tenemos identificadas zonas de riesgo en las cuales la conectividad de la app no está habilitada.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Cancelá viajes en zonas de alto riesgo",
+      "desc": "Si recibís una solicitud de viaje en una zona de alto riesgo, cancelá el viaje sin penalidad.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Bloqueá un usuario",
+      "desc": "Si sos socio conductor y no deseas que la plataforma te vuelva a conectar con el pasajero de tu último viaje, podrás usar la opción desvinculación de usuario. Esto evitará que futuros viajes coincidan con esa persona.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Información del usuario",
+      "desc": "Si sos socio conductor/taxista, la aplicación te mostrará quién es el pasajero y podrás ver todos los detalles antes de iniciar el viaje, incluso el destino al que se dirige.",
+      "bgColor": "bg-white"
+    }
+  ],
+  "HelpCenterHero.title": "Centro de Ayuda",
+  "HelpCenterHero.desc": "Conocé las principales preguntas que nos hacen pasajeros y socios conductores",
+  "HelpCenterHero.textColor": "white",
+  "HelpCenterHero.btnMode": "primary",
+  "HelpCenterFAQDrv.title": "Preguntas Socios Conductores",
+  "HelpCenterFAQDrv.desc": "",
+  "HelpCenterFAQDrv.textColor": "gray-primary",
+  "HelpCenterFAQDrv.bgColor": "bg-white",
+  "HelpCenterFAQPax.title": "Preguntas Pasajeros",
+  "HelpCenterFAQPax.desc": "",
+  "HelpCenterFAQPax.textColor": "gray-primary",
+  "HelpCenterFAQPax.bgColor": "bg-gray-light",
+  "FaqList.title": "Todas las preguntas frecuentes en DiDi Argentina",
+  "FaqList.desc": "Leer para más información",
+  "FaqList.bgColor": "bg-white",
+  "FaqList.textColor": "gray-primary",
+  "FaqList.linkItem": "/ar/centro-de-ayuda/{{faqSlug}}/",
+  "FaqHero.bgColor": "bg-white",
+  "FaqHero.textColor": "white",
+  "FaqHero.btnMode": "primary",
+  "ContactHero.title": "Contactanos",
+  "ContactHero.desc": "Si tuviste algún problema, por favor comunicate con nuestro equipo de atención.",
+  "ContactHero.textColor": "white",
+  "ContactBenefits.title": "Contacto",
+  "ContactBenefits.bgColor": "bg-white",
+  "ContactBenefits.textColor": "gray-primary",
+  "ContactBenefits.columns": [
+    {
+      "title": "Conductor",
+      "desc": "Si sos conductor, llamá al +54 (11) 3987-6342 para que podamos resolver tus consultas de manera personalizada.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Driver Center",
+      "desc": "Si sos conductor, te podés acercar al Driver Center para tener una atención especializada y exclusiva para conductores. Dirección: Loyola 501, Villa Crespo, CABA.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Pasajero",
+      "desc": "Para tus consultas y solicitudes te invitamos a usar nuestro Chat en Vivo 24/7 en el menú de Ayuda de tu app DiDi Pasajero.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Prensa",
+      "desc": "Si formás parte de la prensa argentina, podés contactarnos a través del siguiente mail: argentinaprensa@didiglobal.com",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    }
+  ],
+  "ArticlesHero.title": "DiDi Artículos",
+  "ArticlesHero.desc": "Enterate de lugares interesantes y divertidos de ir a visitar. Tomá un DiDi para viajar barato y seguro.",
+  "ArticlesHero.textColor": "white",
+  "ArticlesHero.btnMode": "light",
+  "NewsroomHero.title": "DiDi Newsroom",
+  "NewsroomHero.desc": "En esta sección destacaremos las principales comunicaciones de DiDi",
+  "NewsroomHero.textColor": "white",
+  "NewsroomHero.btnMode": "light",
+  "ArticlesColumns.title": "DiDi Artículos de Lugares para Visitar en Argentina",
+  "ArticlesColumns.bgColor": "bg-blue-primary",
+  "ArticlesColumns.textColor": "white",
+  "ArticlesColumns.btnText": "Leer Artículo",
+  "ArticlesColumns.btnMode": "dark",
+  "ArticlesColumns.linkItem": "/ar/articulos/{{article}}/",
+  "NewsroomColumns.title": "Comunicados Oficiales DiDi",
+  "NewsroomColumns.bgColor": "bg-blue-primary",
+  "NewsroomColumns.textColor": "white",
+  "NewsroomColumns.btnText": "Leer Comunicado",
+  "NewsroomColumns.btnMode": "dark",
+  "NewsroomColumns.linkItem": "/ar/newsroom/{{article}}/",
+  "ArticleHero.textColor": "white",
+  "ArticleHero.btnMode": "light",
+  "GuidesHero.title": "Guías para Conductores Argentina",
+  "GuidesHero.desc": "Te invitamos a leer nuestras guías para conductores.",
+  "GuidesHero.textColor": "white",
+  "GuidesHero.btnType": "drv",
+  "GuidesHero.btnMode": "light",
+  "GuideHero.textColor": "white",
+  "GuideHero.btnMode": "light",
+  "GuidesColumns.title": "Guías para Socios Conductores en Argentina",
+  "GuidesColumns.bgColor": "bg-blue-primary",
+  "GuidesColumns.textColor": "white",
+  "GuidesColumns.btnText": "Leer Artículo",
+  "GuidesColumns.btnMode": "dark",
+  "GuidesColumns.linkItem": "/ar/guias/{{guide}}/",
+  "DrvCityHero.title": "Socios Conductores en {{city}}",
+  "DrvCityHero.desc": "¿Querés convertirte en Socio Conductor DiDi en {{city}}?. Registrate online. ",
+  "DrvCityHero.textColor": "white",
+  "DrvCityHero.bgColor": "bg-blue-primary",
+  "DrvCityHero.btnMode": "primary",
+  "DrvCityOffice.title": "Driver Center {{city}}",
+  "DrvCityOffice.desc": "Dirección: {{officeAddress}} {{officePhone}}",
+  "DrvCityOffice.textColor": "gray-primary",
+  "DrvCityOffice.bgColor": "bg-white",
+  "DrvCityOffice.btnMode": "primary",
+  "DirectionHero.title": "Como llegar a {{destination}} desde {{origin}}",
+  "DirectionHero.desc": "Desde: {{originAddress}} | Hacia: {{destinationAddress}}",
+  "DirectionHero.textColor": "white",
+  "DirectionHero.bgColor": "bg-blue-primary",
+  "DirectionHero.btnMode": "light",
+  "CityList.title": "Ciudades en Argentina",
+  "CityList.desc": "Descubre lugares para ir a visitar en Argentina",
+  "CityList.bgColor": "bg-white",
+  "CityList.textColor": "gray-primary",
+  "CityList.linkItem": "/ar/lugares/lugares-en-{{city}}/",
+  "PlaceMap.title": "Líneas cercanas a {{placeName}}",
+  "PlaceMap.desc": "Mejor pide un DiDi y viajarás mas seguro y  más rápido",
+  "PlaceMap.textColor": "gray-primary",
+  "PlaceMap.bgColor": "bg-white",
+  "PlaceMap.btnMode": "primary",
+  "DirectoryList.title": "Direcciones a Atracciones en {{city}}",
+  "DirectoryList.desc": "Encontraras detalle de lineas y como moverte en distintos medios",
+  "DirectoryList.bgColor": "bg-white",
+  "DirectoryList.textColor": "gray-primary",
+  "DirectoryList.linkItem": "/ar/lugares/como-llegar-a-{{placeName}}_{{placeAddress}}/",
+  "DirectoryOriginList.title": "Como llegar a {{placeName}} desde distintos puntos de la ciudad",
+  "DirectoryOriginList.desc": "Encontrá detalles de lineas y de como irte en distintos medios",
+  "DirectoryOriginList.bgColor": "bg-white",
+  "DirectoryOriginList.textColor": "gray-primary",
+  "DirectoryOriginList.linkItem": "/ar/lugares/como-llegar-a-{{destination}}-desde-{{origin}}_{{destinationAddress}}/",
+  "DirectionBanner.title": "Pide un DiDi a {{destination}} y llega en {{carDuration}} ",
+  "DirectionBanner.desc": "Si te vas en transporte público te tomará {{duration}} en llegar. Viaja rápido, seguro y barato.",
+  "DirectionBanner.bgColor": "bg-orange-primary",
+  "DirectionBanner.textColor": "white",
+  "DirectionBanner.btnMode": "light",
+  "LegalHero.title": "Revisá nuestros Términos y Condiciones",
+  "LegalHero.desc": "Revisá nuestra sección de términos y condiciones además de nuestras política de privacidad.",
+  "LegalHero.textColor": "white",
+  "LegalHero.btnMode": "light",
+  "LegalHero.linkItem": "/ar/legal/terminos-y-condiciones/",
+  "LegalCTA.title": "Revisá nuestra Políticas de Privacidad",
+  "LegalCTA.desc": "Revisa en qué consiste nuestras políticas de privacidad",
+  "LegalHero.btnText": "Términos y Condiciones",
+  "LegalCTA.textColor": "gray-primary",
+  "LegalCTA.btnMode": "dark",
+  "StoreHero.title": "Escaneá el QR con tu celular ",
+  "StoreHero.desc": "Descargá DiDi Pasajero escaneando el código con tu celular",
+  "StoreHero.textColor": "white",
+  "StoreHero.bgColor": "bg-orange-primary",
+  "StoreHero.btnMode": "light",
+  "StoreFleetHero.title": "Escaneá el QR con tu celular ",
+  "StoreFleetHero.desc": "Descargá DiDi Fleet escaneando el código con tu celular",
+  "StoreFleetHero.textColor": "white",
+  "StoreFleetHero.bgColor": "bg-orange-primary",
+  "StoreFleetHero.btnMode": "light",
+  "SBDrv.title": "DiDi Conductor",
+  "SBDrv.desc": "Ganancias Extras",
+  "SBPax.title": "DiDi Pasajero",
+  "SBPax.desc": "Pedí un Viaje",
+  "RequirementHero.title": "Requisitos para registrarte como conductor o socio flotilla",
+  "RequirementHero.desc": "Elegí cuando conectarte, genera ingresos y conectate con confianza con nuestro soporte 24/7.",
+  "RequirementHero.btnMode": "primary",
+  "RequirementHero.textColor": "white",
+  "DrvRequirementColumns.title": "",
+  "DrvRequirementColumns.columns": [
+    {
+      "title": "Socio conductor: Tengo vehiculo y quiero conducir",
+      "desc": "1) Descargá DiDi Conductor \n 2) Subí tus documentos: Licencia de conducir \n 3) Registrá tu vehículo: Cédula de identificación de vehículos y seguro del automotor. El vehículo debe ser modelo 2004 en adelante \n 4) La aprobación de tus documentos puede tomar de 24 a 72 horas"
+    },
+    {
+      "title": "Socio Flotilla: Tengo vehiculo y quiero que alguien más conduzca:",
+      "desc": "1) Descargá DiDi Fleet \n 2) Subí tus documentos: Cedula de identidad \n 3) Agregá tus coches con los siguientes documentos: Cédula de identificación de vehículos, seguro del automotor. El vehículo debe ser modelo 2004 en adelante \n 4) Seleccioná un conductor para alquilarle tu coche a través de la app ingresando al menú de conductores pulsando en buscar conductores \n 5) La aprobación de tus documentos puede tomar de 24 a 72 horas"
+    },
+    {
+      "title": "Conductor: Quiero conducir y no tengo vehículo",
+      "desc": "1) Descargá DiDi Conductor \n 2) Subí tus documentos: Licencia de Conducir \n 3) La aprobación de tus documentos puede tomar de 24 a 72 horas"
+    },
+    {
+      "title": "Conductor: Taxi",
+      "desc": "1) Descargá DiDi Conductor \n 2) Subí tus documentos: Licencia de conducir \n 3) Registrá tu vehículo: Certificado de antecedentes penales, cédula de identificación de vehículos, seguro del automotor y licencia taximetro. El vehículo debe ser modelo 2009 en adelante \n 4) La aprobación de tus documentos puede tomar de 24 a 72 horas"
+    },
+    {
+      "title": "Conductor: Moto",
+      "desc": "1) Descarga DiDi Conductor \n 2) Sube tus documentos: Licencia de conducir \n 3) Registra tu vehículo: Cédula de identificación de vehículos y seguro del automotor. El vehículo debe ser modelo 2012 en adelante. La Moto debe contar con un cilindraje minimo de 100cc \n 4) La aprobación de tus documentos puede tomar de 24 a 72 horas"
+    }
+  ],
+  "VehicleRequirementCTA.title": "Requisitos del vehículo",
+  "VehicleRequirementCTA.desc": "Para aceptar un vehículo tendrá que estar en buen estado físico (sin daños estéticos), contar con 4 puertas, aire acondicionado y bolsas de aire, así como cumplir con los años de antigüedad mínimos en tu ciudad. \n Para conocer la regulación aplicable en tu ciudad comunícate al 800 725 8888 o envía un correo a help.driver@mx.didiglobal.com. \n • Tarjeta de circulación \n • Póliza de seguro del auto \n • Registro Federal de Contribuyentes (RFC)",
+  "BankInfoCTA.title": "Actualiza tu información bancaria",
+  "BankInfoCTA.desc": "Queremos ayudarte a actualizar tus datos, sigue los siguientes pasos dentro de la app: \n 1. Haz clic en tu perfil y después en tu nombre \n 2. Haz clic en cuenta bancaria \n 3. Da clic en “Agregar” \n 4. Ingresa todos los datos solicitados en los espacios y da clic en “Enviar” \n 5. Verifica que tus datos sean correctos y da clic en “Confirmar”",
+  "BankInfoCTA.bgColor": "bg-gray-light",
+  "FindInfoCTA.title": "Encuentra tu centro DiDi más cercano",
+  "FindInfoCTA.desc": "Si tienes alguna duda, visítanos en nuestro Centro DiDi o contáctanos a través de: \n • Línea de atención 24/7 800 725 8888 \n • Escríbenos al correo help.driver@mx.didiglobal.com",
+  "LostItemsBanner.title": "¿Olvidaste un objeto en el vehículo?",
+  "LostItemsBanner.desc": "Da clic en el botón de abajo, dirígete a Preguntas Pasajeros > Inconvenientes con un arrendamiento  y en la sección Olvidé un objeto en el vehículo llena el formulario para poder ayudarte",
+  "LostItemsBanner.bgColor": "bg-blue-primary",
+  "LostItemsBanner.textColor": "white",
+  "LostItemsBanner.btnMode": "light",
+  "LostItemsBanner.btnText": "Cómo Recuperarlo",
+  "LostItemsBanner.btnLink": "/ar/centro-de-ayuda/#inconvenientes-con-un-arrendamiento",
+  "VikingSection.vikingColOne.title": "Pa'l",
+  "VikingSection.vikingColOne.subTitle": "apuro",
+  "VikingSection.vikingColOne.btnText": "Descarga DiDi Pasajero",
+  "VikingSection.vikingColOne.btnLink": "",
+  "VikingSection.vikingColOne.btnType": "pax",
+  "VikingSection.vikingColOne.btnMode": "light",
+  "VikingSection.vikingColOne.bgColor": "",
+  "VikingSection.vikingColOne.textColor": "text-blue-primary",
+  "VikingSection.hasTwoColumns": false,
+  "VikingSection.vikingFooter.text": "Lo bueno es que hay DiDi",
+  "VehicleSection.title": "Genera ganancias en DiDi Conductor",
+  "VehicleSection.bgColor": "bg-gray-light",
+  "VehicleSection.subTitle": "¿Tienes vehículo de?",
+  "VehicleSection.vehicles": [
+    {
+      "text": "4 ruedas",
+      "image": "/car.png"
+    },
+    {
+      "text": "2 ruedas",
+      "image": "/motorcycle.png"
+    }
+  ],
+  "PaxCTAApp.title": "La nueva app de DiDi Conductor",
+  "PaxCTAApp.desc": "",
+  "PaxCTAApp.bullets": [
+    "Más claridad en tus ganancias",
+    "Personalizá la forma en la que ves tus ingresos",
+    "Fácil de usar"
+  ],
+  "VehicleSection.bulletTitle": "Hay un DiDi para ti.",
+  "VehicleSection.bulletDesc": "Contamos con diferentes modalidades de acuerdo a tus necesidades:",
+  "VehicleSection.bulletFooter": "Completa tu processo de registro en linea.",
+  "VehicleSection.bulletsCar": ["Express", "Fleet", "Taxi"],
+  "VehicleSection.bulletsMotorcycle": ["Moto"],
+  "VehicleSection.btnType": "drv",
+  "VehicleSection.btnMode": "primary",
+  "DiDiAmigoHero.title": "DiDi Amigo",
+  "DiDiAmigoHero.desc": "Referí conductores, aunque no seas uno, para generar ganancias. Vos referís, ellos manejan, todos ganan.",
+  "DiDiAmigoHero.textColor": "white",
+  "DiDiAmigoHero.btnText": "Regístrate Ahora",
+  "DiDiAmigoHero.btnLink": "https://page.didiglobal.com/ibt/promoter/index.html?lang=es-419&location_country=AR&byPromoterPersonTool=1#/driver",
+  "DiDiAmigoHero.btnMode": "light",
+  "DiDiAmigoColumns.title": "¿Cómo generar ganancias con DiDi amigo?",
+  "DiDiAmigoColumns.bgColor": "bg-gray-light",
+  "DiDiAmigoColumns.textColor": "gray-primary",
+  "DiDiAmigoColumns.columns": [
+    {
+      "title": "Regístrate"
+    },
+    {
+      "title": "Referí"
+    },
+    {
+      "title": "Generá ganancias"
+    }
+  ],
+  "DiDiAmigoLegal.title": "Conocé los avisos de privacidad.",
+  "DiDiAmigoLegal.desc": "Leé atentamente las condiciones antes de referir.",
+  "DiDiAmigoLegal.textColor": "white",
+  "DiDiAmigoLegal.bgColor": "bg-orange-primary",
+  "DiDiAmigoLegal.btnMode": "light",
+  "DiDiAmigoLegal.btnText": "Términos y condiciones",
+  "DiDiAmigoLegal.btnLink": "https://privacycenter.didiglobal.com/AR/privacy-notice/2fc1f1dd95289a395c91245028383bed/Argentina",
+  "DiDiAmigoBanner.title": "Comenzá a referir ahora.",
+  "DiDiAmigoBanner.desc": "Comenzá tu proceso de registro.",
+  "DiDiAmigoBanner.textColor": "white",
+  "DiDiAmigoBanner.bgColor": "bg-blue-primary",
+  "DiDiAmigoBanner.btnMode": "light",
+  "DiDiAmigoBanner.btnText": "Registrate ahora",
+  "DiDiAmigoBanner.btnLink": "https://page.didiglobal.com/ibt/promoter/index.html?lang=es-419&location_country=AR&byPromoterPersonTool=1#/driver"
+}

@@ -1,0 +1,829 @@
+{
+  "FoodHero.title": "DiDi Food Combos \n desde $99 m.n.",
+  "FoodHero.desc": "Te llevamos los platillos de tu restaurante favorito hasta tu puerta.",
+  "FoodHero.textColor": "white",
+  "FoodHero.btnMode": "light",
+  "FoodColumns.bgColor": "bg-white",
+  "FoodColumns.columns": [
+    {
+      "title": "Amplia disponibilidad y cobertura",
+      "desc": "Tenemos opciones que se adaptan a tus necesidades de movilidad, ¡encuéntranos ahora en todo México!",
+      "bgColor": "bg-orange-primary",
+      "textColor": "white"
+    },
+    {
+      "title": "Ordena sin complicaciones",
+      "desc": "¿Tienes ganas de una hamburguesa, pizza o sushi? Con DiDi Food ordenar es fácil y rápido. ¿No tienes efectivo? No te preocupes, también puedes pagar con tarjeta de crédito. Nuestra prioridad es que recibas tu comida en tu puerta.",
+      "bgColor": "bg-green-primary",
+      "textColor": "white"
+    },
+    {
+      "title": "Entrega express",
+      "desc": "En DiDi Food procuramos que las órdenes sean entregadas en el menor tiempo posible y en perfectas condiciones.",
+      "bgColor": "bg-gray-primary",
+      "textColor": "white"
+    }
+  ],
+  "FoodBusinessCTA.title": "Conviértete en una Tienda DiDi",
+  "FoodBusinessCTA.desc": "Asóciate con DiDi Food para atraer más clientes con facilidad y llevar tu negocio al siguiente nivel.",
+  "FoodBusinessCTA.bgColor": "bg-gray-light",
+  "FoodBusinessCTA.textColor": "gray-primary",
+  "FoodBusinessCTA.btnMode": "light",
+  "FoodDeliveryCTA.title": "Únete al equipo de entregas de DiDi Food",
+  "FoodDeliveryCTA.desc": "Únete al equipo de entregas de DiDi Food y entrega órdenes con tu scooter, bici o moto. Puedes elegir libremente las horas y ganar dinero y recompensas.",
+  "FoodDeliveryCTA.bgColor": "bg-white",
+  "FoodDeliveryCTA.textColor": "gray-primary",
+  "FoodDeliveryCTA.btnMode": "primary",
+  "FoodBusinessGuideHero.title": "Mejora tu experiencia con la app. Conoce aquí guías y contenido educativo",
+  "FoodBusinessGuideHero.desc": "Teléfono comercial: 800-801-6888. \n WhatsApp: +52 55 6270 5369",
+  "FoodBusinessHero.title": "Registra tu Restaurante",
+  "FoodBusinessHero.desc": "Teléfono comercial: 800-801-6888. \n WhatsApp: +52 55 6270 5369",
+  "FoodBusinessHero.textColor": "white",
+  "FoodBusinessHero.btnMode": "light",
+  "FoodBusinessColumns.bgColor": "bg-white",
+  "FoodBusinessColumns.textColor": "gray-primary",
+  "FoodBusinessColumns.columns": [
+    {
+      "title": "Obtén más pedidos",
+      "desc": "La gran base de usuarios de DiDi Food permite que promociones tu restaurante a través de la app y que puedas llegar a nuevos clientes. Además, nuestra aplicación facilita que los usuarios realicen pedidos a tu restaurante. Puedes llevar tus platos a más personas y hacer que les resulte más fácil volver a pedir.",
+      "bgColor": "bg-orange-primary",
+      "textColor": "white"
+    },
+    {
+      "title": "Entregas confiables",
+      "desc": "A través de nuestras diversas acciones y activaciones, buscamos la disponibilidad constante de Socios Repartidores, aún en horas peak. La tecnología de la plataforma procura que los usuarios reciban sus pedidos según sus preferencias y en el menor tiempo posible.",
+      "bgColor": "bg-green-primary",
+      "textColor": "white"
+    },
+    {
+      "title": "Servicio integral",
+      "desc": "Nuestra línea de servicio integral puede llevar tu marca al siguiente nivel. Desde nuestros representantes experimentados y nuestro práctico servicio de Soporte DiDi, hasta el marketing personalizado y orientado a resultados. Puedes contar con DiDi Food para ayudarte en cada paso del proceso.",
+      "bgColor": "bg-gray-primary",
+      "textColor": "white"
+    }
+  ],
+  "FoodBusinessDownloads.title": "Descargar tienda de DiDi Food",
+  "FoodBusinessDownloads.desc": "¡Optimiza tu negocio y empieza a recibir más pedidos!",
+  "FoodBusinessDownloads.textColor": "gray-primary",
+  "FoodBusinessDownloads.bgColor": "bg-white",
+  "FoodBusinessDownloads.columns": [
+    {
+      "linkItem": "https://img0.didiglobal.com/static/soda_static/b/pc/client/DiDiStore_win32_1.2.20.exe?utm_source=(direct)&utm_medium=(none)&utm_campaign=none"
+    },
+    {
+      "linkItem": "https://img0.didiglobal.com/static/soda_static/b/app/global-merchant-application-mexicoPad-release_1.2.34_2021030503.apk?utm_source=(direct)&utm_medium=(none)&utm_campaign=none"
+    },
+    {
+      "linkItem": "https://d.didiglobal.com/3cikL?utm_source=(direct)&utm_medium=(none)&utm_campaign=none"
+    }
+  ],
+  "Requirements.title": "Requerimientos para ser Socio Restaurante",
+  "Requirements.bgColor": "bg-gray-light",
+  "Requirements.textColor": "bg-white",
+  "FoodDeliveryHero.title": "Regístrate como Repartidor en la app de DiDi Food. ",
+  "FoodDeliveryHero.desc": "Obtén ganancias y otras recompensas",
+  "FoodDeliveryHero.textColor": "white",
+  "FoodDeliveryHero.btnMode": "light",
+  "FoodDeliveryGuideHero.title": "Mejora tu experiencia con la app. Conoce aquí guías y contenido educativo",
+  "FoodDeliveryGuideHero.desc": "Obtén ganancias y otras recompensas",
+  "FoodDeliveryGuideHero.textColor": "white",
+  "FoodDeliveryGuideHero.btnMode": "light",
+  "FoodDeliveryGuideColumns.title": "Guías para Repartidores en Mexico",
+  "FoodDeliveryGuideColumns.bgColor": "bg-blue-primary",
+  "FoodDeliveryGuideColumns.textColor": "white",
+  "FoodDeliveryGuideColumns.btnText": "Leer Artículo",
+  "FoodDeliveryGuideColumns.btnMode": "dark",
+  "FoodDeliveryGuideColumns.linkItem": "/mx/food/repartidores/guias/{{guide}}/",
+  "FoodBusinessGuideColumns.title": "Guías para Restaurantes en Mexico",
+  "FoodBusinessGuideColumns.bgColor": "bg-blue-primary",
+  "FoodBusinessGuideColumns.textColor": "white",
+  "FoodBusinessGuideColumns.btnText": "Leer Artículo",
+  "FoodBusinessGuideColumns.btnMode": "dark",
+  "FoodBusinessGuideColumns.linkItem": "/mx/food/restaurantes/guias/{{guide}}/",
+  "GuidesColumns.title": "Guías para Repartidores en Mexico",
+  "GuidesColumns.bgColor": "bg-blue-primary",
+  "GuidesColumns.textColor": "white",
+  "GuidesColumns.btnText": "Leer Artículo",
+  "GuidesColumns.btnMode": "dark",
+  "GuidesColumns.linkItem": "/mx/food/repartidores/guias/{{guide}}/",
+  "FoodDeliveryColumns.bgColor": "white",
+  "FoodDeliveryColumns.textColor": "gray-primary",
+  "FoodDeliveryColumns.columns": [
+    {
+      "title": "Obtén excelentes ganancias",
+      "desc": "Esto es posible gracias a la gran cantidad de pedidos y a las generosas recompensas. Con DiDi Food, cuanto más te esfuerces, mayor será tu ganancia.",
+      "bgColor": "bg-orange-primary",
+      "textColor": "white"
+    },
+    {
+      "title": "Disfruta de más libertad",
+      "desc": "DiDi Food te ofrece más libertad al permitirte establecer tus propios horarios y conectarte cuando quieras. Además, recoger pedidos y entregarlos es muy sencillo gracias a nuestro sistema de navegación fácil de usar. Si tienes una moto o una bicicleta, empieza a ganar dinero sobre la marcha. Con DiDi Food, tienes la libertad de establecer tu propio horario y aprovechar tu tiempo al máximo.",
+      "bgColor": "bg-green-primary",
+      "textColor": "white"
+    },
+    {
+      "title": "DiDi te cuida",
+      "desc": "En DiDi Food, cuidamos a nuestros repartidores y priorizamos sus intereses. En nuestro equipo, los repartidores son mucho más que socios… forman parte de una gran familia. Con DiDi Food, podrás sentirte orgulloso de saber que agregas gran valor al servicio y obtienes recompensas por tu esfuerzo.",
+      "bgColor": "bg-gray-primary",
+      "textColor": "white"
+    }
+  ],
+  "FoodDeliveryStepsColumns.title": "¿Cómo repartir a través de DiDi Food?",
+  "FoodDeliveryStepsColumns.bgColor": "bg-gray-light",
+  "FoodDeliveryStepsColumns.textColor": "gray-primary",
+  "FoodDeliveryStepsColumns.columns": [
+    {
+      "title": "1. Descarga la aplicación",
+      "textColor": "gray-primary",
+      "height": "h-40"
+    },
+    {
+      "title": "2. Sube los documentos requeridos",
+      "textColor": "gray-primary",
+      "height": "h-40"
+    },
+    {
+      "title": "3. Espera la verificación de tu información",
+      "textColor": "gray-primary",
+      "height": "h-40"
+    },
+    {
+      "title": "4. Comienza a generar ganancias a través de DiDi Food",
+      "textColor": "gray-primary",
+      "height": "h-40"
+    }
+  ],
+  "FoodDeliveryDownloads.title": "Obtén la aplicación DiDi Repartidor",
+  "FoodDeliveryDownloads.desc": "Acepta pedidos y comienza a generar ganancias",
+  "FoodDeliveryDownloads.textColor": "gray-primary",
+  "FoodDeliveryDownloads.bgColor": "bg-white",
+  "FoodDeliveryDownloads.columns": [
+    {
+      "linkItem": "https://www.didi-food.com/es-419/mobile-delivery/download"
+    },
+    {
+      "linkItem": "https://www.didi-food.com/es-419/mobile-delivery/download"
+    }
+  ],
+  "FoodAboutHero.title": "Acerca de DiDi Food",
+  "FoodAboutHero.desc": "",
+  "FoodAboutHero.textColor": "white",
+  "FoodAboutDeliveryCTA.title": "Tu solución rápida y confiable de pedidos y entrega de comida",
+  "FoodAboutDeliveryCTA.desc": "Sobre nosotros – DiDi Food es la platforma rápida y confiable para pedidos de comida a domicilio. Unimos a clientes con tiendas y repartidores para llevar los mejores platillos a dónde los necesites. Con DiDi food puedes tener tu platillo favorito en dónde lo neesites con sólo un par de clics.",
+  "FoodAboutDeliveryCTA.bgColor": "bg-gray-light",
+  "FoodAboutDeliveryCTA.textColor": "gray-primary",
+  "FoodAboutDeliveryCTA.btnMode": "primary",
+  "FoodAboutCTA.title": "¡Tu comida está muy cerca!",
+  "FoodAboutCTA.desc": "Con DiDi food puedes tener tu comida favorita en dónde lo necesites con sólo un par de clics.",
+  "FoodAboutCTA.bgColor": "bg-white",
+  "FoodAboutCTA.textColor": "gray-primary",
+  "FoodBlogHero.title": "Bienvenido al Blog de DiDi Food",
+  "FoodBlogHero.desc": "Lee nuestros post de comidas, restaurantes y buenas prácticas en la cocina.",
+  "FoodBlogHero.textColor": "white",
+  "FoodBlogHero.btnMode": "light",
+  "FoodBlogColumns.title": "Lee nuestros artículos de comida y restaurantes.",
+  "FoodBlogColumns.bgColor": "bg-orange-primary",
+  "FoodBlogColumns.textColor": "white",
+  "FoodBlogColumns.linkItem": "/mx/food/blog/{{article}}/",
+  "FoodBlogPostHero.textColor": "white",
+  "FoodBlogPostHero.btnMode": "light",
+  "RelatedFoodBlogColumns.bgColor": "bg-orange-primary",
+  "FoodBlogPostHeroSecondary.btnMode": "green",
+  "StoreFoodAppHero.title": "Escanea el QR con tu celular",
+  "StoreFoodAppHero.desc": "Descarga DiDi Food escaneando el código con tu celular",
+  "StoreFoodAppHero.textColor": "white",
+  "StoreFoodAppHero.bgColor": "bg-orange-primary",
+  "StoreFoodAppHero.btnMode": "light",
+  "FoodContactHero.title": "Contáctanos",
+  "FoodContactHero.desc": "Para contactar a soporte en la app dirígete al menú de ayuda, ahí encontrarás el canal de chat en vivo o envíanos un correo electrónico.",
+  "FoodContactHero.textColor": "white",
+  "FoodContactHero.btnText": "Contáctanos a través de la app",
+  "FoodContactHero.btnMode": "light",
+  "FoodContact.contactSections": [
+    {
+      "title": "",
+      "desc": "",
+      "contacts": [
+        {
+          "label": "Correo electrónico",
+          "info": "soporte.food@mx.didiglobal.com",
+          "infoColor": { "color": "#ff7d41" }
+        }
+      ]
+    }
+  ],
+  "SBDrv.title": "DiDi Conductor",
+  "SBDrv.desc": "Ganancias Extras",
+  "SBPax.title": "DiDi Pasajero",
+  "SBPax.desc": "Pedí un Viaje",
+  "SBFoodEater.title": "DiDi Food",
+  "SBFoodEater.desc": "Comida a Domicilio",
+  "SBFoodBusiness.title": "DiDi Food",
+  "SBFoodBusiness.desc": "Crece tu Negocio",
+  "SBFoodDelivery.title": "DiDi Repartidor",
+  "SBFoodDelivery.desc": "Ganancias Extras",
+  "PrivacyHero.title": "Revisa nuestros Términos y Condiciones",
+  "PrivacyHero.desc": "Revisa nuestra sección de términos y condiciones además de nuestras política de privacidad.",
+  "PrivacyHero.textColor": "white",
+  "PrivacyHero.btnText": "Privacy",
+  "PrivacyHero.btnMode": "light",
+  "PrivacyHero.linkItem": "/mx/food/privacy/privacy/",
+  "PrivacyCTA.title": "Revisa nuestra Políticas de Privacidad",
+  "PrivacyCTA.textColor": "gray-primary",
+  "PrivacyCTA.btnMode": "dark",
+  "FaqFoodHero.title": "Preguntas Frecuentes & Recomendaciones",
+  "FaqFoodHero.desc": "¿Tienes dudas? Consulta nuestra sección de preguntas frecuentes a continuación:",
+  "FoodHeroSecondary.btnMode": "green",
+  "FoodFaqList.linkItem": "/mx/food/restaurantes/preguntas-frecuentes/{{faqSlug}}",
+  "FoodFaqList.desc": "",
+  "FoodFaqHero.textColor": "white",
+  "FaqFoodHero.textColor": "white",
+  "FoodFaqHero.btnMode": "primary",
+  "FoodEducationalGuidesList.linkItem": "/mx/food/restaurantes/preguntas-frecuentes/{{faqSlug}}",
+  "FoodEducationalGuidesList.desc": "",
+  "EducationalGuideFoodHero.title": "Guías Educacionales",
+  "EducationalGuideFoodHero.desc": "Conoce todo acerca de tu app",
+  "EducationalGuideFoodHero.textColor": "white",
+  "MoreQuestionsCTA.title": "En caso de tener más dudas con:",
+  "MoreQuestionsCTA.desc": "Envíanos un correo: soporte.tienda@mx.didiglobal.com \n Comunícate al: 800-801-6888 \n En donde nuestro equipo de Restaurant Support podrá ayudarte",
+  "MoreQuestionsCTA.bullets": [
+    "• Cambio de precios (siempre y cuando no excedan el precio de mercado)",
+    "• Cambio de dirección",
+    "• Cambio de nombre",
+    "• Actualización de super admin",
+    "• Actualización de correo electrónico",
+    "• Corrección RFC",
+    "• Activar o desactivar Prepay o CashBlock",
+    "• Reenvíar facturas"
+  ],
+  "FoodCityList.title": "Explora los mejores restaurantes con delivery a domicilio cerca de ti",
+  "FoodCityList.bgColor": "bg-white",
+  "FoodCityList.textColor": "gray-primary",
+  "FoodCityList.linkItem": "/mx/food/ciudad/{{city}}/",
+  "FoodCityBannerCTA.title": "Comida rápida y económica a domicilio en {{city}}",
+  "FoodCityBannerCTA.desc": "¿Estás buscando los mejores platillos rápidos en {{city}}? Descubre los restaurantes más económicos en {{city}} con entrega a domicilio por parte de los socios repartidores que utilizan la app de DiDi Food. Así que si tienes antojo y ya sabes lo que quieres comer, pide ya y recibe tu pedido en tan solo unos minutos. \n La app de DiDi Food te permite encontrar los restaurantes más baratos de {{city}}, bien sea para desayunar, almorzar, cenar o simples refrigerios. Descubre cientos de restaurantes económicos con entrega a domicilio en {{city}}, pide tu comida ya y sigue la entrega del socio repartidor minuto a minuto.",
+  "FoodCityBannerCTA.bgColor": "bg-orange-primary",
+  "FoodCityBannerCTA.textColor": "white",
+  "FoodCityBannerCTA.btnMode": "light",
+  "FoodCityBannerCTATwo.title": "Pedir comida en línea en {{city}} a través de la app de DiDi Food es muy fácil, económico y rápido",
+  "FoodCityBannerCTATwo.desc": "La mejor selección de Restaurantes en {{city}} (con entregas de pedidos a domicilio) Entrega en tu domicilio o lugar de trabajo (en minutos) Comida económica (buena, bonita y barata, para todos los gustos y bolsillos) Comida sabrosa a temperatura ideal (ni muy fría, ni muy caliente) Satisfacción garantizada Descarga el app y pide ahora",
+  "FoodCityBannerCTATwo.bgColor": "bg-gray-light",
+  "FoodCityBannerCTATwo.textColor": "gray-primary",
+  "FoodCityBannerCTATwo.btnMode": "primary",
+  "FoodCityBannerCTAThree.title": "Entrega de Comida a través de la app de DiDi Food en {{city}}",
+  "FoodCityBannerCTAThree.desc": "La app de DiDi Food es la mayor aplicación que facilita el servicio de entrega de comida a domicilio en {{city}}. Ya sea sushi a media noche o chilaquiles a las siete de la mañana del Domingo, lo conseguimos y coordinamos el envío hasta tu casa. Descarga la app de DiDi Food para hacer tus pedidos, guardar tus pedidos favoritos y obtener ofertas exclusivas de los mejores restaurantes cercanos a ti en {{city}}.",
+  "FoodCityBannerCTAThree.bgColor": "bg-orange-primary",
+  "FoodCityBannerCTAThree.textColor": "white",
+  "FoodCityBannerCTAThree.btnMode": "light",
+  "FoodFAQCities.title": "Preguntas Frecuentes",
+  "FoodFAQCities.desc": false,
+  "FoodFAQCities.bgColor": "bg-gray-light",
+  "FoodFAQCities.textColor": "gray-primary",
+  "FoodCityRestaurantCTA.title": "Restaurantes a domicilio en {{city}} cerca de tí",
+  "FoodCityRestaurantCTA.desc": "En la app de DiDi Food, contamos con los mejores restaurantes de {{city}} y con entrega a domicilio a través de los socios repartidores, para que disfrutes de tu comida donde sea que te encuentres, ya sea en casa, en el trabajo o hasta en el parque, sin tener que desplazarte. \n En Abril del 2020 , el primer socio restaurantero de {{city}} se registró con nosotros. Actualmente, facilitamos la compra y entrega de comida de más de 199 restaurantes de {{city}}, ofreciendo más de 43 tipos diferentes de comida y miles de platillos, incluyendo pizza, sushi, alitas de pollo , chilaquiles, tamales y todo tipo de tacos. \n No solo pizza a domicilio... \n - Mexicana \n - Vegetariana  \n - China \n - Latinoamericana  \n- Italiana  \n - Japonesa \n - Coreana \n … y mas \n También servimos los platillos más tradicionales de {{city}}, como los chilaquiles y las quesadillas. A través de la app de DiDi Food ¡Disfruta de la mejor comida, con una entrega coordinada directa a tu domicilio!. La mayoría de los restaurantes de {{city}}, están abiertos al público desde las ocho de la mañana hasta la medianoche, así que ¿qué estás esperando para hacer tu pedido?",
+  "FoodCityRestaurantCTA.bgColor": "bg-white",
+  "FoodCityRestaurantCTA.textColor": "gray-primary",
+  "FoodCityRestaurantCTA.btnMode": "primary",
+  "FoodCityHero.title": "Comida a domicilio en {{city}}",
+  "FoodCityHero.desc": "Baja la app o pide comida en nuestro sitio oficial.",
+  "FoodCityHero.textColor": "white",
+  "FoodCityHero.bgColor": "bg-orange-primary",
+  "FoodCityHero.btnMode": "primary",
+  "FoodCityHero.btnModeSecondary": "green",
+  "PartnerFoodColumns.title": "¿Qué tipo de recompensas puedo obtener al ser socio repartidor registrado en DiDi Food?",
+  "PartnerFoodColumns.desc": "Al ser Socio Repartidor registrado en DiDi Food tendrás acceso a descuentos y a facilidades ofrecidas por terceros para ayudarte en tu día a día.",
+  "PartnerFoodColumns.columns": [
+    {
+      "title": "Descontos en combustible"
+    },
+    {
+      "title": "Facilidades para comprar un auto"
+    },
+    {
+      "title": "Descuentos en rentar un auto"
+    },
+    {
+      "title": "Ayuda en tu contabilidad y en tus finanzas"
+    }
+  ],
+  "PartnersFoodHero.title": "Club de Beneficios DiDiMás+",
+  "PartnersFoodHero.desc": "Tu entrada a descuentos, recompensas y servicios exclusivos.",
+  "PartnersFoodHero.textColor": "white",
+  "PartnersFoodHero.btnMode": "light",
+  "PartnersFoodHero.btnType": "foodDelivery",
+  "PartnersFoodGrid.linkItem": "/mx/food/clubdidi/{{partnerName}}",
+  "RestaurantHero.title": "",
+  "RestaurantHero.desc": "",
+  "RestaurantHeroImpuesto.title": "Impuestos",
+  "RestaurantHeroImpuesto.desc": "Entérate cómo funcionan los impuestos, las declaraciones y retenciones de plataformas digitales a restaurantes",
+  "RestaurantHeroImpuesto.textColor": "white",
+  "RestaurantHeroRegistro.title": "Afilia tu Restaurante",
+  "RestaurantHeroRegistro.desc": "Optimiza tu negocio \n Empieza a recibir más pedidos con DiDi Food",
+  "RestaurantHeroRegistro.textColor": "white",
+  "RestaurantHeroKitDigital.title": " Kit Digital",
+  "RestaurantHeroKitDigital.textColor": "white",
+  "RestaurantHeroKitDigital.desc": "Impulsa la visibilidad de tu restaurante y con ello tus ventas en nuestra aplicación.",
+  "AboutRestaurantColumns.columns": [
+    {
+      "title": "",
+      "desc": "",
+      "btnMode": "",
+      "btnLink": "",
+      "btnText": ""
+    },
+    {
+      "title": "",
+      "desc": "",
+      "btnMode": "",
+      "btnLink": "",
+      "btnText": ""
+    },
+    {
+      "title": "",
+      "desc": "",
+      "btnMode": "",
+      "btnLink": "",
+      "btnText": ""
+    },
+    {
+      "title": "",
+      "desc": "",
+      "btnMode": "",
+      "btnLink": "",
+      "btnText": ""
+    }
+  ],
+  "RestaurantSocialColumns.bgColor": "bg-gray-light",
+  "RestaurantSocialColumns.textColor": "gray-primary",
+  "RestaurantSocialColumns.columns": [
+    {
+      "title": "Apoyo a los Restaurantes",
+      "desc": "Más de 30 millones de pesos en descuentos y promociones, propina de apoyo y guías de salud para los establecimientos.",
+      "textColor": "gray-primary",
+      "btnText": "Saber Más",
+      "btnLink": "/mx/centro-de-ayuda/",
+      "btnMode": "light",
+      "height": "h-80"
+    },
+    {
+      "title": "Apoyo a los Socios Repartidores",
+      "desc": "Fondo económico para repartidores en cuarentena o con COVID-19. Entrega semanal de 10 mil kits de higiene y más de 1 millon en total.",
+      "textColor": "gray-primary",
+      "btnText": "Saber Más",
+      "btnLink": "/mx/legal/",
+      "btnMode": "light",
+      "height": "h-80"
+    },
+    {
+      "title": "Apoyo a los médicos",
+      "desc": "Campaña DiDi Hero de apoyo a los trabajadores de la salud, donación de comidas a hospitales, campañas de homenaje a las personas en primera línea de ayuda",
+      "textColor": "gray-primary",
+      "btnText": "Saber Más",
+      "btnLink": "/mx/centro-de-ayuda/",
+      "btnMode": "light",
+      "height": "h-80"
+    }
+  ],
+  "RestaurantTestimonialCTA.title": "Hot Pepper Pizza",
+  "RestaurantTestimonialCTA.desc": "El éxito del restaurante en la app ha sido tanto que su número de personal incrementó e instaló un sistema de varias computadoras para automatizar la solicitud de pedidos de comida",
+  "RestaurantBenefitsColumns.columns": [
+    {
+      "title": "01.  Identificación oficial",
+      "desc": ".",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "02. RFC y constancia de situación fiscal",
+      "desc": ".",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "03. Estado de cuenta",
+      "desc": "Estado de cuenta: logo del banco + nombre del titular + CLABE interbancaria Carátula del contrato de apertura de cuenta bancaria",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "04. Acta constitutiva",
+      "desc": "Personas morales",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "05. Fotografías",
+      "desc": "Fotografías del exterior de la Tienda",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "06. Menú",
+      "desc": "Fotografía del menú con precio",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "07. CURP",
+      "desc": "Fotografía del CURP",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    }
+  ],
+  "RestaurantBenefitsUnirColumns.columns": [
+    {
+      "title": "1.",
+      "desc": "Sesión de fotos gratuita",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "2.",
+      "desc": "Servicio de atención al cliente personalizada 24/7",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "3.",
+      "desc": "Cofinanciamiento en programa de descuentos para hacer crecer tu negocio",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "4.",
+      "desc": "Rango de 5 km de cobertura",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "5.",
+      "desc": "Tiempo de entrega garantizado en 30 minutos",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "6.",
+      "desc": "Pagos semanales y posibilidad de recibir una parte de tus pagos en efectivo",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    }
+  ],
+  "RestaurantBenefitsBanner.title": "En DiDi Food el contrato es sin plazos forzosos, sin esquema de exclusividad, ni penalización por salida de la aplicación.",
+  "RestaurantBenefitsBanner.desc": "",
+  "RestaurantBenefitsBanner.bgColor": "bg-orange-primary",
+  "RestaurantBenefitsBanner.textColor": "white",
+  "RestaurantImpuestosColumns.bgColor": "bg-gray-light",
+  "RestaurantImpuestosColumns.textColor": "gray-primary",
+  "RestaurantImpuestosColumns.columns": [
+    {
+      "title": "Antes de cualquier escenario, los primeros cálculos se realizarán de la siguiente manera:",
+      "desc": "*Aplica para personas físicas y morales",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Escenario 1 \n *Aplica para personas físicas ",
+      "desc": "En caso de que las ventas que tuviste dentro de la plataforma hayan sido 100% electrónicas (pagos con tarjetas de crédito) y el RFC que ingresaste sea válido. Los cálculos se continúan de la siguiente manera:",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Escenario 2 \n *Aplica para personas físicas ",
+      "desc": "En caso de que las ventas que tuviste dentro de la plataforma hayan sido 20% electrónicas (pagos con tarjetas de crédito) y el RFC que ingresaste sea válido. Los cálculos se continúan de la siguiente manera:",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Escenario 3 \n *Aplica para personas físicas  ",
+      "desc": "En caso de que las ventas que tuviste dentro de la plataforma hayan sido 100% electrónicas (pagos con tarjetas de crédito) y el RFC que ingresaste sea inválido. Los cálculos se continúan de la siguiente manera:",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Escenario 4 \n *Aplica para personas físicas ",
+      "desc": "En caso de que las ventas que tuviste dentro de la plataforma hayan sido 20% electrónicas (pagos con tarjetas de crédito) y el RFC que ingresaste sea inválido. Los cálculos se continúan de la siguiente manera:",
+      "textColor": "gray-primary"
+    }
+  ],
+  "ImpuestosColumns.bgColor": "bg-white",
+  "ImpuestosColumns.textColor": "gray-primary",
+  "ImpuestosColumns.columns": [
+    {
+      "textColor": "gray-primary",
+      "btnText": "Glosario",
+      "btnLink": "/mx/food/restaurantes/impuestos/glosario",
+      "btnMode": "dark"
+    },
+    {
+      "textColor": "gray-primary",
+      "btnText": "Constancia de Situación Fiscal",
+      "btnLink": "/mx/food/restaurantes/impuestos/constancia-de-situacion-fiscal",
+      "btnMode": "dark"
+    },
+    {
+      "textColor": "gray-primary",
+      "btnText": "Reforma Fiscal 2023",
+      "btnLink": "/mx/food/restaurantes/impuestos/reforma-fiscal-2022",
+      "btnMode": "dark"
+    }
+  ],
+  "MidiaKitColumns.bgColor": "bg-orange-primary",
+  "MidiaKitColumns.textColor": "gray-primary",
+  "MidiaKitColumns.columns": [
+    {
+      "title": "Logo acompanãndo tu marca",
+      "desc": "Accede a plantillas de nuestro logotipo en alianza con tu marca (debéras reemplazar el espacio de la marca con tu logotipo).",
+      "textColor": "gray-primary",
+      "btnText": "Descargar Logo en Alianza",
+      "btnLink": "/mx/Logos-MX.zip",
+      "btnMode": "light"
+    },
+    {
+      "title": "Guía general sobre Redes Sociales para restaurantes",
+      "desc": "Recomendaciones sobre la importancia de tener presencia en las redes sociales, beneficios y guías para que puedas manejarlos",
+      "textColor": "gray-primary",
+      "btnText": "Descarga Guía General",
+      "btnLink": "/mx/Guia-General-sobre-Redes-Sociales-para-Restaurantes-MX.pdf",
+      "btnMode": "light"
+    },
+    {
+      "title": "Plantillas de Contenido para Redes Sociales",
+      "desc": "Guia con instrucciones de uso de nuestras Plantillas de contenido",
+      "textColor": "gray-primary",
+      "btnText": "Descarga Plantillas",
+      "btnLink": "/mx/Plantillas-de-contenido-para-Redes Sociales-MX.pdf",
+      "btnMode": "light"
+    },
+    {
+      "title": "Insignias “Pide en DiDi Food”",
+      "desc": "Si no quieres usar nuestras plantillas de contenido también encuentra  sellos o  insignias “Pide en DiDi Food” y “Disponible en DiDi Food” para que agregues a tus publicaciones en redes sociales.",
+      "textColor": "gray-primary",
+      "btnText": "Descarga Insignias",
+      "btnLink": "/mx/Insignia-MX.zip",
+      "btnMode": "light"
+    }
+  ],
+  "OffersHeroSimple.title": "Promociones y Campañas",
+  "OffersHeroSimple.desc": "Descubre las mejores maneras de maximizar tus ganancias",
+  "OffersHeroSimple.textColor": "white",
+  "OffersGrid.title": "COLABORACIONES ACTIVAS",
+  "OffersGrid.bgColor": "bg-gray-light",
+  "OffersGrid.desc": "Select you next discount",
+  "OffersGrid.textColor": "gray-primary",
+  "OffersGrid.linkItem": "/mx/food/restaurantes/promociones-y-campanas/{{offerSlug}}/",
+  "OfferHero.textColor": "white",
+  "OfferHero.bgColor": "bg-orange-primary",
+  "OfferHero.btnMode": "light",
+  "OfferHero.btnText": "Realiza tu compra aquí",
+  "OfferHero.btnLink": "https://food-delivery-partners.myshopify.com/collections/all",
+  "OfferColumns.title": "¿POR QUÉ ESCOGER DESECHABLES COMPOSTABLES?",
+  "OfferColumns.bgColor": "gray-primary",
+  "OfferColumns.textColor": "bg-white",
+  "OfferFeatures.bgColor": "bg-blue-primary",
+  "OfferFeatures.textColor": "white",
+  "ManualSocialColumns.bgColor": "bg-white-primary",
+  "ManualSocialColumns.textColor": "gray-primary",
+  "ManualSocialColumns.columns": [
+    {
+      "title": "1.",
+      "desc": "Las imágenes in situ (dentro del restaurante) son mejores para abrir el apetito.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "2.",
+      "desc": "Las imágenes aisladas o sin fondo se sugiere utilizarlas solo para mostrar los platillos en el menú, no para contenido en redes sociales.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "3.",
+      "desc": "Procura que las fotos contengan: comida en buenas condiciones, exposición del producto completo y buena presentación e iluminación.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "4.",
+      "desc": "No olvides anunciar a través de tus redes que ya te pueden encontrar en la app.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "5.",
+      "desc": "Puedes realizar publicación tanto de historia como un post en la cuenta de tu restaurante en Instagram y Facebook",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    },
+    {
+      "title": "6.",
+      "desc": "Puedes realizar publicación de historia en estados de Whatsapp en caso de tener “Whatsapp Business” para tu restaurante.",
+      "textColor": "gray-primary",
+      "width": "w-100"
+    }
+  ],
+  "TemplatePostCTA.title": "PLANTILLA PARA POSTEOS EN REDES SOCIALES",
+  "TemplatePostCTA.desc": "Este tipo de  plantillas permiten que agregues una foto de tus platillos. De cualquier forma, tenemos para ti plantillas con fotos incluidas. \n Este formato se usa únicamente para posteos en redes sociales, más adelante podrás conocer cómo generar artes para stories en redes sociales.",
+  "TemplateStoriesCTA.title": "PLANTILLA PARA STORIES EN REDES SOCIALES",
+  "TemplateStoriesCTA.desc": "Este tipo de  plantillas permiten que agregues una foto de tus platillos. De cualquier forma, tenemos para ti plantillas con fotos incluidas. \n Este formato se usa únicamente para stories en redes sociales.",
+  "TemplatePostCTA.bullets": false,
+  "TemplateStoriesCTA.bullets": false,
+  "TemplatePostColumns.bgColor": "bg-orange-primary",
+  "TemplatePostColumns.textColor": "gray-primary",
+  "TemplatePostColumns.columns": [
+    {
+      "title": "Plantillas",
+      "desc": "Descarga las plantillas para que agregues tu propia imagen aquí:",
+      "textColor": "gray-primary",
+      "btnText": "Plantilla Ya puedes pedir de nuestro menú",
+      "btnLink": "https://drive.google.com/file/d/1guIiJUjxfF0QwJwOdq5Je4sVoHE-SiMm/view",
+      "btnText2": "Plantilla De todo para todos",
+      "btnLink2": "https://drive.google.com/file/d/1NCuIQ3HtG07TNO2bezy2C-4Kkql0Y904/views",
+      "btnMode": "light"
+    },
+    {
+      "title": "Plantillas",
+      "desc": "Descarga las plantillas con una imagen de DiDi Food aquí:",
+      "textColor": "gray-primary",
+      "btnText": "Plantilla De todo para todos",
+      "btnLink": "https://drive.google.com/drive/folders/1XfA2vfJiarUOJJbvwFgGhOTXfVRbniVz?usp=sharing",
+      "btnText2": "Plantilla Próximamente en DiDi Food",
+      "btnLink2": "https://drive.google.com/file/d/1V-4fp_3z5ofQX0yR0rI76a_EX1JiZhiU/view",
+      "btnMode": "light"
+    }
+  ],
+  "TemplateStorieColumns.bgColor": "bg-orange-primary",
+  "TemplateStorieColumns.textColor": "gray-primary",
+  "TemplateStorieColumns.columns": [
+    {
+      "title": "Plantillas",
+      "desc": "Descarga las plantillas para que agregues tu propia imagen aquí:",
+      "textColor": "gray-primary",
+      "btnText": "Plantilla Ya puedes pedir de nuestro menú",
+      "btnLink": "https://drive.google.com/file/d/1orfylizLdHVuvec4rbo2JIZsbbeZgvAf/view",
+      "btnText2": "Plantilla De todo para todos",
+      "btnLink2": "https://drive.google.com/drive/folders/1rhVWH3N0ZzjmcVE2PX2MPdr-_jBYT5b_",
+      "btnMode": "light"
+    },
+    {
+      "title": "Plantillas",
+      "desc": "Descarga las plantillas con una imagen de DiDi Food aquí:",
+      "textColor": "gray-primary",
+      "btnText": "Plantilla De todo para todos",
+      "btnLink": "https://drive.google.com/drive/folders/1r4fo7s1TsRz_zbovv2r-EPMb_wc7a9Jt",
+      "btnText2": "Plantilla Próximamente en DiDi Food",
+      "btnLink2": "https://drive.google.com/file/d/1qfhNueYfZ_IySHmp7t6vnRlMIr9AVoPO/view",
+      "btnMode": "light"
+    }
+  ],
+  "TemplateColumns.bgColor": "bg-gray-light",
+  "TemplateColumns.textColor": "gray-primary",
+  "TemplateColumns.columns": [
+    {
+      "title": "Programas de diseño",
+      "desc": "Si cuentas con algún software de diseño como Photoshop, para descargar los editables.",
+      "textColor": "gray-primary",
+      "btnText": "Haz clic Aquí",
+      "btnLink": "https://drive.google.com/drive/folders/1WL0uta_1OybeE_TobSjnW-nv1mMM3skN",
+      "btnMode": "light",
+      "height": "h-80"
+    },
+    {
+      "title": "PowerPoint",
+      "desc": "Si no cuentas con programas de diseño, te mostramos cómo agregar tus fotografías a través de PowerPoint.",
+      "textColor": "gray-primary",
+      "btnText": "Haz clic Aquí",
+      "btnLink": "/mx/food/restaurantes/kit-digital/editar-plantillas-con-powerpoint",
+      "btnMode": "light",
+      "height": "h-80"
+    }
+  ],
+  "FoodAppDownloads.title": "Descárgate la App en tu Iphone o Android.",
+  "FoodAppDownloads.desc": "La comida que deseas está a unos minutos y 3 clics de distancia.",
+  "FoodAppDownloads.textColor": "gray-primary",
+  "FoodAppDownloads.bgColor": "bg-white",
+  "FoodAppDownloads.columns": [
+    {
+      "linkItem": "https://global-food-eater.onelink.me/4B2F"
+    },
+    {
+      "linkItem": "https://global-food-eater.onelink.me/4B2F"
+    }
+  ],
+  "FoodSafetyHero.title": "Comprometidos con la seguridad en cada entrega",
+  "FoodSafetyHero.desc": "En DiDi Food, nos importa la seguridad e integridad de cada Socio Repartidor. Nuestra intención, es que cada entrega supere sus expectativas y se sientan respaldados en todos los trayectos. Día a día, buscamos ofrecerles los mejores medios para que esto sea posible. \n Conoce las iniciativas creadas para ellos.",
+  "FoodSafetyHero.textColor": "white",
+  "SafetyRoadCTA.title": "Guías de Seguridad Vial para Socios Repartidores",
+  "SafetyRoadCTA.desc": "Estas guías fueron creadas con la ayuda del ITDP México, con la intención de fomentar la Seguridad Vial de cada Socio Repartidor de DiDi Food y que su trayecto sea lo más seguro posible.",
+  "SafetyToolsCTA.title": "Herramientas de seguridad en DiDi Food para Socios Repartidores",
+  "SafetyToolsCTA.desc": "En DiDi Food, ponemos al alcance varias funcionalidades dentro de la app DiDi Repartidor para que los Socios Repartidores sepan cómo actuar ante una situación que ponga en riesgo su integridad.",
+  "SafetyToolsCTA.btnArray": [
+    {
+      "btnMode": "primary",
+      "btnText": "Guia bicicletas",
+      "btnLink": ""
+    },
+    {
+      "btnMode": "primary",
+      "btnText": "Guia motocicletas",
+      "btnLink": ""
+    }
+  ],
+  "FoodSafetyColumns.columns": [
+    {
+      "title": "1. Botón de emergencia",
+      "desc": "Asistencia inmediata desde la pantalla principal de la app. \n Al solicitar este tipo de asistencia, se envía una alerta al equipo de Seguridad de DiDi Food y se enlaza directamente al 911 en caso de que el Socio Repartidor se encuentre en una emergencia."
+    },
+    {
+      "title": "2. Teléfono anónimo",
+      "desc": "Protegemos la información personal de los Socios Repartidores al no compartir con usuarios ni establecimientos su número telefónico. Aún así, el Socio Repartidor tiene la opción de contactarlos durante la entrega en caso de cualquier duda o situación, sin que aparezca el número de donde está llamando."
+    },
+    {
+      "title": "3. Línea de soporte 24/7",
+      "desc": "Ante cualquier situación, el Socio Repartidor puede recibir atención personalizada. El número de Soporte es 800 801 6888 y será atendido por operadores de DiDi Food."
+    },
+    {
+      "title": "4. Desactivación de usuarios",
+      "desc": "En DiDi Food desactivamos la cuenta de los usuarios que hayan incumplido con los términos y condiciones del uso de la app."
+    },
+    {
+      "title": "5. Geocercas de seguridad (zonas delimitadas por rastreo)",
+      "desc": "Actualmente, en DiDi Food se cuenta con 3 tipos de geocercas que limitan ciertos espacios, con el objetivo de disminuir el riesgo de incidencias:",
+      "image": false
+    },
+    {
+      "title": "Zona de precaución",
+      "desc": "La app alertará al inicio del pedido si este se entregará en una zona de precaución*, en cuyo caso, el Socio Repartidor podrá cancelar el pedido.",
+      "image": false
+    },
+    {
+      "title": "Geocercas de seguridad dinámicas",
+      "desc": "Si se detecta alguna incidencia que pueda poner en riesgo el bienestar del Socio Repartidor, el equipo de Seguridad de DiDi Food podría habilitar las geocercas de seguridad dinámicas. Éstas bloquean pedidos durante horarios, días o tipos de pago específicos.",
+      "image": false
+    },
+    {
+      "title": "Geocerca de bloqueo 24/7",
+      "desc": "Se deshabilita por completo el servicio de entrega en destinos que se encuentren dentro de áreas conflictivas**.",
+      "image": false
+    }
+  ],
+  "FoodSafetyColumns.small": "* Una zona de precaución es aquella que se determina como posiblemente peligrosa con base en información de medios externos a DiDi Food. Sin embargo, no se han reportado incidentes al utilizar la app de DiDi Food en esas zonas.  Función no disponible en todas las ciudades. \n ** Las áreas se determinan como conflictivas con base en información de medios internos y externos a DiDi Food.",
+  "SupportFundCTA.title": "Fondo de apoyo para COVID-19",
+  "SupportFundCTA.desc": "Conoce el fondo de apoyo que creó Fundación DiDi en caso de dar positivo a COVID-19. \n Fundación DiDi ha establecido un fondo de ayuda especial de más de $10 millones de dólares que apoyará a Socios Repartidores activos en la plataforma de DiDi Food por hasta 28 días de ganancias. \n El fondo brindará apoyo a Socios Repartidores activos en la plataforma de DiDi Food que sean diagnosticados con COVID-19, que cuenten con un familiar directo que padezca un diagnóstico positivo o que hayan sido puestos en cuarentena por las autoridades o por el médico de cabecera. Por precaución, y con el único fin de proteger a la comunidad, la cuenta del Socio Repartidor se bloqueará temporalmente por 14 o 28 días, dependiendo del caso. \n La cantidad que el fondo aportará dependerá de las ganancias que recibió a través de la plataforma de DiDi Food durante los últimos 14 o 28 días antes de la situación, según sea el caso.",
+  "InsuranceCoverageCTA.title": "Coberturas de Seguro",
+  "InsuranceCoverageCTA.desc": "Los Socios Repartidores realizan sus viajes protegidos y con mayor tranquilidad \n Para DiDi Food, la seguridad de todas las personas que utilizan nuestra app es prioridad. Es por esto que los viajes que los Socios Repartidores realizan para entregar pedidos a través de la app cuentan con coberturas de seguro diseñadas especialmente para las entregas de pedidos. \n Todas las entregas cuentan con coberturas que están activas desde que el Socio Repartidor acepta un pedido a través de la app DiDi Food y hasta 45 minutos después de la entrega del mismo. \n Detalles de las coberturas que te protegen \n Las coberturas aplican únicamente si el Socio Repartidor estaba realizando una entrega de pedido a través de la app DiDi Food y hasta 45 minutos después de la entrega: \n Responsabilidad Civil por Daños a Terceros \n Accidentes Personales \n Asistencia Legal",
+  "GuidesHero.textColor": "white",
+  "GuidesHero.btnMode": "light",
+  "GuidesHero.btnType": "foodDelivery",
+  "GuidesHero.title": "¡Únete a DiDi Food! Obtén excelentes ganancias y otras recompensas.",
+  "GuidesHero.desc": "Comenzar es sencillo y tú mismo estableces tu horario",
+  "GuideHero.textColor": "white",
+  "GuideHero.btnMode": "light",
+  "PaxBanner.title": "¡Únete a DiDi Food! Obtén excelentes ganancias y otras recompensas.",
+  "PaxBanner.desc": "Comenzar es sencillo y tú mismo estableces tu horario",
+  "PaxBanner.bgColor": "bg-orange-primary",
+  "PaxBanner.textColor": "white",
+  "PaxBanner.btnMode": "light",
+  "GuidesDeliveryColumns.bgColor": "bg-blue-primary",
+  "GuidesDeliveryColumns.linkItem": "/mx/food/repartidores/{{guide}}/",
+  "RepartidorHero.btnMode": "primary",
+  "FoodSmsCTA.title": "Pide comida desde donde estés atraves de la app.",
+  "FoodSmsCTA.desc": "Descarga DiDi Food App y ahorra más de un 50% en tu primera orden. Con estas ofertas en la app, ahorrarás más y podrás pedir comida rapidamente.",
+  "RidesSmsCTA.title": "Pide un viaje desde donde estés atraves de la app.",
+  "RidesSmsCTA.desc": "Descarga la app DiDi pasajero y ahorra más de un 50% en tu primer viaje. Con DiDi viajaras más pagando menos.",
+  "SmsCTA.bgColor": "bg-white",
+  "SmsCTA.textColor": "gray-primary",
+  "SmsCTA.btnMode": "primary",
+  "SmsCTA.formTitle": "Recibe un enlace en tu celular para descargar la app",
+  "ArticlesColumns.bgColor": "bg-blue-primary",
+  "ArticlesColumns.textColor": "white",
+  "ArticlesColumns.btnText": "Leer Artículo",
+  "ArticlesColumns.btnMode": "primary",
+  "ArticlesColumns.linkItem": "/mx/food/repartidores/{{article}}/",
+  "HeroCarrousel.bgColor": "bg-white",
+  "HeroCarrousel.textColor": "gray-primary",
+  "HeroCarrousel.columns": [
+    {
+      "title": "DiDi Food",
+      "icon": "carousel_food_"
+    },
+    {
+      "title": "Socio Repartidor",
+      "icon": "carousel_courier_"
+    },
+    {
+      "title": "Restaurantes",
+      "icon": "carousel_restaurant_"
+    }
+  ],
+  "FoodHeroCarousel.title": "Combos desde $99 m.n.",
+  "FoodHeroCarousel.btnText": "Pide aquí",
+  "FoodHeroCarousel.btnType": "food",
+  "FoodHeroCarousel.btnMode": "light",
+  "FoodHeroCarousel.textColor": "white",
+  "RestaurantHeroCarousel.title": "Únete a DiDi Food y \n ve crecer tu negocio",
+  "RestaurantHeroCarousel.btnText": "Registra tu restaurante",
+  "RestaurantHeroCarousel.btnType": "restaurant",
+  "RestaurantHeroCarousel.btnMode": "light",
+  "RestaurantHeroCarousel.textColor": "white",
+  "RepartidorHeroCarousel.title": "¡Únete a DiDi Food! \n Obtén excelentes ganancias \n y otras recompensas.",
+  "RepartidorHeroCarousel.btnText": "Regístrate como Repartidor",
+  "RepartidorHeroCarousel.btnType": "courier",
+  "RepartidorHeroCarousel.btnMode": "light",
+  "RepartidorHeroCarousel.textColor": "white"
+}

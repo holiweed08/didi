@@ -1,0 +1,461 @@
+{
+  "HomeHero.title": "محتاج توصيلة موفرة ؟",
+  "HomeHero.textColor": "white",
+  "HomeHero.btnMode": "light",
+  "HomeHero.reverse": true,
+  "HomeHero.textRight": true,
+  "VideoSection.title": "الذكي اللي بيوصل",
+  "VideoSection.src": "https://www.youtube.com/embed/dgN9T2T79Dk",
+  "SafetyCTARTL.title": "سلامتك أولاً",
+  "SafetyCTARTL.desc": "تأتي سلامتك على رأس أولوياتنا، لذا تعرف على المزيد حول ميزات السلامة المتوفرة في تطبيق دي دي حتى تتمكن من استخدامها متى احتجت إليها.",
+  "SafetyCTARTL.textColor": "white",
+  "SafetyCTARTL.bgColor": "bg-blue-primary",
+  "SafetyCTARTL.btnText": false,
+  "SafetyCTARTL.btnMode": false,
+  "SafetyCTARTL.btnLink": false,
+  "DrvCTA.title": "انضم لشركائنا السائقين",
+  "DrvCTA.desc": "",
+  "DrvCTA.reverse": true,
+  "DrvCTA.textRight": true,
+  "DrvCTA.bullets": [
+    "بادِر بالتسجيل مع دي دي الآن والاستفادة من عرض إطلاق الخدمة بدون رسوم (تسري الشروط والأحكام) لأول ",
+    "الوصول إلى ميزات السلامة داخل التطبيق وفريق الدعم التابع لنا على مدار الساعة",
+    "يمكنك معرفة الوجهة والدخل قبل قبول المشوار",
+    "مع المدفوعات الأسبوعية، يمكنك الانطلاق بسيارتك متى تشاء"
+  ],
+  "DrvCTA.bgColor": "bg-gray-light",
+  "DrvCTA.textColor": "bg-gray-primary",
+  "DrvCTA.btnMode": "primary",
+  "PaxCTA.title": "Get a ride",
+  "PaxCTA.desc": "Safe, reliable and affordable rides are a tap away",
+  "PaxCTA.textColor": "gray-primary",
+  "PaxCTA.btnMode": "dark",
+  "PaxCTA.bullets": [
+    "Enjoy low fares everyday ",
+    "Get matched to a nearby driver in minutes",
+    "Added peace of mind with in-app safety features",
+    "Give drivers more of the fare with DiDi"
+  ],
+  "HomeColumns.bgColor": "bg-gray-light",
+  "HomeColumns.textColor": "gray-primary",
+  "HomeColumns.columns": [
+    {
+      "title": "Available in 28 Cities",
+      "desc": "DiDi is now available in 28 cities across Australia. From north, south, east and west - we’ve got you covered. Check here to see a full list of the cities we are currently operating.",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Good for you, good for drivers",
+      "desc": "DiDi’s industry leading Services Fees means a greater share of the fare goes into the Drivers' pocket. ",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "الدعم",
+      "desc": "فريق دعم العملاء متاح على مدار الساعة . مركز الخدمة داخل التطبيق.",
+      "textColor": "gray-primary"
+    }
+  ],
+  "InfoColumnsRTL.title": "الميزات الرئيسية",
+  "InfoColumnsRTL.bgColor": "bg-gray-light",
+  "InfoColumnsRTL.textColor": "gray-primary",
+  "InfoColumnsRTL.columns": [
+    {
+      "title": "أوضاع الوجهة",
+      "desc": "معاينة الوجهة \n فلاتر وجهة النزول \n معاينة مسافة المشوار",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "السلامة والخصوصية",
+      "desc": "التدريب على السلامة \n الأرقام الخاصة \n مشاركة المشوار \n اختيار عدم الظهور للطرف الآخر \n ماسنجر فوري داخل التطبيق",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "الدعم",
+      "desc": "فريق دعم العملاء متاح على مدار الساعة \n مركز الخدمة داخل التطبيق",
+      "textColor": "gray-primary"
+    }
+  ],
+  "PaxHeroRTL.title": "احجز مشوارك مع  دي دي",
+  "PaxHeroRTL.desc": "قريبًا: مشاوير أكثر أمانًا ويعتمد عليها وبأجرة منخفضة.",
+  "PaxHeroRTL.textColor": "white",
+  "PaxHeroRTL.btnMode": "light",
+  "SliderSection.title": "خصص مشوارك حسب المناسبة التي لديك",
+  "SliderSectionCity.title": "خدماتنا في {{city}}",
+  "PaxBenefits.title": "",
+  "PaxBenefits.desc": "",
+  "PaxBenefits.bgColor": "bg-white",
+  "PaxBenefits.columns": [
+    {
+      "title": "أجرة منخفضة بشكل يومي",
+      "desc": "مسافة أبعد بتكلفة أقل، وذلك بفضل أجرة دي دي اليومية المنخفضة، بالإضافة إلى العروض الترويجية.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "السرعة والموثوقية",
+      "desc": "مشوارك جاهز في الموعد الذي يناسبك.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "السلامة أولاً",
+      "desc": "استمتع بمزيد من راحة البال عند الركوب مع الشركاء السائقين الذين تم التحقق منهم مسبقًا، واحصل على ميزات السلامة داخل التطبيق، بالإضافة إلى طرق الدفع الآمنة.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "مشاوير ترسم الابتسامة على وجهك",
+      "desc": "نتعامل مع شركائنا السائقين بشكل يتسم بالاحترام ويتيح لك الاستمتاع بمشوارك بكل هدوء.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    }
+  ],
+  "PaxWhyDiDi.title": "Get FREE* rides",
+  "PaxWhyDiDi.bullets": [
+    "For a limited time only you’ll get a $20 ride voucher every time you invite a friend to sign up and ride with DiDi.",
+    "They’ll also get a $20 ride voucher too!",
+    "After they’ve finished taking their first ride, you’ll get a ride voucher in your account.",
+    "Please note that your referral code only applies to new users."
+  ],
+  "PaxWhyDiDi.desc": "You can pay with cash or credit card",
+  "PaxWhyDiDi.bgColor": "bg-blue-primary",
+  "PaxWhyDiDi.textColor": "white",
+  "PaxWhyDiDi.btnMode": "primary",
+  "PaxBanner.title": "Would you like to drive with DiDi?",
+  "PaxBanner.desc": "Take home more of the fare with DiDi’s industry-leading low Services Fees and additional bonuses. ",
+  "PaxBanner.bgColor": "bg-orange-primary",
+  "PaxBanner.textColor": "white",
+  "PaxBanner.btnMode": "light",
+  "DrvHeroRTL.title": "انضم لعائلة دي دي",
+  "DrvHeroRTL.desc": "ابدأ في تحقيق دخل متميز مع رسوم الخدمة التنافسية والدعم المحلي وميزات السلامة الرائدة.",
+  "DrvHeroRTL.textColor": "white",
+  "DrvHeroRTL.btnMode": "light",
+  "DrvHero.title": "انضم لعائلة دي دي",
+  "DrvHero.desc": "ابدأ في تحقيق دخل متميز مع رسوم الخدمة التنافسية والدعم المحلي وميزات السلامة الرائدة.",
+  "DrvHero.textColor": "white",
+  "DrvHero.btnMode": "light",
+  "DrvCityHero.title": " انضم لعائلة دي دي {{city}}",
+  "DrvCityHero.desc": "ابدأ في تحقيق دخل متميز مع رسوم الخدمة التنافسية والدعم المحلي وميزات السلامة الرائدة.",
+  "DrvCityHero.textColor": "white",
+  "DrvCityHero.bgColor": "bg-blue-primary",
+  "DrvCityHero.btnMode": "primary",
+  "DrvBenefits.title": "مزايا الشريك السائق",
+  "DrvBenefits.bgColor": "bg-white",
+  "DrvBenefits.columns": [
+    {
+      "title": "زيادة دخلك مع دي دي",
+      "desc": "احصل على نسبة أكبر من الأجرة مع رسوم الخدمة التنافسية من دي دي والعروض الترويجية الرائعة.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "السلامة أولاً",
+      "desc": "الوصول إلى ميزات السلامة الرائدة المتوفرة من دي دي داخل التطبيق ودعم السائق على مدار الساعة.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "ساعات عمل مرنة",
+      "desc": "اختر مكان وزمان القيادة.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "مجتمع سائقين نشط",
+      "desc": "انضم إلى مجتمع الشركاء السائقين مع دي دي على مستوى العالم.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    }
+  ],
+  "Requirements.title": "متطلبات أن تصبح سائقًا",
+  "Requirements.bgColor": "bg-gray-light",
+  "Requirements.textColor": "bg-white",
+  "DrvBanner.title": "Start earning extra money today",
+  "DrvBanner.desc": "Sign-up Now",
+  "DrvBanner.bgColor": "bg-orange-primary",
+  "DrvBanner.textColor": "white",
+  "DrvBanner.btnMode": "light",
+  "DrvFeatures.title": "DiDi Advance",
+  "DrvFeatures.desc": "Free access to a program that rewards the most committed drivers with lower services fee and bonus perks. Available in participating cities only.",
+  "DrvFeatures.textColor": "gray-primary",
+  "DrvFeatures.bgColor": "bg-gray-light",
+  "DrvFeatures.btnMode": "primary",
+  "DrvCityList.title": "خدماتنا متوفرة في هذه المدن في مصر",
+  "DrvCityList.desc": "جميع المدن لديها DiDi Express",
+  "DrvCityList.bgColor": "bg-white",
+  "DrvCityList.textColor": "gray-primary",
+  "DrvCityList.linkItem": "/eg/driver/driver-{{city}}/",
+  "DrvColumns.bgColor": "bg-gray-primary",
+  "DrvColumns.textColor": "white",
+  "DrvColumns.columns": [
+    {
+      "title": "DIDI ADVANCE",
+      "desc": "DiDi Advance is a program that rewards the most committed drivers with lower services fee and bonus perks. It is available in limited cities only.",
+      "bgColor": "bg-gray-primary",
+      "textColor": "white"
+    },
+    {
+      "title": "SAFETY",
+      "desc": "Your safety is our priority, learn more about the safety features available in the DiDi app so you can use them any time you need to.",
+      "bgColor": "bg-gray-primary",
+      "textColor": "white"
+    },
+    {
+      "title": "STILL HAVE QUESTIONS?",
+      "desc": "Visit our Driver Help Center page and find out more about Signing up, payments and reward program",
+      "bgColor": "bg-gray-primary",
+      "textColor": "white"
+    }
+  ],
+  "KnowMoreBanner.title": "Do you have questions?",
+  "KnowMoreBanner.desc": "Know More about DiDi.",
+  "KnowMoreBanner.bgColor": "bg-orange-primary",
+  "KnowMoreBanner.textColor": "white",
+  "KnowMoreBanner.btnText": "Help Center",
+  "KnowMoreBanner.btnLink": "/au/centro-de-ayuda/",
+  "KnowMoreBanner.btnMode": "light",
+  "DeliveryHero.title": "DiDi Delivery",
+  "DeliveryHero.desc": "Power your business with instant and affordable delivery",
+  "DeliveryHero.textColor": "white",
+  "DeliveryHero.btnMode": "primary",
+  "DeliveryColumns.bgColor": "bg-white",
+  "DeliveryColumns.textColor": "gray-primary",
+  "DeliveryColumns.columns": [
+    {
+      "title": "24/7 Instant Delivery",
+      "desc": "Dispatch your products to customers, friends and family around your metro area with 24/7 delivery.",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Send Multiple Packages",
+      "desc": "Add up to 3 drop off points in a single delivery – save on delivery fees by booking multiple parcels at a time. ",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Live Tracking",
+      "desc": "Easily track your deliveries in the app. Get real-time alerts.",
+      "textColor": "gray-primary"
+    }
+  ],
+  "AboutHeroRTL.title": "نبذة عنا",
+  "AboutHeroRTL.desc": "تعرف على ميزات الأمان والأسئلة الشائعة الأخرى",
+  "AboutHeroRTL.textColor": "white",
+  "AboutHeroRTL.btnMode": "light",
+  "AboutCountryCTARTL.title": " إننا شركة دي دي، منصة التنقل الرائدة عالميًا.",
+  "AboutCountryCTARTL.bullets": false,
+  "AboutCountryCTARTL.desc": "شركة دي دي إيجيبت هي جزء من منصة النقل الرائدة عالميًا Didi Chuxing، والتي تقدم مجموعة كاملة من خدمات النقل القائمة على التطبيقات لأكثر من 600 مليون مستخدم في أنحاء آسيا وأمريكا اللاتينية وروسيا .تتفهم شركة دي دي إيجيبت التحديات التي تواجهها المجتمعات وقطاع النقل بسبب اتساع حركة التنقل الحضري (خدمات مشاركة المشاوير) ونتيجة لذلك فهي ملتزمة بتوفير الحرية والراحة أثناء الذهاب إلى الأماكن، وفتح الآفاق وإتاحة الوصول إلى تجارب جديدة من خلال منصاتنا .يقود مهمتنا فريق متخصص، يفهم جيدًا الخرائط التشغيلية لقطاع مشاركة المشاوير. وتسعى دي دي لمساعدة الركاب في مصر على التنقُّل بحرية وإطلاق العنان لإمكاناتهم وإمكانات المدن التي يعيشون فيها",
+  "AboutCountryCTARTL.bgColor": "bg-gray-light",
+  "AboutCountryCTARTL.textColor": "gray-primary",
+  "AboutCountryCTARTL.btnMode": "primary",
+  "HelpCenterHeroRTL.title": "مركز المساعدة",
+  "HelpCenterHeroRTL.desc": "التعليمات للركاب والسائقين.",
+  "HelpCenterHeroRTL.textColor": "white",
+  "HelpCenterHeroRTL.btnMode": "primary",
+  "HelpCenterFAQDrvRTL.title": "أسئلة وأجوبة السائقين",
+  "HelpCenterFAQDrvRTL.textColor": "gray-primary",
+  "HelpCenterFAQDrvRTL.bgColor": "bg-white",
+  "HelpCenterFAQPax.title": "FAQ Riders",
+  "HelpCenterFAQPax.textColor": "gray-primary",
+  "HelpCenterFAQPax.bgColor": "bg-gray-light",
+  "FaqList.title": "جميع الأسئلة الشائعة في ديدي مصر",
+  "FaqList.desc": "اقرأ لمزيد من المعلومات",
+  "FaqList.bgColor": "bg-white",
+  "FaqList.textColor": "gray-primary",
+  "FaqList.linkItem": "/eg/help-center/{{faqSlug}}/",
+  "FaqHero.bgColor": "bg-white",
+  "FaqHero.textColor": "white",
+  "FaqHero.btnMode": "primary",
+  "StoreHero.title": "قم بتنزيل تطبيقنا عن طريق مسح رمز الاستجابة السريعة",
+  "StoreHero.desc": "احصل على رحلات آمنة وسريعة وبأسعار معقولة",
+  "StoreHero.textColor": "white",
+  "StoreHero.bgColor": "bg-orange-primary",
+  "StoreHero.btnMode": "light",
+  "ContentHeroRTL.title": "دليل بدء شريك دي دي",
+  "ContentHeroRTL.desc": "",
+  "ContentHeroRTL.textColor": "white",
+  "InfoContent.contents": [
+    {
+      "title": "البدء",
+      "desc": "ابدأ القيادة باتّباع أربع خطوات بسيطة:",
+      "contacts": [
+        {
+          "label": "1. تنزيل “تطبيق شريك دي دي”",
+          "info": "ابحث عن تطبيق “شريك دي دي” في متجر App Store أو Google Play وقم بتنزيله على جهازك. سجّل الدخول باستخدام رقم هاتفك المحمول من خلال التطبيق.m",
+          "infoColor": { "color": "#666" }
+        },
+        {
+          "label": "2. تحميل مستنداتك",
+          "info": "اتّبع التعليمات الموضحة لتحميل مستنداتك. هل هناك مستندات غير متوفرة لديك؟ يمكنك حفظ طلبك وإكماله لاحقًا.",
+          "infoColor": { "color": "#666" }
+        },
+        {
+          "label": "3. بدء الحصول على الدخل",
+          "info": "ستتلقّى رسالة SMS قصيرة ورسالة بريد إلكتروني بمجرد الموافقة على تسجيلك. أنت الآن جاهز للانطلاق!",
+          "infoColor": { "color": "#666" }
+        }
+      ]
+    },
+    {
+      "title": "طريقة استخدام التطبيق",
+      "desc": "",
+      "contacts": [
+        {
+          "label": "بدء تحقيق الدخل مع دي دي",
+          "info": "اضغط على الزر “ابدأ” للانتقال إلى وضع الاتصال والبدء في استلام طلبات المشاوير. لقبول الطلب، اضغط على “قبول الطلب”. سيتم تزويدك بعد ذلك بإرشادات تفصيلية حتى تصل إلى وجهتك. \n إنّ التمرير لتحديد “وصلت” يُعلِم الراكب بأنك وصلت إلى مكان الالتقاء بالراكب. يمكنك الاطِّلاع على اسم الراكب لمساعدتك في تأكيد الالتقاء بالشخص المقصود. \n مرّر سريعًا على الزر “ابدأ” لبدء التنقل إلى وجهة الراكب.",
+          "infoColor": { "color": "#666" }
+        },
+        {
+          "label": "إمكانية التواصل مع الراكب",
+          "info": "هل حدث تأخير أو ظهرت مشكلات أثناء الوصول إلى الراكب؟ يمكنك التواصل مع الراكب مباشرةً عبر التطبيق بالضغط على أيقونة “الهاتف” أو “مراسلة فورية”. حفاظًا على أمان بياناتك، سيتم إخفاء رقم هاتفك.",
+          "infoColor": { "color": "#666" }
+        },
+        {
+          "label": "هل وصلت للوجهة المطلوبة؟",
+          "info": "انتقل سريعًا إلى “اكتمال المشوار” عند الانتهاء من المشوار، وسيعرض التطبيق بعدها تلقائيًا الأجرة المطلوبة من الراكب. \n اضغط على أيقونة القائمة الموجودة أسفل يمين الشاشة الرئيسية، ثم “الانتقال إلى وضع عدم الاتصال” عند الحاجة لأخذ قسط من الراحة بالتوقف عن تلقي الطلبات.",
+          "infoColor": { "color": "#666" }
+        }
+      ]
+    },
+    {
+      "title": "الوصول والتقييم وتحقيق الدخل",
+      "desc": "",
+      "contacts": [
+        {
+          "label": "قيِّم مشوارك",
+          "info": "يمكن للراكب والسائق تقييم كل منهما الآخر؛ لذا بمقدورك تقييم الراكب عقب انتهاء المشوار بتقييم من خمس نجوم.",
+          "infoColor": { "color": "#666" }
+        },
+        {
+          "label": "استعراض حصاد دخلك",
+          "info": "اطلع على الدخل الذي تمكنت من جمعه بعد انقضاء كل مشوار على حدة بالضغط على “الدخل” أعلى يسار الشاشة والضغط على “الرصيد”.",
+          "infoColor": { "color": "#666" }
+        },
+        {
+          "label": "الحصول على الدخل كل أسبوع",
+          "info": "ستحصل على دخلك بالكامل أسبوعيًا، وسيرسَل لك على حسابك البنكي الذي سبق لك إضافته على ملفك التعريفي في تطبيق شريك دي دي.",
+          "infoColor": { "color": "#666" }
+        },
+        {
+          "label": "إدخال المعلومات البنكية",
+          "info": "1. اضغط على “الدخل”. \n 2. اضغط على “معلومات البنك”. \n 3. أدخل تفاصيل حسابك البنكي وتأكد من صحتها.",
+          "infoColor": { "color": "#666" }
+        }
+      ]
+    },
+    {
+      "title": "كيفية إلغاء مشوار",
+      "desc": "",
+      "contacts": [
+        {
+          "label": "من حين لآخر، ربما تحتاج لإلغاء مشوار لظهور بعض الأسباب الطارئة، على سبيل المثال:",
+          "info": "عدم حضور الراكب في الموقع المحدد عند وصولك \n لا يمكنك الوصول إلى الموقع المحدد خلال الإطار الزمني \n حدوث شئ ما، واحتياجك للانتقال إلى وضع عدم الاتصال",
+          "infoColor": { "color": "#666" }
+        },
+        {
+          "label": "طريقة الإلغاء:",
+          "info": "1. اضغط على “تفاصيل المشوار”. \n 2. اضغط على “إلغاء المشوار” لإنهاء المشوار للراكب.",
+          "infoColor": { "color": "#666" }
+        }
+      ]
+    },
+    {
+      "title": "كيفية تعيين وجهتك",
+      "desc": "",
+      "contacts": [
+        {
+          "label": "ستحصل على 3 فرص لتحديد وجهة كل يوم. وستخضع طلبات المشاوير حينها للفلترة بحيث تتلقى فقط الطلبات الموجودة في الطريق إلى الوجهة التي أدخلتها.",
+          "info": "*ملاحظة: عند الانتهاء من العمل، حدد وجهة منزلك وسيعرض لك تطبيق دي دي طلبات المشاوير التي تسير في هذا الاتجاه.",
+          "infoColor": { "color": "#666" }
+        }
+      ]
+    },
+    {
+      "title": "عروض الدعوات",
+      "desc": "",
+      "contacts": [
+        {
+          "label": "قسائم مشاوير مجانية",
+          "info": "هل ترغب في تحقيق المزيد من الدخل مع دي دي؟ يمكنك الحصول على هدية نقدية عن كل شخص يُجرِّب خدمة دي دي باستخدام رمز دعوتك المميز. \n لتسهيل ذلك عليك، أضفنا مجموعة من قسائم المشاوير المجانية إلى حزمة الترحيب لمشاركتها مع أصدقائك وعائلتك والمسافرين الذين يشاركونك المشاوير.",
+          "infoColor": { "color": "#666" }
+        },
+        {
+          "label": "طريقة العثور على رمز دعوتك ومشاركته:",
+          "info": "1. اضغط على “الدخل”. \n 2. اضغط على “عروض الدعوات”. \n 3. اضغط على “دعوة الركاب” للعثور على رمز دعوتك. \n 4. قم بالتمرير لأسفل لتتبع العروض أو عرض سجل دعواتك. يمكنك نسخ هذا الرابط أو مشاركته عبر الرسائل القصيرة ووسائل التواصل الاجتماعي",
+          "infoColor": { "color": "#666" }
+        },
+        {
+          "label": "يرجى ملاحظة ما يلي: عروض الدعوات تنطبق فقط على الراكبين الذين قاموا بالتسجيل باستخدام رمز دعوتك والحصول على مشوار مع دي دي. تُطبق الشروط والأحكام.",
+          "info": "",
+          "infoColor": { "color": "#666" }
+        }
+      ]
+    },
+    {
+      "title": "السلامة في كل خطوة",
+      "desc": "في دي دي، نسعى جاهدين لضمان تتبع جميع المشاوير باستخدام نظام تحديد المواقع العالمي (GPS) ويمكن الاتصال بخدمات الطوارئ في أي وقت.",
+      "contacts": [
+        {
+          "label": " زر الطوارئ SOS",
+          "info": "في حالة الطوارئ، يمكنك الاتصال بخدمات إنفاذ القانون والطوارئ بضغطة زر واحدة.",
+          "infoColor": { "color": "#666" }
+        },
+        {
+          "label": " شارِك مشوارك",
+          "info": "تتيح لك ميزة تتبع المشوار عبر نظام تحديد المواقع العالمي (GPS) مشاركة مسار مشوارك في الوقت الفعلي مع عائلتك وأصدقائك أثناء القيادة.",
+          "infoColor": { "color": "#666" }
+        },
+        {
+          "label": " الاستجابة للحوادث على مدار الساعة",
+          "info": "إن واجهت حادثًا أو مشكلةً تتعلق بالسلامة، فلا تتردد في التواصل معنا، فلدينا فريق متخصص في الاستجابة للحوادث لمساعدتك في كافة الأوقات.",
+          "infoColor": { "color": "#666" }
+        },
+        {
+          "label": " الأرقام الخاصة",
+          "info": "عندما تتصل أنت أو أحد الركاب ببعضكما البعض باستخدام التطبيق، سيتم إخفاء رقمي الهاتف.",
+          "infoColor": { "color": "#666" }
+        },
+        {
+          "label": " اتبع قواعد الطريق (القوانين المحلية في المنطقة التي تعمل بها)",
+          "info": "تقع على عاتقك مسؤولية ضمان نقل الركاب بأمان ووفقًا لأي قواعد وقوانين ولوائح خاصة بالطريق.",
+          "infoColor": { "color": "#666" }
+        }
+      ]
+    },
+    {
+      "title": "تقديم قيادة مثالية",
+      "desc": "أخبرنا الركاب أنهم يقدرون حقًا اهتمام الشركاء السائقين بما يلي:",
+      "contacts": [
+        {
+          "label": "النظافة:",
+          "info": "الحفاظ على نظافة السيارة",
+          "infoColor": { "color": "#666" }
+        },
+        {
+          "label": " الموقع:",
+          "info": " التواصل مع الركاب لمعرفة نقطة الالتقاء المثلى",
+          "infoColor": { "color": "#666" }
+        },
+        {
+          "label": " التنقل:",
+          "info": "سؤال الركاب عما إذا كانوا يرغبون في اتباع نظام تحديد المواقع العالمي (GPS) أو يرغبون في اتخاذ طريق مختلف يفضلونه",
+          "infoColor": { "color": "#666" }
+        },
+        {
+          "label": " الأمان:",
+          "info": "اتباع أسلوب يتسم بالسلاسة والسلامة عند القيادة",
+          "infoColor": { "color": "#666" }
+        },
+        {
+          "label": " اللطف:",
+          "info": "تقديم شواحن الهواتف، مثلاً",
+          "infoColor": { "color": "#666" }
+        },
+        {
+          "label": "كيف يمكنني معرفة المزيد حول الجوانب التي يقدّرها ركاب دي دي؟",
+          "info": "اضغط على “التقييم بالنجوم” في قسم “الحساب” في تطبيق شريك دي دي، وستتمكن من رؤية متوسط تقييمك فضلاً عن أي تعليقات تلقيتها من الركاب.",
+          "infoColor": { "color": "#666" }
+        }
+      ]
+    }
+  ]
+}

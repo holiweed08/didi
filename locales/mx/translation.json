@@ -1,0 +1,2237 @@
+{
+  "HomeHero.title": "Muévete por tu ciudad",
+  "HomeHero.textColor": "white",
+  "HomeHero.btnMode": "light",
+  "HeroCarrousel.bgColor": "bg-white",
+  "HeroCarrousel.textColor": "gray-primary",
+  "HeroCarrousel.columns": [
+    {
+      "title": "DiDi Conductor"
+    },
+    {
+      "title": "DiDi Pasajero"
+    },
+    {
+      "title": "DiDi Food"
+    },
+    {
+      "title": "Servicios Financieros"
+    }
+  ],
+  "FoodCTA.title": "DiDi Food: Ordena comida a domicilio",
+  "FoodCTA.desc": "¿Tienes hambre? \n ¡Puedes pedir comida ahora mismo a través de nuestro nuevo sitio DiDi Food! \n Rápido, fácil y asequible.",
+  "FoodCTA.textColor": "white",
+  "FoodCTA.bgColor": "bg-green-primary",
+  "FoodCTA.btnText": "Ir a DiDi Food",
+  "FoodCTA.btnMode": "light",
+  "FoodCTA.btnLink": "https://www.didi-food.com/es-MX/food/",
+  "SafetyCTA.title": "Viaja tranquilo",
+  "SafetyCTA.desc": "En DiDi no queremos decirte que ”tu seguridad es nuestra prioridad”. En DiDi queremos demostrarte, con funciones específicas, todo lo que te ofrecemos para que viajes tranquilo.",
+  "SafetyCTA.textColor": "white",
+  "SafetyCTA.bgColor": "bg-blue-primary",
+  "SafetyCTA.btnText": "Saber Más",
+  "SafetyCTA.btnMode": "light",
+  "SafetyCTA.btnLink": "/mx/seguridad/",
+  "SafetyDrvCTA.title": "Seguridad para conductores",
+  "SafetyDrvCTA.desc": "Conoce más sobre las funciones de seguridad para conductores en DiDi",
+  "SafetyDrvCTA.btnLink": "/mx/seguridad/conductores/",
+  "SafetyDrvCTA.btnMode": "primary",
+  "SafetyDrvCTA.btnText": "Conoce más",
+  "SafetyPaxCTA.title": "Seguridad para pasajeros",
+  "SafetyPaxCTA.desc": "Conoce más sobre las funciones de seguridad para pasajeros en DiDi",
+  "SafetyPaxCTA.btnLink": "/mx/seguridad/pasajeros/",
+  "SafetyPaxCTA.btnMode": "primary",
+  "SafetyPaxCTA.btnText": "Conoce más",
+  "SafetyDrvImgHero.title": "Conduce con tranquilidad",
+  "SafetyDrvImgHero.desc": "En DiDi queremos demostrarte, con funciones específicas, todo lo que te ofrecemos para que viajes tranquilo.",
+  "SafetyDrvImgHero.textColor": "white",
+  "SafetyDrvImgHero.bgColor": "bg-blue-primary",
+  "SafetyPaxImgHero.title": "Viaja con tranquilidad",
+  "SafetyPaxImgHero.desc": "En DiDi queremos demostrarte, con funciones específicas, todo lo que te ofrecemos para que viajes tranquilo.",
+  "SafetyPaxImgHero.textColor": "white",
+  "SafetyPaxImgHero.bgColor": "bg-blue-primary",
+  "DrvCTA.title": "Maneja con DiDi Conductor",
+  "DrvCTA.desc": "Conéctate con nuestros servicios de autos particulares o taxi de manera más segura y empieza a generar ingresos extra con DiDi. Estarás activo entre 24 a 48 horas para que empieces a manejar.",
+  "DrvCTA.bullets": [
+    "Comisiones Bajas",
+    "Seguridad para tu Viaje",
+    "Si eres conductora mujer puedes llevar solo a mujeres",
+    "Pago Semanal"
+  ],
+  "DrvCTA.bgColor": "bg-gray-light",
+  "DrvCTA.textColor": "gray-primary",
+  "DrvCTA.btnMode": "primary",
+  "PaxCTA.title": "Viaja con DiDi por tu Ciudad",
+  "PaxCTA.desc": "Viajando con DiDi tienes tarifas más accesibles para que viajes al mismo lugar y llegues al mismo tiempo, pagando menos. \nCon DiDi tienes soporte 24/7 en todos tus viajes y puedes contar con nuestras herramientas de seguridad para que viajes con la tranquilidad que mereces. \n¡Es momento de redescubrir tu ciudad favorita de México en un DiDi! ",
+  "PaxCTA.bullets": false,
+  "PaxCTA.textColor": "gray-primary",
+  "PaxCTA.btnMode": "primary",
+  "PaxCTAApp.title": "La nueva app de DiDi Conductor",
+  "PaxCTAApp.desc": "",
+  "PaxCTAApp.bullets": [
+    "Más claridad en tus ganancias",
+    "Personaliza la forma en la que ves tus ingresos",
+    "Fácil de usar"
+  ],
+  "FleetAboutCTA.title": "DiDi Flotilla: Genera ganancias hasta durmiendo.",
+  "FleetAboutCTA.desc": "¿Eres dueño de 1 o más autos? ¡Es momento de mejorar tus ganancias! Da de alta tu flotilla en la app DiDi Fleet. Monitorea y gestiona las ganancias de todos tus autos fácilmente desde tu celular.",
+  "FleetAboutCTA.textColor": "gray-primary",
+  "FleetAboutCTA.bgColor": "bg-gray-light",
+  "AboutDidiFleetVideo.title": "Te invitamos a ver este corto video acerca de cómo ser un socio flotilla",
+  "AboutDidiFleetVideo.video": "https://www.youtube.com/embed/KVJnWPOtL1k",
+  "AboutDidiFleetVideo.textColor": "gray-primary",
+  "AboutDidiFleetVideo.bgColor": "bg-gray-light",
+  "FleetSocioCTA.title": "Ganar en promedio $10.000* rentando tu coche",
+  "FleetSocioCTA.desc": "Ganar en promedio $10.000* rentando tu coche por mes y recibe hasta $5.800** EXTRA por cada coche que rentes en la app y que complete el número de viajes requerido en el tiempo establecido de la recompensa.\n *Renta promedio de vehículos en la app de Fleet en México.\n **Consulta Términos y Condiciones aquí [link] / Solo aplica para coches registrados por primera vez en la app de DiDi",
+  "FleetSocioCTA.btnText": "Conoce Más",
+  "FleetSocioCTA.btnLink": "#",
+  "FleetSocioCTA.btnMode": "dark",
+  "FleetSafety.title": "Con DiDi Fleet puedes:",
+  "FleetSafety.desc": "",
+  "FleetSafety.bullets": [
+    "Ganar dinero rentando tu coche a un conductor verificado",
+    "Rentarle tu coche a un conductor que cuenta con verificación de antecedentes y cuya identidad es verificada mediante reconocimiento facial.",
+    "Monitorear los viajes que hayan completado los coche que rentas.",
+    "¡Estar tranquilo! Tu coche y su conductor cuentan con +20 funciones de seguridad.",
+    "Encontrar un conductor con 5 estrellas y experiencia para rentarle tu coche. "
+  ],
+  "FleetSafety.bgColor": "bg-blue-primary",
+  "FleetSafety.textColor": "white",
+  "FleetRegistraAutos.title": "Con DiDi Fleet puedes:",
+  "FleetRegistraAutos.desc": "",
+  "FleetRegistraAutos.bullets": [
+    "Ganar en promedio $10.000* rentando tu coche por mes",
+    "Rentar tu coche mientras estudias o trabajas.",
+    "Rentar tu coche a un conductor, tener promociones especiales para ahorrar hasta un 50% en el seguro y cancelarlo cuando quieras.*",
+    "Aprovechar de descuentos exclusivos de DiDiMás+ para ahorrar en el mantenimiento de tu coche.*",
+    "Recibir recompensas exclusivas.*",
+    "Administrar las ganancias de los viajes completados con tu carro."
+  ],
+  "FleetRegistraAutos.bgColor": "bg-gray-light",
+  "FleetAgregaCTA.title": "Agrega conductores a tu flotilla DiDi:",
+  "FleetAgregaCTA.desc": "Una vez que tu auto o tus autos se encuentren aprobados, podrás agregar a tus conductores haciendo clic en la sección de “Conductores” dentro de tu app DiDi Fleet. \n ¿No conoces conductores para tu flota? \n No te preocupes, haz clic aquí y comienza a conectar con conductores previamente seleccionados listos para conducir.",
+  "FleetAgregaCTA.btnMode": "primary",
+  "FleetAgregaCTA.btnText": "Conectar con conductores",
+  "FleetAgregaCTA.btnLink": "https://page.linkeeglobal.com/global/quickbolt/page/online/f59e140d7477f4b7a7bf122ceda64151.html",
+  "FleetColumns.columns": [
+    {
+      "title": "1) Descarga DiDi Fleet",
+      "desc": "Comienza descargando DiDi Fleet en tu celular"
+    },
+    {
+      "title": "2) Sube tus documentos ",
+      "desc": " Identificación oficial (INE/IFE), CURP y Licencia para conducir"
+    },
+    {
+      "title": "3) Agrega tus coches",
+      "desc": "Para subirlos a tu flotilla necesitarás los siguientes documentos para cada coche: Tarjeta de circulación, Póliza de seguro del coche y TAG (para autos en la Ciudad de México)"
+    },
+    {
+      "title": "4) Selecciona un conductor para alquilarle tu coche a través de la app",
+      "desc": "Ingresando al menú de conductores pulsando en buscar conductores"
+    }
+  ],
+  "FleetColumns.bgColor": "bg-blue-primary",
+  "FleetColumns.textColor": "white",
+  "HomeColumns.bgColor": "bg-gray-light",
+  "HomeColumns.textColor": "gray-primary",
+  "HomeColumns.columns": [
+    {
+      "title": "Acerca de Nosotros",
+      "desc": "Somos una de las app de movilidad más grande del mundo.",
+      "textColor": "gray-primary",
+      "btnText": "Saber Más",
+      "btnLink": "/mx/centro-de-ayuda/",
+      "btnMode": "light",
+      "height": "h-80"
+    },
+    {
+      "title": "Legal",
+      "desc": "Conoce nuestras políticas y términos y condiciones de uso de la app DiDi Pasajero y la app DiDi Conductor en México.",
+      "textColor": "gray-primary",
+      "btnText": "Saber Más",
+      "btnLink": "/mx/legal/",
+      "btnMode": "light",
+      "height": "h-80"
+    },
+    {
+      "title": "Centro de Ayuda",
+      "desc": "En DiDi cuentas con soporte 24/7 por nuestro chat en vivo, para ayudarte siempre.",
+      "textColor": "gray-primary",
+      "btnText": "Saber Más",
+      "btnLink": "/mx/centro-de-ayuda/",
+      "btnMode": "light",
+      "height": "h-80"
+    }
+  ],
+  "PaxHero.title": "Inicia tu viaje con DiDi Pasajero",
+  "PaxHero.desc": "Muévete por tu ciudad con DiDi",
+  "PaxHero.textColor": "white",
+  "PaxHero.btnMode": "light",
+  "PaxColumns.bgColor": "bg-white",
+  "PaxColumns.textColor": "gray-primary",
+  "PaxColumns.columns": [
+    {
+      "title": "",
+      "desc": "Viaja tranquilo con las herramientas de seguridad.",
+      "bgColor": "white",
+      "textColor": "gray-primary",
+      "insideHeight": "h-20"
+    },
+    {
+      "title": "",
+      "desc": "Con DiDi puedes viajar pagando menos.",
+      "bgColor": "white",
+      "textColor": "gray-primary",
+      "insideHeight": "h-20"
+    },
+    {
+      "title": "",
+      "desc": "Soporte a pasajeros 24/7 por chat en vivo.",
+      "bgColor": "white",
+      "textColor": "gray-primary",
+      "insideHeight": "h-20"
+    }
+  ],
+  "WhyDiDiColumns.title": "¿Por qué DiDi?",
+  "WhyDiDiColumns.bgColor": "bg-white",
+  "WhyDiDiColumns.textColor": "gray-primary",
+  "WhyDiDiColumns.columns": [
+    {
+      "title": "Logra tus metas de ganancias",
+      "desc": "Descubre nuestro asistente de ganancias.Recibe tus ganancias diarias con DiDi Pay.",
+      "bgColor": "white",
+      "textColor": "gray-primary",
+      "insideHeight": "h-20"
+    },
+    {
+      "title": "Conduce con confianza",
+      "desc": "La seguridad de los conductores es nuestra prioridad.",
+      "bgColor": "white",
+      "textColor": "gray-primary",
+      "insideHeight": "h-20"
+    },
+    {
+      "title": "Soporte 24/7",
+      "desc": "Estamos contigo en cada paso. Atención a conductores en nuestro chat en vivo.",
+      "bgColor": "white",
+      "textColor": "gray-primary",
+      "insideHeight": "h-20"
+    }
+  ],
+  "GananciasBanner.title": "Calcula tus ganancias",
+  "GananciasBanner.desc": "Tu ganancia como conductor depende de cada viaje y se calcula con el número de kilómetros y tiempo recorridos restando la tarifa de servicio de DiDi y los impuestos retenidos. Vamos a ver un ejemplo: \n *Solo recuerda que estas tarifas son ejemplos porque varían por ciudad.",
+  "GananciasConceptosFAQ.items": [
+    {
+      "title": "Tarifa mínima",
+      "content": "La tarifa mínima es el ingreso mínimo que recibirás por cada viaje completado correctamente."
+    },
+    {
+      "title": "Tarifa base",
+      "content": "La tarifa base es la cuota inicial fija de ganancias que recibirás por viaje independientemente de los kilómetros y tiempo recorridos. Esta tarifa varía por ciudad."
+    },
+    {
+      "title": "Ganancias por Kilómetros recorridos",
+      "content": "La tarifa por kilómetro considera el número de kilómetros recorridos durante el viaje desde que recoges al pasajero."
+    },
+    {
+      "title": "Ganancia por tiempo recorrido",
+      "content": "La tarifa por tiempo considera el número de minutos durante el viaje desde que recoges al pasajero."
+    },
+    {
+      "title": "Tip",
+      "content": "El concepto de “Tip” lo elige pagar el pasajero al terminar su viaje. Éste decide cuánto pagar de propina y en qué ocasiones hacerlo. DiDi no cobrará ningún porcentaje de tarifa de servicio por propinas."
+    }
+  ],
+  "GananciasImpuestosFAQ.items": [
+    {
+      "title": "1. IVA por ingresos percibidos en línea",
+      "content": "Se calcula sobre los ingresos semanales y podrás percibirlo diario en tu billetera. \n Para conductores con RFC actualizado el IVA es del 8% y para conductores sin RFC es del 16%"
+    },
+    {
+      "title": "2. ISR por ingresos percibidos en línea",
+      "content": "Se calcula sobre los ingresos semanales y podrás percibirlo diario en tu billetera. \n Para conductores con RFC válido ante el SAT y registrado en la app el ISR es del 2.1% y para conductores sin RFC es del 20%, por eso es importante tener tu información al día. \n TIP: Actualiza tu RFC dentro de tus detalles de cuenta en tu aplicación."
+    },
+    {
+      "title": "3. IVA sobre la tarifa del servicio por el uso de la plataforma",
+      "content": "Representa el 16% y se calcula sobre lo que recibe DiDi por viaje. \n Este porcentaje de tarifa de servicio es el mismo porcentaje para todos los conductores en la misma ciudad y puede variar por ciudad."
+    }
+  ],
+  "GananciasObligaciones.title": "¿Qué obligaciones fiscales tengo como conductor?",
+  "GananciasObligaciones.desc": "Todos los conductores están obligados a facturar los servicios de transporte que realicen. DiDi solicita tus Sellos Digitales para poder realizar esta facturación para el pasajero en tu nombre. ",
+  "GananciasObligaciones.btnMode": "primary",
+  "GananciasObligaciones.btnText": "Conoce más de los requisitos fiscales",
+  "GananciasObligaciones.btnLink": "/mx/conductor/requisitos-fiscales/",
+  "PaxWhyDiDi.title": "Por qué viajar hoy con DiDi:",
+  "PaxWhyDiDi.bullets": [
+    "Viajes a pedido. Obtén un viaje confiable en minutos, a cualquier hora y en cualquier día del año.",
+    "Opciones económicas: Cotiza los precios de todos los tipos de viaje, desde los traslados diarios hasta las salidas nocturnas.",
+    "Una forma fácil de viajar. Pide un Socio Conductor para que llegue por ti y te lleve a destino con solo tocar un botón."
+  ],
+  "PaxWhyDiDi.desc": "* Paga tus servicios con tarjeta de crédito o efectivo ",
+  "PaxWhyDiDi.bgColor": "bg-white",
+  "PaxWhyDiDi.textColor": "gray-primary",
+  "PaxWhyDiDi.btnMode": "primary",
+  "SliderSection.title": "Nuestros Servicios en México",
+  "SliderSectionCity.title": "Nuestros Servicios en {{city}}",
+  "PaxBanner.title": "¿Quieres ser socio conductor en DiDi?",
+  "PaxBanner.desc": "Genera Ganancias de manera segura y maneja tus tiempos.",
+  "PaxBanner.bgColor": "bg-orange-primary",
+  "PaxBanner.textColor": "white",
+  "PaxBanner.btnMode": "light",
+  "DrvHero.title": "Maneja con DiDi Conductor",
+  "DrvHero.desc": "Elige tus horarios y obtén ganancias garantizadas",
+  "DrvHero.textColor": "white",
+  "DrvHero.btnMode": "light",
+  "DrvBenefits.title": "Razones para manejar con DiDi Conductor",
+  "DrvBenefits.bgColor": "bg-white",
+  "DrvBenefits.columns": [
+    {
+      "title": "Ganancias por distancia y tiempo",
+      "desc": "Con DiDi ganas por kilómetro y por minuto recorridos",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Soporte 24/7",
+      "desc": "Contamos con atención 24/7 en nuestro chat en vivo.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Kit de seguridad.",
+      "desc": "Conduce tranquilo con las herramientas de seguridad. ",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Logra tus metas de ganancias",
+      "desc": "Descubre nuestro asistente de ganancias. Recibe tus ganancias diarias con DiDi Pay.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    }
+  ],
+  "DrvWhyDiDi.title": "Tu seguridad es nuestra prioridad. Por eso tenemos herramientas pensadas para ti:",
+  "DrvWhyDiDi.bullets": [
+    "Comparte tu viaje.",
+    "Privacidad de números telefónicos.",
+    "Desvincular usuario."
+  ],
+  "DrvWhyDiDi.textColor": "gray-primary",
+  "DrvWhyDiDi.btnMode": "primary",
+  "VideoSection.src": "https://www.youtube.com/embed/j8sqSHla0Gc",
+  "VideoSection.title": "Requisitos para manejar con DiDi",
+  "VideoSection.descText": "Conoce los requisitos básicos para registrarte como conductor y para registrar tus autos.",
+  "VideoSection.btnMode": "primary",
+  "VideoSection.btnText": "Requisitos fiscales",
+  "VideoSection.btnLink": "/mx/conductor/requisitos-fiscales",
+  "ClubDiDiCTA.title": "Club DiDi",
+  "ClubDiDiCTA.desc": "Tu entrada a descuentos, recompensas y servicios exclusivos. Club DiDi: un programa que te da acceso a descuentos y a facilidades ofrecidas por terceros para ayudarte en tu día a día.",
+  "ClubDiDiCTA.btnMode": "light",
+  "ClubDiDiCTA.btnText": "Conoce más",
+  "ClubDiDiCTA.btnLink": "/mx/didimas/",
+  "ClubDiDiCTA.textColor": "white",
+  "WomenDiDiCTA.title": "Mujeres en DiDi",
+  "WomenDiDiCTA.bgColor": "bg-blue-primary",
+  "WomenDiDiCTA.textColor": "white",
+  "WomenDiDiCTA.desc": "Conoce los programas de apoyo a conductoras:",
+  "WomenDiDiCTA.btnText": "Conoce más",
+  "WomenDiDiCTA.btnLink": "/mx/conductor/mujeres-en-didi/",
+  "WomenDiDiCTA.btnMode": "light",
+  "WomenDiDiCTA.bullets": false,
+  "WomenDiDiCTA.reverse": true,
+  "DrvVideoGrid.bgColor": "bg-blue-primary",
+  "DrvVideoGrid.title": "Sigue estos pasos para empezar a manejar y generar ingresos",
+  "DrvVideoGrid.textColor": "white",
+  "DrvVideoGrid.columns": [
+    {
+      "title": "Sube tu Cédula de Identidad Chilena",
+      "bgColor": "bg-blue-primary",
+      "videoSrc": "https://www.youtube.com/embed/1853mnRqTW4"
+    },
+    {
+      "title": "Sube una fotografía de ti sosteniendo tu cédula de identidad",
+      "bgColor": "bg-blue-primary",
+      "videoSrc": "https://www.youtube.com/embed/6TyVl3r1wUM"
+    },
+    {
+      "title": "Sube tu licencia de conducir Chilena",
+      "bgColor": "bg-blue-primary",
+      "videoSrc": "https://www.youtube.com/embed/cDXmKDkOlL4"
+    },
+    {
+      "title": "Sube tu Permiso de Circulación al día",
+      "bgColor": "bg-blue-primary",
+      "videoSrc": "https://www.youtube.com/embed/LH6BgttFSTc"
+    },
+    {
+      "title": "Sube tu Permiso de Circulación al día",
+      "bgColor": "bg-blue-primary",
+      "videoSrc": "https://www.youtube.com/embed/6lq6C1AbdPw"
+    }
+  ],
+  "Requirements.title": "Requerimientos para ser Conductor",
+  "Requirements.bgColor": "bg-gray-light",
+  "Requirements.textColor": "bg-white",
+  "DrvBanner.title": "Completa tu proceso de registro online",
+  "DrvBanner.desc": "Sube los documentos y cuando todo esté aprobado estarás listo para conectarte a la app de movilidad más grande del mundo.",
+  "DrvBanner.bgColor": "bg-orange-primary",
+  "DrvBanner.textColor": "white",
+  "DrvBanner.btnMode": "light",
+  "DrvFeatures.title": "Te damos la mejor experiencia. En nuestra App puedes:",
+  "DrvFeatures.bullets": [
+    "Ver el destino de todos tus viajes las 24 horas.",
+    "Tener más ingresos con nuestras promociones y referidos.",
+    "Tener flexibilidad para que manejes tu tiempo como quieras, además de herramientas que te ayudan a sacarle provecho a la aplicación cuando estás conectado.",
+    "Apoyarte en nuestro equipo que está siempre listo para ayudarte. 7 días de la semana, 24 horas al día."
+  ],
+  "DrvFeatures.textColor": "gray-primary",
+  "DrvFeatures.bgColor": "bg-gray-light",
+  "DrvFeatures.btnMode": "primary",
+  "DrvCityList.title": "Operamos en las siguientes ciudades en México",
+  "DrvCityList.desc": "Descubre las ciudades de México donde esta operando DiDi",
+  "DrvCityList.bgColor": "bg-white",
+  "DrvCityList.textColor": "gray-primary",
+  "DrvCityList.linkItem": "/mx/conductor/conductor-en-{{city}}/",
+  "DrvMotoHero.title": "Aumenta tus Ganancias con DiDi Moto",
+  "DrvMotoHero.desc": "Registrate en DiDi Moto y comienza ya a generar ganancias cuando más te convenga.",
+  "DrvMotoHero.textColor": "white",
+  "DrvMotoHero.btnMode": "light",
+  "DrvColumns.textColor": "gray-primary",
+  "DrvColumns.bgColor": "bg-white",
+  "DrvColumns.columns": [
+    {
+      "title": "Maneja tus Tiempos",
+      "desc": "Flexibilidad para que manejes tu tiempo como quieras",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Soporte 24/7",
+      "desc": "Contar con un equipo de soporte 24/7",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Genera más Ganancias",
+      "desc": "Genera más ganancias con nuestras promociones",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Conoce el Destino",
+      "desc": "Conoce el destino de un viaje antes de aceptarlo",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Driver Center",
+      "desc": "Driver Center",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Constante Mejora",
+      "desc": "Accede a soluciones automáticas dentro de la App",
+      "textColor": "gray-primary"
+    }
+  ],
+  "DrvFlexHero.title": "DiDi Flex: Negocia tu precio sin afectar tu seguridad",
+  "DrvFlexHero.desc": "Utiliza DiDi Flex y comienza ya a negociar tu precio. \n Disponible en: Villahermosa, Zacatecas, La Paz, Ensenada, Celaya, Los Mochis, Vallarta , Morelia, Irapuato, Tepic, Navojoa y Ciudad Obregón.",
+  "DrvFlexHero.textColor": "white",
+  "DrvFlexHero.btnMode": "light",
+  "DrvFlexFeatures.title": "Beneficios DiDi Flex",
+  "DrvFlexFeatures.desc": "",
+  "DrvFlexFeatures.textColor": "gray-primary",
+  "DrvFlexFeatures.bgColor": "bg-white",
+  "DrvFlexFeatures.btnMode": "primary",
+  "DrvFlexFeatures.bullets": [
+    "Contraoferta el precio de los viajes",
+    "Rechaza viajes sin penalización ni afectar tu tasa de aceptación",
+    "También cuenta para tus ganancias garantizadas",
+    "Elige el viaje que más te conviene del Centro de Viajes",
+    "Tienes la certeza de que no va a cambiar el destino del viaje",
+    "Sigues teniendo +20 funciones de seguridad",
+    "Te damos Soporte 24/7"
+  ],
+  "DiDiAmigoHero.title": "DiDi Amigo",
+  "DiDiAmigoHero.desc": "Refiere conductores, aunque no seas uno, para generar ganancias. \n Tu refieres, ellos manejan, todos ganan.",
+  "DiDiAmigoHero.textColor": "white",
+  "DiDiAmigoHero.btnText": "Regístrate Ahora",
+  "DiDiAmigoHero.btnLink": "https://d.didiglobal.com/6bUx7",
+  "DiDiAmigoHero.btnMode": "light",
+  "DiDiAmigoColumns.title": "¿Cómo Ganar con DiDi Amigo?",
+  "DiDiAmigoColumns.bgColor": "bg-gray-light",
+  "DiDiAmigoColumns.textColor": "gray-primary",
+  "DiDiAmigoColumns.columns": [
+    {
+      "title": "Regístrate"
+    },
+    {
+      "title": "Refiere"
+    },
+    {
+      "title": "Gana"
+    }
+  ],
+  "DiDiAmigoLegal.title": "Conoce los avisos de Privacidad",
+  "DiDiAmigoLegal.desc": "Lee atentamente las condiciones antes de referir",
+  "DiDiAmigoLegal.textColor": "white",
+  "DiDiAmigoLegal.bgColor": "bg-orange-primary",
+  "DiDiAmigoLegal.btnMode": "light",
+  "DiDiAmigoLegal.btnText": "Términos y Condiciones",
+  "DiDiAmigoLegal.btnLink": "https://privacycenter.didiglobal.com/directory/MX/101827",
+  "DiDiAmigoBanner.title": "Comienza a Referir Ahora",
+  "DiDiAmigoBanner.desc": "Comienza tu proceso de regístro",
+  "DiDiAmigoBanner.textColor": "white",
+  "DiDiAmigoBanner.bgColor": "bg-blue-primary",
+  "DiDiAmigoBanner.btnMode": "light",
+  "DiDiAmigoBanner.btnText": "Regístrate Ahora",
+  "DiDiAmigoBanner.btnLink": "https://d.didiglobal.com/6bUx7",
+  "TaxiHero.title": "DiDi Taxi",
+  "TaxiHero.desc": "DiDi Taxi es nuestra opción para seguir usando tu taxi con libertad y que puedas ganar más recibiendo viajes en la app",
+  "TaxiHero.textColor": "white",
+  "TaxiHero.btnMode": "primary",
+  "TaxiWhyDiDi.title": "Recibe pedidos a través de la app o recoge a los pasajeros conectando el viaje con DiDi Taxi",
+  "TaxiWhyDiDi.bullets": [
+    "¿Ya estas registrado como DiDi Taxista? Regístrate online y te explicamos cómo se usa la App.",
+    "¿Ya hiciste viajes como DiDi Taxista? No olvides registrar tu cuenta bancaria para recibir tu pago. Acá te mostramos cómo.",
+    "¿Más dudas? Tenemos expertos listos para ayudarle a completar su registro y responder cualquier duda que tenga. Teléfono: 800 725 8888"
+  ],
+  "TaxiWhyDiDi.textColor": "gray-primary",
+  "TaxiWhyDiDi.btnMode": "primary",
+  "TaxiGI.title": "Te garantizamos hasta $6,000* en tu primera semana",
+  "TaxiGI.desc": "Esta promo es exclusiva para DiDi Taxi en Ciudad de México. Aplica Términos y Condiciones en: d.didiglobal.com/taximx1",
+  "TaxiGI.textColor": "white",
+  "TaxiGI.bgColor": "bg-blue-primary",
+  "TaxiGI.btnMode": "light",
+  "TaxiEvent.title": "Te esperamos del 17 al 21 de Julio de 10 a.m. a 6 p.m. en el Hotel Galería Plaza Reforma en Hamburgo 195",
+  "TaxiEvent.bullets": [
+    "Completar tu registro",
+    "Recibir un regalo de bienvenida",
+    "Asistir a sesiones informativas sobre el uso de la app",
+    "Contamos con estacionamientos gratis"
+  ],
+  "TaxiEvent.desc": "",
+  "TaxiEvent.textColor": "gray-primary",
+  "TaxiEvent.bgColor": "bg-gray-light",
+  "GananciasHero.title": "Calcula tus ganancias",
+  "GananciasHero.desc": "Con DiDi ganas por kilómetro y por minuto recorridos conoce más aquí.",
+  "GananciasHero.btnText": "Regístrate ahora",
+  "GananciasHero.btnMode": "primary",
+  "GananciasHero.textColor": "white",
+  "MujeresDiDiHero.title": "Mujeres en DiDi",
+  "MujeresDiDiHero.desc": "En DiDi buscamos incrementar la inclusión de las mujeres en la economía digital para contribuir a la equidad de género y apoyar su independencia económica. Hasta ahora, sabemos que:",
+  "MujeresDiDiHero.textColor": "white",
+  "MujeresEnDiDiColumns.columns": [
+    {
+      "desc": "De las conductoras creen que DiDi las ha apoyado para lograr independencia económica."
+    },
+    {
+      "desc": "De las conductoras mencionaron que las ganancias que obtienen a través de DiDi son el principal ingreso de sus familias."
+    },
+    {
+      "desc": "De las conductoras considera que las apps de movilidad contribuyen a la paridad de género"
+    },
+    {
+      "desc": "Reportaron ser felices como conductoras de DiDi."
+    }
+  ],
+  "DiDiMujerFuncionCTA.title": "DiDi Mujer, la función",
+  "DiDiMujerFuncionCTA.desc": "En 2020 lanzamos DiDi Mujer disponible a nivel nacional. Esta función permite que las conductoras realicen viajes exclusivamente con pasajeras, si así lo deciden. En 2021 se realizaron más de 300 mil viajes con DiDi Mujer y fue reconocida como una Buena Práctica por las Naciones Unidas por contribuir a los Objetivos de Desarrollo Sustentable 5 y 10 por la Equidad de Género y Reducción de las Desigualdades respectivamente. \n Gracias a DiDi Mujer: \n - El registro de nuevas conductoras se incrementó en un 28%. \n - Las ganancias de las conductoras incrementaron en un 17% en comparación a 2020.",
+  "DiDiMujerProgramaCTA.title": "DiDi Mujer, el programa",
+  "DiDiMujerProgramaCTA.desc": "Seguimos trabajando en incrementar el número de mujeres en la plataforma y, después de un análisis exhaustivo con perspectiva de género, DiDi Mujer evoluciona a un programa integral con tres pilares exclusivamente diseñados para atender las necesidades que se detectaron. A continuación puedes conocerlos más: \n Ganancias: \n • Promociones de ganancias garantizadas que permiten alcanzar más de $25,000 mensuales. \n • Programas de recompensas especiales solo para mujeres de hasta 20% adicional durante ciertas semanas del año. \n • Herramientas integradas en la app como el Asistente de Ganancias y los Mapas de Tarifa Dinámica y Demanda para que puedan fijar y alcanzar sus metas financieras. \n Seguridad: \n • Función de DiDi Mujer para recibir viajes exclusivamente de pasajeras que, de no ser así, puede cancelar sin penalizaciones. \n • Línea exclusiva para mujeres en Soporte DiDi, marcando la opción número 7. \n Comunicaciones constantes dentro de la aplicación de la mano con organizaciones expertas como el CONAPRED para educar sobre temas como el acoso sexual y cómo reaccionar ante incidentes. \n *Incluyendo nuestras más de 20 funciones de seguridad disponibles en la app. \n Comunidad: \n • Programa de referidos, que otorga un monto extra de $1000 si la persona referida es mujer. \n • Disponibilidad permanente de una mujer en el proceso de registro para apoyar a las nuevas conductoras a resolver dudas y dar tips adicionales. \n • Rediseñamos los procesos de lenguaje, campañas, publicidad y comunicación en la compañía con perspectiva de género buscando que todas se sientan bienvenidas y ser más incluyentes. ",
+  "DiDiMujerPercentageColumns.columns": [
+    {
+      "desc": "De incremento en ganancias."
+    },
+    {
+      "desc": "De incremento en registros."
+    },
+    {
+      "desc": "Más conductoras conectadas."
+    }
+  ],
+  "DiDiMujerVideoSection.title": "Rompiendo estereotipos:",
+  "DiDiMujerVideoSection.src": "https://www.youtube.com/embed/VII0HrEFAs0",
+  "AlianzaMujeresCTA.title": "Alianza con el CONAPRED",
+  "AlianzaMujeresCTA.desc": "En DiDi trabajamos por tener ciudades igualitarias y libres de discriminación. \n Con esto en mente, y de la mano del Consejo Nacional para Prevenir la Discriminación (CONAPRED), hemos desarrollado los siguientes puntos que deberán guiar a la plataforma y a sus personas usuarias hacia un uso libre de prácticas discriminatorias. \n Si alguna autoridad federal, empresa, negocio o persona te niega a ti o alguien que conozcas algún derecho por discriminación puedes contactar al Conapred: \n Línea telefónica: 55 5262 1490 en la Ciudad de México y la Zona Metropolitana, y 800 543 0033 en el resto del país. \n Correo electrónico: quejas@conapred.org.mx \n Sitio web: www.conapred.org.mx",
+  "ApoyoMujeresCTA.title": "Programas de apoyo para mujeres",
+  "ApoyoMujeresCTA.desc": "Contamos con programas de incentivos especiales que se adaptan a las tendencias de conducción de mujeres y continuamente hacemos esfuerzos para invitarlas a la plataforma. ",
+  "ApoyoMujeresCTA.btnMode": "primary",
+  "ApoyoMujeresCTA.btnText": "Convertirme en Conductora",
+  "KnowMoreBanner.title": "¿Tienes preguntas?",
+  "KnowMoreBanner.desc": "Seguro te ayuda revisar las preguntas más frecuentes de nuestra comunidad",
+  "KnowMoreBanner.bgColor": "bg-orange-primary",
+  "KnowMoreBanner.textColor": "white",
+  "KnowMoreBanner.btnText": "Ir a Centro de Ayuda",
+  "KnowMoreBanner.btnLink": "/mx/centro-de-ayuda/",
+  "KnowMoreBanner.btnMode": "light",
+  "AboutHero.title": "Somos la app de movilidad #1 en el mundo.",
+  "AboutHero.desc": "",
+  "AboutHero.textColor": "white",
+  "AboutHero.btnMode": "light",
+  "AboutColumns.bgColor": "bg-blue-primary",
+  "AboutColumns.title": "Información útil para usuarios y conductores",
+  "AboutColumns.textColor": "white",
+  "AboutColumns.columns": [
+    {
+      "title": "Seguridad de Usuarios y Conductores",
+      "desc": "En DiDi nos preocupa mucho tu seguridad. Aprende sobre todas las opciones de seguridad que tienes.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary",
+      "linkItem": "/mx/seguridad/",
+      "btnText": "Saber Más",
+      "btnMode": "dark",
+      "btnLink": "/mx/seguridad/"
+    },
+    {
+      "title": "Preguntas Frecuentes",
+      "desc": "Juntamos las principales preguntas de usuarios y conductores para que puedas informarte.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary",
+      "linkItem": "/mx/centro-de-ayuda/",
+      "btnText": "Saber Más",
+      "btnMode": "dark",
+      "btnLink": "/mx/centro-de-ayuda/"
+    }
+  ],
+  "AboutGlobalCTA.title": "Conócenos",
+  "AboutGlobalCTA.desc": "DiDi es la plataforma de movilidad inteligente líder en el mundo. Actualmente ofrecemos una amplia gama de servicios por aplicación en 16 países a través de Asia Pacífico, América Latina y África.",
+  "AboutCountryCTA.title": "DiDi en México",
+  "AboutCountryCTA.desc": "En 2018 llegamos a México, con un gran objetivo: Transformar la movilidad. \n Hoy tenemos operaciones en más de 50 ciudades del país con nuestros productos: DiDi Express, DiDi Taxi, DiDi Connect, DiDi Economy, DiDi Entrega, DiDi Hero, DiDi Protect, DiDi Vacúnate y DiDi Food.",
+  "AboutCountryCTA.bullets": false,
+  "FoodHero.title": "DiDi Food: Tu comida cuando quieras, donde quieras",
+  "FoodHero.desc": "De tu restaurante favorito a la puerta de tu casa.",
+  "FoodHero.textColor": "white",
+  "FoodHero.btnMode": "light",
+  "SafetyHero.title": "En DiDi tu seguridad es nuestra prioridad",
+  "SafetyHero.desc": "Revisa todas las funciones de seguridad que tiene nuestra app, antes, durante y después de cada viaje.",
+  "SafetyHero.textColor": "white",
+  "SafetyHero.btnMode": "light",
+  "SafetyGridBeforeTrip.bgColor": "bg-white",
+  "SafetyGridBeforeTrip.title": "Antes del Viaje",
+  "SafetyGridBeforeTrip.textColor": "gray-primary",
+  "SafetyGridBeforeTrip.urlBase": "/mx/seguridad/",
+  "SafetyGridBeforeTrip.columns": [
+    {
+      "title": "1. Verificación facial del pasajero",
+      "desc": "Verificamos la identidad del usuario para darte mayor seguridad en el viaje."
+    },
+    {
+      "title": "2. Anonimización del Teléfono",
+      "desc": "Encriptamos tu número de teléfono para que el pasajero no tenga tus datos reales. Solo podrán contactarse por temas de servicio a través de la app."
+    },
+    {
+      "title": "3. Contactos de Confianza",
+      "desc": "Puedes elegir hasta 5 personas para compartirles tu viaje en tiempo real desde la app."
+    },
+    {
+      "title": "4. Visibilidad del destino",
+      "desc": "DiDi es la única app que te muestra el destino del pasajero antes de aceptar el viaje."
+    },
+    {
+      "title": "5. DiDi Invitado",
+      "desc": "Se trata de la nueva función para que los pasajeros puedan indicar en la app si están pidiendo el viaje para alguien más. Así, tú sabrás exactamente a quién recoges."
+    }
+  ],
+  "SafetyGridDuringTrip.bgColor": "bg-orange-primary",
+  "SafetyGridDuringTrip.title": "Durante el Viaje",
+  "SafetyGridDuringTrip.desc": "",
+  "SafetyGridDuringTrip.textColor": "white",
+  "SafetyGridDuringTrip.urlBase": "/mx/seguridad/",
+  "SafetyGridDuringTrip.columns": [
+    {
+      "title": "6. Zonas de Riesgo",
+      "desc": "Identificamos las zonas de riesgo para protegerte durante el viaje, por lo que no se podrán solicitar viajes desde o hacia estas zonas. Actualmente contamos con cerca de 300 zonas restringidas y se van actualizando de manera constante. "
+    },
+    {
+      "title": "7. Monitoreo de Viaje",
+      "desc": "Si necesitas ayuda, presiona el Botón de Emergencia dentro de tu app para enlazarte al 911. Además, DiDi rastrea tu ubicación exacta."
+    },
+    {
+      "title": "8. Compartir Viaje",
+      "desc": "Comparte los datos y ubicación del viaje en tiempo real, desde la app."
+    },
+
+    {
+      "title": "9. Botón de Emergencia",
+      "desc": "Si necesitas ayuda, presiona el Botón de Emergencia dentro de tu app para enlazarte al 911 y DiDi rastreará tu ubicación exacta."
+    },
+    {
+      "title": "10. Localización GPS",
+      "desc": "Monitoreamos todos los viajes para que, si reportas un incidente, podamos reaccionar de forma inmediata."
+    },
+    {
+      "title": "11. Cámaras de Seguridad DiDi",
+      "desc": "Si detectas una situación de riesgo, puedes presionar el Botón de Emergencia y se comenzará a grabar el video del viaje. Soporte DiDi recibe una alerta para evaluar la situación en tiempo real y enviar apoyo si es necesario. *Disponible en Ciudad de México y Guadalajara."
+    },
+    {
+      "title": "12. DiDi Mujer",
+      "desc": "¿Eres conductora? Con DiDi puedes decidir si quieres realizar viajes solo con pasajeras mujeres."
+    },
+    {
+      "title": "13. Viaje con Cobertura",
+      "desc": "Cuando viajas en DiDi tienes una cobertura de responsabilidad civil que incluye gastos médicos por siniestro."
+    },
+    {
+      "title": "14. Inteligencia Artificial",
+      "desc": "Usamos AI para cuidarte durante tus viajes. Nuestros modelos Hércules, Clío y Temis analizan características de los viajes, los pasajeros, zonas, horarios e historial para identificar cualquier riesgo y alertarte o rechazar esa solicitud."
+    }
+  ],
+  "SafetyGridAfterTrip.bgColor": "bg-gray-light",
+  "SafetyGridAfterTrip.title": "Al Finalizar el Viaje",
+  "SafetyGridAfterTrip.textColor": "gray-primary",
+  "SafetyGridAfterTrip.urlBase": "/mx/seguridad/",
+  "SafetyGridAfterTrip.columns": [
+    {
+      "title": "15. Soporte DiDi 24/7",
+      "desc": "Contamos con atención 24/7 en nuestro chat en vivo."
+    },
+    {
+      "title": "16. Califica a tu Pasajero",
+      "desc": "Califica a tu pasajero después de cada viaje. Si tuviste una mala experiencia puedes seleccionar “No volver a viajar con este pasajero” y reportar cualquier conducta inapropiada."
+    },
+    {
+      "title": "17. Evita viajar con el mismo pasajero",
+      "desc": "Si así lo prefieres, puedes elegir la opción de no volver a viajar con alguna persona."
+    }
+  ],
+  "SafetyDrvColumns.title": "Seguridad ante COVID-19",
+  "SafetyDrvColumns.desc": "Para DiDi es muy importante seguir los lineamientos de protección ante el COVID-19. Por eso implementamos las siguientes medidas de prevención:",
+  "SafetyDrvColumns.columns": [
+    {
+      "title": "20. DiDi Prevent",
+      "desc": "Al conectarse, todos los conductores pasan por una verificación de uso de cubrebocas a través de inteligencia artificial. Para completarla, deben mandar una selfie, una foto demostrando que desinfectaron su vehículo y voluntariamente reportan su temperatura corporal dentro de los límites normales. Cuando aprueban la validación, comienzan a recibir viajes."
+    },
+    {
+      "title": "21. Barrera Plástica y Material Desinfectante",
+      "desc": "Los conductores pueden instalar una división plástica para separar los asientos delanteros de los traseros. Deben usar cubrebocas y tener líquido desinfectante a tu disposición."
+    }
+  ],
+  "SafetyGridDrv.bgColor": "bg-white",
+  "SafetyGridDrv.title": "Además, si eres un Socio Conductor/Taxista",
+  "SafetyGridDrv.desc": false,
+  "SafetyGridDrv.textColor": "gray-primary",
+  "SafetyGridDrv.columns": [
+    {
+      "title": "Zonas de seguridad para Socios Conductores",
+      "desc": "Pensando en tu seguridad, tenemos identificadas zonas de riesgo en las cuales la conectividad de la app no está habilitada.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Cancelar viajes en zonas de alto riesgo",
+      "desc": "Si recibes una solicitud de viaje en una zona de alto riesgo, podrás cancelar el viaje sin penalidad.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Bloquear usuario",
+      "desc": "Si eres socio conductor y no deseas que la plataforma te vuelva a conectar con el pasajero de tu último viaje, podrás usar la opción desvinculación de usuario. Esto evitará que futuros viajes coincidan con esa persona.",
+      "bgColor": "bg-white"
+    },
+    {
+      "title": "Información del usuario",
+      "desc": "Si eres socio conductor/taxista, la aplicación te mostrará quién es el pasajero y podrás ver todos los detalles antes de iniciar el viaje, incluso el destino al que se dirige.",
+      "bgColor": "bg-white"
+    }
+  ],
+  "SafetyFeatures.linkItem": "/mx/seguridad/funciones/{{feature}}",
+  "SafetyGridPaxBeforeTrip.title": "Antes del viaje",
+  "SafetyGridPaxBeforeTrip.urlBase": "/mx/seguridad/",
+  "SafetyGridPaxBeforeTrip.columns": [
+    {
+      "title": "1. Verificación de Conductores",
+      "desc": "Realizamos una validación estricta del perfil de todos los conductores revisando más de 10 documentos. *Los requisitos pueden cambiar por ciudad.",
+      "width": "w-72"
+    },
+    {
+      "title": "2. Reconocimiento facial a conductores",
+      "desc": "Para conectarse a su cuenta, los conductores realizan una prueba de Reconocimiento Facial para validar su identidad.",
+      "width": "w-72"
+    },
+    {
+      "title": "3. Pruebas de Confianza",
+      "desc": "En ciertos casos, los conductores realizan una prueba presencial de conducta con reacción pupilar. ",
+      "width": "w-72"
+    },
+    {
+      "title": "4. Información del Viaje",
+      "desc": "Antes de subir al auto, la app te mostrará el nombre y la foto del conductor, los filtros seguridad que aprobó, número de viajes, tiempo en la plataforma y los datos del vehículo.",
+      "width": "w-72"
+    },
+    {
+      "title": "5. Anonimización del Teléfono",
+      "desc": "Encriptamos tu número de teléfono para que el conductor no tenga tus datos reales. Solo se pueden contactar por temas de servicio a través de la app.",
+      "width": "w-72"
+    },
+    {
+      "title": "6. Contactos de Confianza",
+      "desc": "Puedes elegir hasta 5 personas para compartirles tus viajes en tiempo real.",
+      "width": "w-72"
+    },
+    {
+      "title": "7. DiDi Invitado",
+      "desc": "¿Le pides el viaje a alguien más? Con esta nueva herramienta tu invitado va a poder ver su viaje en tiempo real desde su teléfono, así como los datos del auto y conductor.",
+      "width": "w-72"
+    }
+  ],
+  "SafetyGridPaxDuringTrip.title": "Durante el viaje",
+  "SafetyGridPaxDuringTrip.columns": [
+    {
+      "title": "8. Botón de Emergencia",
+      "desc": "Cuando presiones el botón de 911, te redirigiremos directamente con la policía.",
+      "width": "w-72"
+    },
+    {
+      "title": "9. Compartir Viaje",
+      "desc": "Cuando viajas en DiDi puedes compartir tu ubicación en tiempo real y los datos del viaje.",
+      "width": "w-72"
+    },
+    {
+      "title": "10. Monitoreo de Viaje",
+      "desc": "Si necesitas ayuda, presiona el Botón de Emergencia dentro de tu app para enlazarte al 911 y DiDi rastreará tu ubicación exacta.",
+      "width": "w-72"
+    },
+    {
+      "title": "11. Cámaras de Seguridad",
+      "desc": "Instalamos cámaras en más de 900 vehículos en Guadalajara. Si existe alguna situación de riesgo, tu conductor puede presionar el Botón de Emergencia y se comenzará a grabar el video del viaje. Soporte DiDi recibe una alerta para evaluar la situación en tiempo real y, de ser necesario, enviar apoyo a tu ubicación. *Disponible solo en Guadalajara.",
+      "width": "w-72"
+    },
+    {
+      "title": "12. Localización GPS",
+      "desc": "Rastreamos por GPS todos los viajes para que, si reportas un incidente, podamos reaccionar de forma inmediata.",
+      "width": "w-72"
+    },
+    {
+      "title": "13. Cobertura Adicional",
+      "desc": "Con DiDi cuentas con Cobertura Adicional a la del vehículo para cada viaje; es una cobertura de responsabilidad civil que incluye gastos médicos por siniestro.",
+      "width": "w-72"
+    },
+    {
+      "title": "14. Inteligencia Artificial",
+      "desc": "Usamos AI para cuidarte durante tus viajes. Por ejemplo, Pitia es un modelo que analiza hora, lugar y otras variables para asignar solo a conductores más experimentados.",
+      "width": "w-72"
+    },
+    {
+      "title": "15. Alianza C5",
+      "desc": "Nos unimos al C5 de Guadalajara y del Estado de México. En caso de que necesites ayuda, se les notificará cuando presiones el Botón de Emergencia para que puedan asistirte.",
+      "width": "w-72"
+    }
+  ],
+  "SafetyGridPaxAfterTrip.title": "Al finalizar el viaje",
+  "SafetyGridPaxAfterTrip.columns": [
+    {
+      "title": "16. Recuperación de Objetos Olvidados",
+      "desc": "¿Olvidaste algo en el vehículo? Con DiDi puedes contactar directamente al conductor para acordar la devolución.",
+      "width": "w-72"
+    },
+    {
+      "title": "17. Soporte 24/7",
+      "desc": "Contamos con atención 24/7 en nuestro chat en vivo.",
+      "width": "w-72"
+    },
+    {
+      "title": "18. Califica a tu Conductor",
+      "desc": "Califica a tu conductor después de cada viaje. Si tuviste una mala experiencia, puedes seleccionar “No volver a viajar con este conductor” y reportar cualquier conducta inapropiada. También puedes calificar con 5 estrellas si el servicio te gustó mucho.",
+      "width": "w-72"
+    },
+    {
+      "title": "19. Bloquear a conductor",
+      "desc": "Si tuviste una mala experiencia, puedes seleccionar “No volver a viajar con este conductor” y reportar cualquier conducta inapropiada.",
+      "width": "w-72"
+    }
+  ],
+  "SafetyPaxColumns.title": "Seguridad ante COVID-19",
+  "SafetyPaxColumns.desc": "Para DiDi es muy importante seguir los lineamientos de protección ante el COVID-19. Por eso implementamos las siguientes medidas de prevención:",
+  "SafetyPaxColumns.columns": [
+    {
+      "title": "18. DiDi Prevent",
+      "desc": "Al conectarse, todos los conductores pasan por una verificación de uso de cubrebocas a través de inteligencia artificial. Para completarla, deben mandar una selfie, una foto demostrando que desinfectaron su vehículo y voluntariamente reportan su temperatura corporal dentro de los límites normales. Cuando aprueban la validación comienzan a recibir viajes."
+    },
+    {
+      "title": "19. Barrera Plástica y Material Desinfectante",
+      "desc": "Los conductores pueden instalar una división plástica para separar los asientos delanteros de los traseros. Deben usar cubrebocas y tener líquido desinfectante a tu disposición."
+    }
+  ],
+  "HelpCenterHero.title": "Centro de Ayuda",
+  "HelpCenterHero.desc": "Conoce las principales preguntas que nos hacen pasajeros y socios conductores",
+  "HelpCenterHero.textColor": "white",
+  "HelpCenterHero.btnMode": "primary",
+  "HelpCenterFAQDrv.title": "Preguntas Socios Conductores",
+  "HelpCenterFAQDrv.desc": "Chat en vivo con soporte 24/7 disponible en la sección inferior del menú de ayuda de la app DiDi Conductor. \n Llámanos: \n 800 725 8888",
+  "HelpCenterFAQDrv.textColor": "gray-primary",
+  "HelpCenterFAQDrv.bgColor": "bg-white",
+  "HelpCenterFAQPax.title": "Preguntas Pasajeros",
+  "HelpCenterFAQPax.desc": "Chat en vivo con soporte 24/7 disponible en la sección inferior del menú de ayuda de la app DiDi Pasajero.",
+  "HelpCenterFAQPax.textColor": "gray-primary",
+  "HelpCenterFAQPax.bgColor": "bg-gray-light",
+  "ArticlesHero.title": "DiDi Artículos",
+  "ArticlesHero.desc": "Entérate de lugares interesantes y divertidos de ir a visitar.",
+  "ArticlesHero.textColor": "white",
+  "ArticlesHero.btnMode": "light",
+  "NewsroomHero.title": "DiDi Newsroom",
+  "NewsroomHero.desc": "Comunicaciones Oficiales de DiDi",
+  "NewsroomHero.textColor": "white",
+  "NewsroomHero.btnMode": "light",
+  "ArticlesColumns.title": "DiDi Artículos de Lugares para Visitar en Mexico",
+  "ArticlesColumns.bgColor": "bg-blue-primary",
+  "ArticlesColumns.textColor": "white",
+  "ArticlesColumns.btnText": "Leer Artículo",
+  "ArticlesColumns.btnMode": "dark",
+  "ArticlesColumns.linkItem": "/mx/articulos/{{article}}/",
+  "PrestamosArticlesColumns.linkItem": "/mx/prestamos/blog/{{article}}/",
+  "NewsroomColumns.title": "Comunicados Oficiales DiDi",
+  "NewsroomColumns.bgColor": "bg-blue-primary",
+  "NewsroomColumns.textColor": "white",
+  "NewsroomColumns.btnText": "Leer Comunicado",
+  "NewsroomColumns.btnMode": "dark",
+  "NewsroomColumns.linkItem": "/mx/newsroom/{{article}}/",
+  "ArticleHero.textColor": "white",
+  "ArticleHero.btnMode": "light",
+  "GuidesHero.title": "Guías para Conductores Mexico",
+  "GuidesHero.desc": "Te invitamos a leer nuestras guías para conductores.",
+  "GuidesHero.textColor": "white",
+  "GuidesHero.btnMode": "light",
+  "GuideHero.textColor": "white",
+  "GuideHero.btnMode": "light",
+  "GuidesColumns.title": "Guías para Socios Conductores en Mexico",
+  "GuidesColumns.bgColor": "bg-blue-primary",
+  "GuidesColumns.textColor": "white",
+  "GuidesColumns.btnText": "Leer Artículo",
+  "GuidesColumns.btnMode": "dark",
+  "GuidesColumns.linkItem": "/mx/guias/{{guide}}/",
+  "PartnersHero.title": "Para que siempre logres más usa DiDiMás+",
+  "PartnersHero.desc": "Un programa que te da acceso a descuentos y a facilidades ofrecidas por aliados para ayudarte.",
+  "PartnersHero.textColor": "white",
+  "PartnersHero.bgColor": "bg-orange-primary",
+  "PartnersHero.btnMode": "light",
+  "PartnersGrid.bgColor": "bg-white",
+  "PartnersGrid.title": "Esto es solo el comienzo, pronto vendrán más promociones",
+  "PartnersGrid.textColor": "gray-primary",
+  "PartnersGrid.linkItem": "/mx/didimas/{{partnerName}}/",
+  "PartnersGrid.linkItem2": "/mx/tarjeta-de-credito/beneficios/{{partnerName}}/",
+  "PartnerColumns.title": "Conoce los beneficios que tenemos para ti",
+  "PartnerColumns.columns": [
+    {
+      "title": "Descuentos en Entretenimiento"
+    },
+    {
+      "title": "Descuentos en Productos"
+    },
+    {
+      "title": "Descuentos en combustible"
+    },
+    {
+      "title": "Facilidades al rentar un auto"
+    },
+    {
+      "title": "Administración de Flotilla"
+    },
+    {
+      "title": "Contabilidad y Finanzas"
+    },
+    {
+      "title": "Descuentos en seguros de autos"
+    },
+    {
+      "title": "Salud y bienestar"
+    },
+    {
+      "title": "Educación"
+    },
+    {
+      "title": "Telefonia"
+    }
+  ],
+  "PartnersCTA.title": "Con DiDiMás+ mientras más manejes, más beneficios obtendrás",
+  "PartnersCTA.desc": "¡Y eso no es todo! Prontamente tendremos más beneficios para ti. Te mantendremos informado de todas las novedades de DiDiMás+.",
+  "PartnersCTA.textColor": "white",
+  "PartnersCTA.bgColor": "bg-blue-primary",
+  "PartnersCTA.btnMode": "light",
+  "PartnerHero.textColor": "white",
+  "PartnerHero.bgColor": "bg-orange-primary",
+  "PartnerHero.btnMode": "light",
+  "DrvCityHero.title": "Socios Conductores en {{city}}",
+  "DrvCityHero.desc": "¿Quieres convertirte en Socio Conductor DiDi en {{city}}?. Regístrate online. ",
+  "DrvCityHero.textColor": "white",
+  "DrvCityHero.bgColor": "bg-blue-primary",
+  "DrvCityHero.btnMode": "primary",
+  "DrvCityOffice.title": "Driver Center {{city}}",
+  "DrvCityOffice.desc": "Dirección: {{officeAddress}} {{officePhone}}",
+  "DrvCityOffice.textColor": "gray-primary",
+  "DrvCityOffice.bgColor": "bg-white",
+  "DrvCityOffice.btnMode": "primary",
+  "DirectionHero.title": "Como llegar a {{destination}} desde {{origin}}",
+  "DirectionHero.desc": "Desde: {{originAddress}} | Hacia: {{destinationAddress}}",
+  "DirectionHero.textColor": "white",
+  "DirectionHero.bgColor": "bg-blue-primary",
+  "DirectionHero.btnMode": "light",
+  "CityList.title": "Ciudades en México",
+  "CityList.desc": "Descubre lugares para ir a visitar en México",
+  "CityList.bgColor": "bg-white",
+  "CityList.textColor": "gray-primary",
+  "CityList.linkItem": "/mx/lugares/lugares-en-{{city}}/",
+  "PlaceMap.title": "Líneas cercanas a {{placeName}}",
+  "PlaceMap.desc": "Mejor pide un DiDi y viajarás mas seguro y  más rápido",
+  "PlaceMap.textColor": "gray-primary",
+  "PlaceMap.bgColor": "bg-white",
+  "PlaceMap.btnMode": "primary",
+  "DirectoryList.title": "Direcciones a Atracciones en {{city}}",
+  "DirectoryList.desc": "Encontraras detalle de lineas y como irte en distintos medios",
+  "DirectoryList.bgColor": "bg-white",
+  "DirectoryList.textColor": "gray-primary",
+  "DirectoryList.linkItem": "/mx/lugares/como-llegar-a-{{placeName}}_{{placeAddress}}/",
+  "DirectoryOriginList.title": "Como llegar a {{placeName}} desde distintos puntos de la ciudad",
+  "DirectoryOriginList.desc": "Encontraras detalle de lineas y como irte en distintos medios",
+  "DirectoryOriginList.bgColor": "bg-white",
+  "DirectoryOriginList.textColor": "gray-primary",
+  "DirectoryOriginList.linkItem": "/mx/lugares/como-llegar-a-{{destination}}-desde-{{origin}}_{{destinationAddress}}/",
+  "DirectionBanner.title": "Pide un DiDi a {{destination}} y llega en {{ carDuration}} ",
+  "DirectionBanner.desc": "Si te vas en transporte público te tomará {{duration}} en llegar. Viaja rápido, seguro y barato.",
+  "DirectionBanner.bgColor": "bg-orange-primary",
+  "DirectionBanner.textColor": "white",
+  "DirectionBanner.btnMode": "light",
+  "LegalHero.title": "Revisa nuestros Términos y Condiciones, Avisos de Privacidad y Políticas.",
+  "LegalHero.desc": "",
+  "LegalHero.textColor": "white",
+  "LegalHero.btnText": "Términos y Condiciones",
+  "LegalHero.btnMode": "hidden",
+  "LegalHero.linkItem": "http://privacycenter.didiglobal.com/MX/privacy-notice/747f22cd40983ba85de5260aaf4d40b3/Mexico",
+  "StoreHero.title": "Escanéa el QR con tu celular ",
+  "StoreHero.desc": "Descarga DiDi escaneando el código con tu celular y ten acceso a viajes, comida y servicios financieros.",
+  "StoreHero.textColor": "white",
+  "StoreHero.bgColor": "bg-orange-primary",
+  "StoreHero.btnMode": "light",
+  "StoreFleetHero.title": "Escanea el QR con tu celular ",
+  "StoreFleetHero.desc": "Descarga DiDi Fleet escaneando el código con tu celular",
+  "StoreFleetHero.textColor": "white",
+  "StoreFleetHero.bgColor": "bg-orange-primary",
+  "StoreFleetHero.btnMode": "light",
+  "StorePayHero.title": "Escanea el QR con tu celular ",
+  "StorePayHero.desc": "Descarga DiDi Pay escaneando el código con tu celular",
+  "StorePayHero.textColor": "white",
+  "StorePayHero.bgColor": "bg-orange-primary",
+  "StorePayHero.btnMode": "light",
+  "StoreLoanAppHero.title": "Escanea el QR con tu celular ",
+  "StoreLoanAppHero.desc": "Descarga DiDi Préstamos escaneando el código con tu celular",
+  "StoreLoanAppHero.textColor": "white",
+  "StoreLoanAppHero.bgColor": "bg-orange-primary",
+  "StoreLoanAppHero.btnMode": "light",
+  "SBDrv.title": "DiDi Conductor",
+  "SBDrv.desc": "Ganancias Extras",
+  "SBPax.title": "DiDi Pasajero",
+  "SBPax.desc": "Pide un Viaje",
+  "SBFleet.title": "Renta tus Autos",
+  "SBFleet.desc": "Ganancias Extras",
+  "SBPay.title": "Paga con DiDi Pay",
+  "SBPay.desc": "Tu billetera digital",
+  "SBFoodEater.title": "DiDi Food",
+  "SBFoodEater.desc": "Pide Comida a Domicilio",
+  "SBFoodBusiness.title": "DiDi Food",
+  "SBFoodBusiness.desc": "Crece tu Negocio",
+  "SBFoodDelivery.title": "DiDi Repartidor",
+  "SBFoodDelivery.desc": "Gana con Más Libertad",
+  "FleetHero.title": "DiDi Fleet: Deja que tu coche produzca por ti.",
+  "FleetHero.desc": "Tú pones el coche y DiDi Fleet te ayuda a encontrar un conductor para rentarlo y generar ganancias.",
+  "FleetHero.btnMode": "light",
+  "FleetHero.textColor": "white",
+  "FinancialServicesHero.title": "DiDi Servicios Financieros",
+  "FinancialServicesHero.desc": "Conoce nuestra gama de productos financieros que te ayudarán al máximo.",
+  "FinancialServicesHero.textColor": "white",
+  "FinancialServicesHero.btnMode": "light",
+  "FinancialServicesColumns.bgColor": "bg-blue-primary",
+  "FinancialServicesColumns.title": "Información útil para usuarios y conductores",
+  "FinancialServicesColumns.textColor": "white",
+  "FinancialServicesColumns.columns": [
+    {
+      "title": "DiDi Card",
+      "desc": "Pídela en 5 minutos.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary",
+      "linkItem": "/mx/tarjeta-de-credito/",
+      "btnText": "Saber Más",
+      "btnMode": "dark",
+      "btnLink": "/mx/tarjeta-de-credito/"
+    },
+    {
+      "title": "DiDiPay",
+      "desc": "Apaga tu cartera y activa DiDi Pay",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary",
+      "linkItem": "/mx/didipay/",
+      "btnText": "Saber Más",
+      "btnMode": "dark",
+      "btnLink": "/mx/didipay/"
+    },
+    {
+      "title": "DiDi Préstamos",
+      "desc": "Solicita un préstamo en DiDi Préstamos",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary",
+      "linkItem": "/mx/prestamos/",
+      "btnText": "Saber Más",
+      "btnMode": "dark",
+      "btnLink": "/mx/prestamos/"
+    }
+  ],
+  "DiDiPayHero.title": "DiDi Pay: Pagos seguros y sin comisiones desde tu teléfono",
+  "DiDiPayHero.desc": "Baja la App y asocia tu tarjeta.",
+  "DiDiPayHero.btnMode": "light",
+  "DiDiPayHero.textColor": "white",
+  "DiDiPayHero.bgColor": "bg-orange-primary",
+  "DiDiPayWhyDiDi.title": "Apaga tu cartera, activa DiDi Pay",
+  "DiDiPayWhyDiDi.desc": "Añade tu tarjeta de crédito o débito y disfruta de promociones, ofertas especiales y cupones de descuento. Encuentra estos servicios en \"Mi billetera\". ",
+  "DiDiPayWhyDiDi.btnMode": "primary",
+  "DiDiPayWhyDiDi.textColor": "gray-primary",
+  "DiDiPayWhyDiDi.bgColor": "bg-white",
+  "DiDiPayFeatures.title": "Con tu billetera digital disfuta de todos estos beneficios",
+  "DiDiPayFeatures.bullets": [
+    "Paga tus recibos, recargas de tiempo aire, tarjetas de regalo, órdenes de comida y viajes con DiDi en cualquier momento.",
+    "Usa cualquier tarjeta de crédito o débito para hacer tus pagos de manera rápida y segura.",
+    "Olvídate de las comisiones, las filas y los horarios.",
+    "Disfruta de promociones únicas y cupones de descuento para todos los servicios."
+  ],
+  "DiDiPayFeatures.btnMode": "primary",
+  "DiDiPayFeatures.textColor": "gray-primary",
+  "DiDiPayFeatures.bgColor": "bg-white",
+  "DiDiPaySilderSection.title": "",
+  "DiDiPaySilderSection.items": [
+    {
+      "name": "Paso1",
+      "description": "Desde tu DiDi app, da clic en “Mi billetera” para ir a los servicios de DiDi Pay."
+    },
+    {
+      "name": "Paso2",
+      "description": "En la sección de “Mi billetera”, podrás añadir cualquier tarjeta de crédito o debito como método de pago dando clic en el botón “+”"
+    },
+    {
+      "name": "Paso3",
+      "description": "Ingresa los datos de la tarjeta que deseas añadir y da clic en “Agregar”"
+    },
+    {
+      "name": "Paso4",
+      "description": "¡Listo! Ahora tienes un método de pago para usar cualquier servicio de DiDi Pay y disfrutar de promociones y beneficios únicos."
+    }
+  ],
+  "DiDiPayGrid.title": "Ahorra hasta tu tiempo, paga desde donde estés con DiDi Pay.",
+  "DiDiPayGrid.desc": "Simplifica tu día con nuestros nuevos servicios.",
+  "DiDiPayGrid.bgColor": "bg-gray-light",
+  "DiDiPayGrid.textColor": "gray-primary",
+  "DiDiPayGrid.columns": [
+    {
+      "title": "Tiempo Aire",
+      "desc": "Recarga saldo Movistar, Telcel, Unefon, AT&T y más.",
+      "btnMode": "primary",
+      "btnText": "Conoce más",
+      "btnLink": "/mx/didipay/recarga-celular/"
+    },
+    {
+      "title": "Pago de servicios",
+      "desc": "Paga tu recibo de CFE, Telmex, Izzi y más.",
+      "btnMode": "primary",
+      "btnText": "Conoce más",
+      "btnLink": "/mx/didipay/servicios/"
+    },
+    {
+      "title": "Tarjeta de regalo",
+      "desc": "Compra tarjetas electrónicas de todo tipo con DiDi Pay",
+      "btnMode": "primary",
+      "btnText": "Conoce más",
+      "btnLink": "/mx/didipay/tarjetas-de-regalo/"
+    }
+  ],
+  "DiDiPayArticlesColumns.title": "Sigue nuestros artículos financieros.",
+  "DiDiPayArticlesColumns.desc": "",
+  "DiDiPayArticlesColumns.bgColor": "bg-gray-light",
+  "DiDiPayArticlesColumns.textColor": "gray-primary",
+  "DiDiPayArticlesColumns.linkItem": "/mx/didipay/blog/{{article}}/",
+  "DiDiPayBusinessCTA.title": "Crece las ventas de tu negocio",
+  "DiDiPayBusinessCTA.desc": "Activa DiDi Pay como método de pago para aceptar cualquier tarjeta bancaria en tu comercio. Fácil, rápido, eficiente y mucho más conveniente. \n Ofrece tus productos o servicios a nuestros millones de usuarios a nivel nacional y ve cómo se incrementan tus ventas de inmediato.",
+  "DiDiPayBusinessCTA.bgColor": "bg-orange-primary",
+  "DiDiPayBusinessCTA.textColor": "white",
+  "DiDiPayBusinessCTA.btnMode": "light",
+  "DiDiPayBusinessCTA.btnText": "Conoce más",
+  "DiDiPayBusinessCTA.btnLink": "#",
+  "DiDiPayBanner.title": "La excusa perfecta para consentir",
+  "DiDiPayBanner.desc": "Regala tarjetas de tus marcas favoritas con DiDi Pay",
+  "DiDiPayBanner.bgColor": "bg-blue-dark",
+  "DiDiPayBanner.textColor": "white",
+  "DiDiPayColumns.title": "¿Tienes dudas?",
+  "DiDiPayColumns.desc": "",
+  "DiDiPayColumns.bgColor": "bg-gray-light",
+  "DiDiPayColumns.columns": [
+    {
+      "title": "",
+      "desc": "Encuentra nuestro chat en vivo de soporte dentro de la aplicación o contáctanos al 8009533300",
+      "textColor": "gray-primary",
+      "height": "h-40"
+    },
+    {
+      "title": "",
+      "desc": "Consulta nuestras preguntas frecuentes",
+      "textColor": "gray-primary",
+      "btnText": "Preguntas Frecuentes",
+      "btnLink": "/mx/didipay/preguntas-frecuentes/",
+      "btnMode": "light",
+      "height": "h-40"
+    }
+  ],
+  "DiDiPayFAQKnowMoreBanner.title": "¿Aún tienes dudas?",
+  "DiDiPayFAQKnowMoreBanner.desc": "Encuentra nuestro chat en vivo de soporte dentro de la aplicación o contáctanos al 8009533300",
+  "DiDiPayFAQKnowMoreBanner.bgColor": "bg-orange-primary",
+  "DiDiPayFAQKnowMoreBanner.textColor": "white",
+  "DiDiPayBusinessColumns.title": "",
+  "DiDiPayBusinessColumns.desc": "",
+  "DiDiPayBusinessColumns.bgColor": "bg-orange-primary",
+  "DiDiPayBusinessColumns.columns": [
+    {
+      "title": " ",
+      "textColor": "gray-primary",
+      "btnText": "Solicita Informacion",
+      "btnLink": "#",
+      "btnType": "custom",
+      "btnMode": "light",
+      "height": "h-40"
+    },
+    {
+      "title": " ",
+      "textColor": "gray-primary",
+      "btnText": "Preguntas Frecuentes",
+      "btnLink": "/mx/didipay/preguntas-frecuentes/",
+      "btnMode": "light",
+      "height": "h-40"
+    }
+  ],
+  "DiDiPayFAQHero.title": "Preguntas Frecuentes",
+  "DiDiPayFAQHero.desc": "Resuelve tus dudas sobre los servicios de DiDi Pay",
+  "DiDiPayFAQHero.bgColor": "bg-gray-light",
+  "DiDiPayFAQHero.textColor": "white",
+  "DiDiPayFAQHero.btnMode": "light",
+  "DiDiPayFAQs.title": "Preguntas Frecuentes",
+  "DiDiPayFAQs.desc": "",
+  "DiDiPayFAQs.bgColor": "bg-gray-light",
+  "DiDiPDiDiPayFAQsayColumns.bgColor": "bg-orange-primary",
+  "DiDiPayServiceHero.title": "Paga tus recibos de luz, agua y más desde el celular",
+  "DiDiPayServiceHero.desc": "¡Al corriente con los servicios! paga desde DiDi Pay.",
+  "DiDiPayServiceHero.btnMode": "light",
+  "DiDiPayServiceHero.textColor": "white",
+  "DiDiPayServiceHero.bgColor": "bg-orange-primary",
+  "DiDiPayServiceWhy.title": "Cómo pagar tus servicios con DiDi Pay",
+  "DiDiPayServiceWhy.desc": "1. Abre tu App DiDi y ve a la sección. \n2. Selecciona el servicio que deseas pagar, escanea el código de barras y confirma la cantidad. \n3. ¡Listo! paga sin comisiones con cualquier tarjeta. Disfruta de tus cupones de descuento.",
+  "DiDiPayServiceWhy.textColor": "gray-primary",
+  "DiDiPayServiceGrid.title": "Paga tus recibos con DiDi Pay",
+  "DiDiPayServiceGrid.desc": "Paga tus recibos de la CFE, Agua, IZZI, Totalplay, telmex y más sin hacer fila y sin comisiones.",
+  "DiDiPayServiceGrid.bgColor": "bg-gray-light",
+  "DiDiPayServiceGrid.textColor": "gray-primary",
+  "DiDiPayServiceGrid.columns": [
+    {
+      "title": "Paga el recibo de CFE en linea",
+      "desc": "Recarga saldo Movistar, Telcel, Unefon, AT&T y más."
+    },
+    {
+      "title": "Paga el recibo del agua",
+      "desc": "Paga tu recibo de CFE, Telmex, Izzi y más."
+    },
+    {
+      "title": "Paga el servicio de internet",
+      "desc": "Compra tarjetas electrónicas de todo tipo con DiDi Pay"
+    }
+  ],
+  "DiDiPayServiceColumns.title": "Paga tus recibos desde tu celular con tu App DiDi",
+  "DiDiPayServiceColumns.desc": "En solo 3 pasos paga tus recibos de la CFE, Agua, Telefonía, y más sin hacer fila y sin comisiones.",
+  "DiDiPayServiceColumns.bgColor": "bg-gray-light",
+  "DiDiPayServiceColumns.columns": [
+    {
+      "title": "",
+      "textColor": "gray-primary",
+      "btnMode": "light",
+      "btnText": "¿Qué es DiDi Pay?",
+      "btnLink": "/mx/didipay/"
+    },
+    {
+      "title": "",
+      "textColor": "gray-primary",
+      "btnText": "¿Cómo funciona DiDi Pay?",
+      "btnLink": "/mx/didipay/preguntas-frecuentes/",
+      "btnMode": "light"
+    },
+    {
+      "title": "",
+      "textColor": "gray-primary",
+      "btnText": "Preguntas Frecuentes",
+      "btnLink": "/mx/didipay/preguntas-frecuentes/",
+      "btnMode": "light"
+    }
+  ],
+  "DiDiPayGiftcardHero.title": "Compra tarjetas de regalo de tus marcas favoritas con DiDi Pay",
+  "DiDiPayGiftcardHero.desc": "Encuentra la tarjeta perfecta para cada ocasión.",
+  "DiDiPayGiftcardHero.btnMode": "light",
+  "DiDiPayGiftcardHero.textColor": "white",
+  "DiDiPayGiftcardHero.bgColor": "bg-orange-primary",
+  "DiDiPayGiftcardWhy.title": "Cómo comprar tarjetas de regalo con DiDi Pay",
+  "DiDiPayGiftcardWhy.desc": "1. Abre tu App DiDi y ve a la sección. \"Mi Billetera\" \n2. Selecciona la marca y el monto que deseas. \n3. ¡Listo! paga sin comisiones con cualquier tarjeta. Disfruta de tus cupones de descuento.\n4. Ahora ya tienes tu código para canjear tu tarjeta o regalársela a esa persona especial.",
+  "DiDiPayGiftcardWhy.textColor": "gray-primary",
+  "DiDiPayGiftcardFeatures.title": "Compra tarjetas de regalo",
+  "DiDiPayGiftcardFeatures.desc": "Encuentra tarjetas de regalo de Xbox, Shopify, Cinépolis y más.",
+  "DiDiPayGiftcardFeatures.bullets": [
+    "Compra tarjetas de regalo de streaming, cine, shopping y más.",
+    "Usa tus tarjetas favoritas de crédito o débito para hacer tus pagos.",
+    "Olvídate de las comisiones."
+  ],
+  "DiDiPayGiftcardFeatures.btnMode": "primary",
+  "DiDiPayGiftcardFeatures.textColor": "gray-primary",
+  "DiDiPayGiftcardFeatures.bgColor": "bg-gray-light",
+  "DiDiPayGiftcardColumns.title": "Compra tarjetas de regalo desde tu app DiDi.",
+  "DiDiPayGiftcardColumns.desc": "Encuentra el regalo perfecto para cualquier ocasión, no importa si es para tu mamá, tu papá, tu pareja o tu amix, con DiDi Pay seguri hay algo para todos.",
+  "DiDiPayGiftcardColumns.bgColor": "bg-gray-light",
+  "DiDiPayGiftcardColumns.columns": [
+    {
+      "title": "",
+      "textColor": "gray-primary",
+      "btnMode": "light",
+      "btnText": "¿Qué es DiDi Pay?",
+      "btnLink": "/mx/didipay/"
+    },
+    {
+      "title": "",
+      "textColor": "gray-primary",
+      "btnText": "¿Cómo funciona DiDi Pay?",
+      "btnLink": "/mx/didipay/preguntas-frecuentes/",
+      "btnMode": "light"
+    },
+    {
+      "title": "",
+      "textColor": "gray-primary",
+      "btnText": "Preguntas Frecuentes",
+      "btnLink": "/mx/didipay/preguntas-frecuentes/"
+    }
+  ],
+  "DiDiPayPhoneHero.title": "Recarga tiempo aire y megas a cualquier número desde tu celular",
+  "DiDiPayPhoneHero.desc": "Haz recargas desde $10 m.n. sin comisiones.",
+  "DiDiPayPhoneHero.btnMode": "light",
+  "DiDiPayPhoneHero.textColor": "white",
+  "DiDiPayPhoneHero.bgColor": "bg-orange-primary",
+  "DiDiPayPhoneWhy.title": "Cómo recargar tiempo aire y megas con DiDi Pay",
+  "DiDiPayPhoneWhy.desc": "1. Abre tu App DiDi y ve a la sección. \"Mi Billetera\" \n2. Ingresa el número de teléfono al que quieres hacer la recarga. \n3. Selecciona el proveedor de telefonía y la cantidad o paquete que deseas. \n4. ¡Listo! paga sin comisiones con cualquier tarjeta. Disfruta de tus cupones de descuento.",
+  "DiDiPayPhoneWhy.textColor": "gray-primary",
+  "DiDiPayPhoneFeatures.title": "Tiempo Aire y megas",
+  "DiDiPayPhoneFeatures.desc": "Recarga saldo Movistar, Telcel, Unefon, AT&T y más.",
+  "DiDiPayPhoneFeatures.bullets": [
+    "Recarga tiempo aire y megas a cualquier número desde $10 m.n.",
+    "Usa cualquier tarjeta de crédito o débito para hacer tus pagos de recargas.",
+    "Olvídate de las filas, las comisiones y los horarios."
+  ],
+  "DiDiPayPhoneFeatures.btnMode": "primary",
+  "DiDiPayPhoneFeatures.textColor": "gray-primary",
+  "DiDiPayPhoneFeatures.bgColor": "bg-gray-light",
+  "DiDiPayPhoneColumns.title": "Tiempo aire para cualquier número y desde $10 m.n.",
+  "DiDiPayPhoneColumns.desc": "Recarga saldo Telcel, Movistar, Bait y otros desde tu app DiDi. Ponle saldo a cualquier número de forma rápida y sin comisiones.",
+  "DiDiPayPhoneColumns.bgColor": "bg-gray-light",
+  "DiDiPayPhoneColumns.columns": [
+    {
+      "title": "",
+      "textColor": "gray-primary",
+      "btnMode": "light",
+      "btnText": "¿Qué es DiDi Pay?",
+      "btnLink": "/mx/didipay/"
+    },
+    {
+      "title": "",
+      "textColor": "gray-primary",
+      "btnText": "¿Cómo funciona DiDi Pay?",
+      "btnLink": "/mx/didipay/preguntas-frecuentes/",
+      "btnMode": "light"
+    },
+    {
+      "title": "",
+      "textColor": "gray-primary",
+      "btnText": "Contáctanos",
+      "btnLink": "/mx/didipay/preguntas-frecuentes/",
+      "btnMode": "light"
+    }
+  ],
+  "DiDiPrestamosBlogHero.title": "Bienvenido al Blog de DiDi Prestamos",
+  "DiDiPrestamosBlogHero.desc": "Lee nuestros post de consejos financeiros",
+  "DiDiPrestamosBlogHero.textColor": "white",
+  "DiDiPrestamosBlogHero.btnMode": "light",
+  "DiDiPrestamosArticleHero.textColor": "white",
+  "DiDiPrestamosArticleHero.btnMode": "light",
+  "DiDiPrestamosBlogColumns.title": "Lee nuestros artículos financeiros.",
+  "DiDiPrestamosBlogColumns.bgColor": "bg-blue-primary",
+  "DiDiPrestamosBlogColumns.textColor": "white",
+  "DiDiPrestamosBlogColumns.linkItem": "/mx/prestamos/blog/{{article}}/",
+  "DiDiPrestamosBlogColumns.btnMode": "dark",
+  "DiDiPrestamosBlogColumns.btnText": "Leer Artículo",
+  "DiDiPayBlogHero.title": "Bienvenido al Blog de DiDi Pay",
+  "DiDiPayBlogHero.desc": "Lee nuestros post de consejos financieros",
+  "DiDiPayBlogHero.textColor": "white",
+  "DiDiPayBlogHero.btnMode": "light",
+  "DiDiPayArticleHero.textColor": "white",
+  "DiDiPayArticleHero.btnMode": "light",
+  "DiDiPayBlogColumns.title": "Lee nuestros artículos financeiros.",
+  "DiDiPayBlogColumns.bgColor": "bg-blue-primary",
+  "DiDiPayBlogColumns.textColor": "white",
+  "DiDiPayBlogColumns.linkItem": "/mx/didipay/blog/{{article}}/",
+  "DiDiPayBlogColumns.btnMode": "dark",
+  "DiDiPayBlogColumns.btnText": "Leer Artículo",
+  "DiDiPrestamosHero.title": "Con DiDi Préstamos obtén hasta $30,000 m.n rápido, fácil y seguro",
+  "DiDiPrestamosHero.desc": "Solicita tu DiDi Préstamos en 5 minutos.",
+  "DiDiPrestamosHero.bgColor": "bg-white",
+  "DiDiPrestamosHero.textColor": "gray-primary",
+  "DiDiPrestamosHero.btnMode": "primary",
+  "DiDiPrestamosHero.btnText": "Solicitar ahora",
+  "DiDiPrestamosHero.btnLink": "",
+  "DiDiPrestamosBenefits.title": "¿Por qué debería elegir DiDi Préstamos?",
+  "DiDiPrestamosBenefits.desc": "Porque con nosotros todo es sencillito y sin complicaciones, aquí te contamos.",
+  "DiDiPrestamosBenefits.bgColor": "bg-gray-light",
+  "DiDiPrestamosBenefits.columns": [
+    {
+      "title": "Tasas de interés competitiva",
+      "desc": "Desde 5% al 12%",
+      "bgColor": "bg-gray-light",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Rápido y fácil",
+      "desc": "En solo 5 minutos",
+      "bgColor": "bg-gray-light",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "100% en línea",
+      "desc": "Olvídate de las filas",
+      "bgColor": "bg-gray-light",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Solicita tu préstamo sin AVAL",
+      "desc": "Sin garantía de un tercero",
+      "bgColor": "bg-gray-light",
+      "textColor": "gray-primary"
+    }
+  ],
+  "DiDiPrestamosWhyDiDi.title": "Tasa de interés competitiva",
+  "DiDiPrestamosWhyDiDi.desc": "Deja tú lo fácil que es solicitar un préstamo, la tasa de interés ordinaria va desde el 5% hasta el 12%. \n (*Tasa ordinaria mensual estimada).",
+  "DiDiPrestamosWhyDiDi.btnMode": "dark",
+  "DiDiPrestamosWhyDiDi.bgColor": "bg-white",
+  "DiDiPrestamosWhyDiDi.textColor": "gray-primary",
+  "DiDiPrestamosFeatures.title": "Aprobación instantánea*",
+  "DiDiPrestamosFeatures.desc": "Te enviaremos una notificación por mensaje de texto en caso de que se apruebe tu solicitud y recibirás el dinero en tu cuenta en menos de 2 minutos.\n * Aplican términos y condiciones.",
+  "DiDiPrestamosFeatures.bgColor": "bg-orange-primary",
+  "DiDiPrestamosFeatures.textColor": "white",
+  "DiDiPrestamosFeatures.btnMode": "light",
+  "DiDiPrestamosDrvGrid.bgColor": "bg-gray-light",
+  "DiDiPrestamosDrvGrid.title": "¿Cuál es el proceso para pedir un DiDi Préstamos?",
+  "DiDiPrestamosDrvGrid.desc": "Abre \"Mi billetera\" en DiDi, DiDi Food o abre la App de DiDi Préstamos y sigue estos 4 pasos:",
+  "DiDiPrestamosDrvGrid.textColor": "gray-primary",
+  "DiDiPrestamosDrvGrid.columns": [
+    {
+      "title": "Haz clic \"Ver límite de préstamo\"",
+      "bgColor": "bg-gray-light"
+    },
+    {
+      "title": "Envía tus datos personales, tu INE vigente y CLABE interbancaria",
+      "bgColor": "bg-gray-light"
+    },
+    {
+      "title": "Espera la autorización de tu préstamo",
+      "bgColor": "bg-gray-light"
+    },
+    {
+      "title": "Una vez aprobado, entrar a DiDi Préstamos y elige el monto que deseas retirar y ¡listo! Espera a que se transfiera en tu cuenta bancaria.",
+      "bgColor": "bg-gray-light"
+    }
+  ],
+  "PrestamosGuideSlider.title": "¿Cómo solicito un préstamo en DiDi?",
+  "PrestamosGuideSlider.dataTitles": [
+    {
+      "title": "01. DiDi Pasajero \n Abre la app de DiDi y haz clic en DiDi Préstamos."
+    },
+    {
+      "title": "01. DiDi Conductor \n Abre la app de DiDi y haz clic en DiDi Préstamos."
+    },
+    {
+      "title": "02. \n Cuéntanos sobre ti."
+    },
+    {
+      "title": "03. \n ¡Solicita un préstamo hoy!"
+    }
+  ],
+  "PrestamosReviewSlider.title": "¿Qué dicen los usuarios sobre nosotros?",
+  "PrestamosReviewSlider.desc": "Muchos usuarios ya pidieron un préstamo en DiDi.",
+  "PrestamosReviewSlider.dataTitles": [
+    {
+      "name": "Leire",
+      "job": "Enfermera",
+      "date": "13/8/2021",
+      "title": "Excelente servicio",
+      "comment": "¡Excelente servicio! Me ayudó mucho. Usaré DiDi Préstamos en el futuro. ",
+      "city": "Ciudad de México"
+    },
+    {
+      "name": "Lucio",
+      "job": "Mecánico de autos",
+      "date": "9/10/2021",
+      "title": "Fácil de usar",
+      "comment": "Excelente opción para una emergencia. Obtuve mi préstamo en cuanto se aprobó.",
+      "city": "Guadalajara"
+    },
+    {
+      "name": "Erika",
+      "job": "Maestra",
+      "date": "9/12/2021",
+      "title": "Rápido aumento de límite",
+      "comment": "¡Mi límite de préstamo aumentó después de que pagué mi primer préstamo! ¡Qué linda sorpresa!",
+      "city": "Monterrey"
+    },
+    {
+      "name": "Juan",
+      "job": "Camarero",
+      "date": "29/1/2022",
+      "title": "Tasa aceptable",
+      "comment": "Es mi primer crédito que solicito en la aplicacion y el interés es muy aceptable. Super...",
+      "city": "Puebla"
+    },
+    {
+      "name": "Laura",
+      "job": "Taxista",
+      "date": "28/2/2022",
+      "title": "Trámites fáciles",
+      "comment": "Rapida aplicación sin tantos trámites y rápido aumento de limite.¡Excelente servicio!",
+      "city": "Mérida"
+    }
+  ],
+  "TaxRequired.title": "Requisitos Fiscales",
+  "TaxRequired.desc": "Como prestador de servicios de transporte deberás cumplir con las obligaciones fiscales y facturar los viajes que realices a través de DiDi.",
+  "TaxRequired.textColor": "white",
+  "TaxRequired.btnMode": "primary",
+  "TaxRequired.btnText": "Sube tus documentos",
+  "TaxRequired.btnLink": "https://page.didiglobal.com/driver-page/pax/index.html",
+  "TaxRequiredColumns.title": "¿Qué documentos necesito para cumplir con mis obligaciones fiscales?",
+  "TaxRequiredColumns.columns": [
+    {
+      "title": "Certificado de Sellos Digitales",
+      "desc": "Compuesto por 2 archivos y 1 contraseña",
+      "btnText": "Obtén tus Sellos Digitales aquí",
+      "btnMode": "primary",
+      "btnLink": "https://www.sat.gob.mx/tramites/17507/envia-la-solicitud-para-tu-certificado-de-sello-digital-para-emitir-facturas-electronicas"
+    },
+    {
+      "title": "RFC",
+      "desc": "El RFC es una clave única de registro que identifica a cada persona con actividad económica. \n *Recuerda que tu RFC debe de coincidir con el RFC del certificado de Sellos Digitales.",
+      "btnText": "Obtén tu RFC aquí",
+      "btnMode": "primary",
+      "btnLink": "https://www.sat.gob.mx/tramites/operacion/28753/obten-tu-rfc-con-la-clave-unica-de-registro-de-poblacion-curp"
+    }
+  ],
+  "DigitalStampsFAQ.title": "Los sellos digitales se componen de los siguientes documentos.",
+  "DigitalStampsFAQ.desc": "Podrás tramitar tu certificado de sellos digitales con el SAT. Estos documentos te los entregará el SAT en formato digital. ",
+  "DigitalStampsFAQ.btnText": "Obtén tus Sellos Digitales aquí",
+  "DigitalStampsFAQ.btnLink": "https://www.sat.gob.mx/tramites/17507/envia-la-solicitud-para-tu-certificado-de-sello-digital-para-emitir-facturas-electronicas",
+  "DigitalStampsFAQ.btnMode": "primary",
+  "DigitalStampsFAQ.bgColor": "bg-gray-light",
+  "DigitalStampsFAQ.textColor": "gray-primary",
+  "DigitalStampsFAQ.textAccordionColor": "orange-primary",
+  "DigitalStampsFAQ.bgAccordionColor": "bg-white",
+  "DigitalStampsFAQ.descText": "*Recuerda que para obtener tu Certificado de Sellos Digitales con el SAT necesitas tu e.firma. Tu e.firma, antes conocida como firma electrónica, es un grupo de documentos que necesitas para obtener tu certificado de sellos digitales y tiene la validez de una firma autógrafa.",
+  "DigitalStampsFAQ.linkURL": "https://www.sat.gob.mx/tramites/17074/obten-el-certificado-de-e.firma-para-tu-empresa-(antes-firma-electronica)",
+  "DigitalStampsFAQ.linkText": "Más información acerca de la e.firma aquí.",
+  "DigitalStampsFAQ.afterText": "TIP: Si obtuviste tu certificado de sellos digitales recientemente deberás esperar aproximadamente 72 horas a que éstas se validen ante el SAT. Así tus documentos serán validados en el portal de verificación fiscal de DiDi con más facilidad.",
+  "DigitalStampsFAQ.items": [
+    {
+      "title": "1. Llave de certificado",
+      "content": "Documento con formato csd.key"
+    },
+    {
+      "title": "2. Certificado CSD",
+      "content": "Documento en formato csd.cer"
+    },
+    {
+      "title": "3. Contraseña de certificado",
+      "content": "Clave de acceso para hacer uso de tus archivos. Ésta la ingresarás directamente en el portal."
+    }
+  ],
+  "TaxDocumentsFAQ.title": "",
+  "TaxDocumentsFAQ.desc": "1. Ingresa al portal de DiDi desde una computadora. https://page.didiglobal.com/driver-page/pax/index.html \n 2. Completa tus datos en los campos de registro. Asegúrate de tener los siguientes datos y documentos disponibles:",
+  "TaxDocumentsFAQ.descText": "3. Recibirás confirmación de la verificación de tus documentos a partir de 24 horas de que los hayas subido.",
+  "TaxDocumentsFAQ.linkURL": "",
+  "TaxDocumentsFAQ.linkText": "",
+  "TaxDocumentsFAQ.afterText": "",
+  "TaxDocumentsFAQ.btnText": "",
+  "TaxDocumentsFAQ.bgColor": "bg-white",
+  "TaxDocumentsFAQ.textColor": "gray-primary",
+  "TaxDocumentsFAQ.textAccordionColor": "orange-primary",
+  "TaxDocumentsFAQ.bgAccordionColor": "bg-gray-light",
+  "TaxDocumentsFAQ.items": [
+    {
+      "title": "1. Número de celular registrado",
+      "content": "Recibirás un SMS a este número con un código de verificación que deberás ingresar para continuar."
+    },
+    {
+      "title": "2. RFC",
+      "content": "Recuerda que al NO registrar tu RFC, DiDi deberá retener 36% de tus ingresos en línea. Al ingresar tu RFC DiDi retendrá el 16% solamente, de acuerdo a las normas aplicables."
+    },
+    {
+      "title": "3. Régimen fiscal tributario",
+      "content": "El régimen fiscal es un conjunto de derechos y obligaciones a los que se hace acreedor un ciudadano a partir de desempeñar una actividad económica específica. Este lo puedes encontrar en tu Constancia de Situación Fiscal."
+    },
+    {
+      "title": "4. Llave de certificado de Sellos Digitales",
+      "content": "Documento con formato csd.key"
+    },
+    {
+      "title": "5. Contraseña de certificado",
+      "content": ""
+    },
+    {
+      "title": "6. Certificado de Sellos Digitales",
+      "content": "Documento en formato csd.cer"
+    }
+  ],
+  "TaxDocumentationCTA.title": "Ya tengo mis documentos ¿Qué sigue?",
+  "TaxDocumentationCTA.desc": "1. Consulta su validez ante el SAT aquí. https://agsc.siat.sat.gob.mx/PTSC/ValidaRFC/index.jsf \n 2. Sube tus documentos válidos al Portal de Verificación Fiscal de DiDi o bien preséntalos en el club de conductores de tu ciudad.",
+  "TaxDocumentationCTA.btnText": "Sube tus Sellos Digitales aquí",
+  "TaxDocumentationCTA.btnMode": "primary",
+  "TaxDocumentationCTA.btnLink": "https://www.sat.gob.mx/tramites/17507/envia-la-solicitud-para-tu-certificado-de-sello-digital-para-emitir-facturas-electronicas",
+  "TaxAdviceColumns.title": "¿Necesitas asesoría fiscal?",
+  "TaxAdviceColumns.desc": "Obtén asistencia fiscal para presentar tu información contable en tiempo y forma. DiDi tiene alianzas comerciales con expertos que podrás contratar para que te asistan. Contáctalos para más información.",
+  "TaxAdviceColumns.columns": [
+    {
+      "title": "Simple TAX \n $199 M.N. + I.V.A mensuales",
+      "desc": "Asesoría contable: \n • Revisión de facturas \n • Presentación mensual de contabilidad electrónica. \n • Realización de conciliaciones bancarias. \n • Asesoría con sellos fiscales. \n Servicios Fiscales: \n • Cálculo de impuestos. \n • Solicitud de devoluciones \n • Asesoría para alta ante el SAT, IMSS, y programa de facturación. \n • Presentación bimestral de ISR e I.V.A. Revisión de impuestos locales. \n Teléfono: 3324721164 \n didi@strategaconsultores.com"
+    },
+    {
+      "title": "Contabilizate \n $179.00 + I.V.A mensuales",
+      "desc": "• Obligaciones mensuales \n • Declaraciones anuales de impuestos \n • Visualiza tus ingresos y gastos por periodo en nuestra plataforma.  \n • Soporte de lunes a viernes de 09:00 a.m. a 07:00 p.m. \n • Declaraciones anuales.  \n • Facturación electrónica  \n • 50 timbres fiscales al mes. \n Teléfono:  5513097212"
+    },
+    {
+      "title": "Contact \n $189 M.N. + I.V.A. mensuales",
+      "desc": "Asesoría contable: \n • Contabilidad general \n • Emisión de estados financieros \n Declaraciones mensuales o bimestrales \n • Facturación de acuerdo al esquema actual \n • Declaración mensual o bimestral \n • Declaración anual \n • DIOT (Declaración informativa de operaciones con Terceros) \n Elaboración de factura de ingresos. \n Teléfono: 55 4949 4612 \n contacto@contactocontable.com.mx"
+    }
+  ],
+  "TaxRequiredVideoSection.title": "¿Cómo subir mis documentos fiscales al portal de validación fiscal de DiDi?",
+  "TaxRequiredVideoSection.src": "https://www.youtube.com/embed/6ttEjskVsWs",
+  "TaxRequiredVideoSection.bgColor": "bg-gray-light",
+  "TaxDeclarationCTA.title": "¿Qué recibirás de DiDi para hacer tus declaraciones fiscales?",
+  "TaxDeclarationCTA.desc": "Podrás tramitar tu certificado de sellos digitales con el SAT. Estos documentos te los entregará el SAT en formato digital. \n Los sellos digitales se componen de los siguientes documentos. \n Certificados de retención de impuestos \n DiDi retendrá tus impuestos de manera semanal y te emitirá un certificado. \n • Conductores con cuenta bancaria recibirán un certificado semanal \n • Conductores con DiDi Pay recibirán un certificado diario \n Factura por tarifa de servicio \n • Todos los conductores recibirán una factura mensual con el resumen del mes anterior entero.",
+  "RequirementHero.title": "Requisitos para registrarte como conductor o convertirse en socio flotilla",
+  "RequirementHero.desc": "Elige cuando conectarte, genera ingresos y conéctate con confianza con nuestro soporte 24/7.",
+  "RequirementHero.btnMode": "primary",
+  "RequirementHero.textColor": "white",
+  "DrvRequirementColumns.title": "",
+  "DrvRequirementColumns.columns": [
+    {
+      "title": "Socio conductor: Tengo vehiculo y quiero conducir:",
+      "desc": "1) Descarga DiDi Conductor \n 2) Sube tus documentos \n INE | IFE \n Licencia de conducir \n Constancia de Situación Fiscal (Opcional) \n Carta de No Antecedentes Penales \n 3) Registra tu vehículo \n Tarjeta de circulación \n Póliza de seguro del auto \n 4) La aprobación de tus documentos puede tomar de 24 a 72 horas"
+    },
+    {
+      "title": "Socio Flotilla: Tengo vehiculo y quiero que alguien más conduzca:",
+      "desc": "1) Descarga DiDi Fleet \n 2) Sube tus documentos \n INE | IFE \n Constancia de Situación Fiscal (opcional) \n 3) Agrega tus coches \n Para subirlos a tu flotilla necesitarás los siguientes documentos para cada coche: \n Tarjeta de circulación \n Póliza de seguro del auto \n 4) Selecciona un conductor para alquilarle tu coche a través de la app \n Ingresando al menú de conductores pulsando en buscar conductores \n 5) La aprobación de tus documentos puede tomar de 24 a 72 horas"
+    },
+    {
+      "title": "Conductor: Quiero conducir y no tengo vehículo",
+      "desc": "1) Descarga DiDi Conductor \n 2) Sube tus documentos \n INE | IFE \n Licencia de conducir \n Constancia de Situación Fiscal \n Carta de No Antecedentes Penales \n 3) La aprobación de tus documentos puede tomar de 24 a 72 horas"
+    },
+    {
+      "title": "Conductor: Taxi",
+      "desc": "1) Descarga DiDi Conductor \n 2) Sube tus documentos \n INE | IFE \n Licencia de conducir \n Constancia de Situación Fiscal (Opcional) \n Carta de No Antecedentes Penales \n 3) Registra tu vehículo \n Tarjeta de circulación \n Póliza de seguro del auto \n El vehículo debe ser modelo 2007 en adelante \n 4) La aprobación de tus documentos puede tomar de 24 a 72 horas"
+    },
+    {
+      "title": "Conductor: Moto",
+      "desc": "1) Descarga DiDi Conductor \n 2) Sube tus documentos \n INE | IFE \n Licencia de conducir \n Constancia de Situación Fiscal (Opcional) \n Carta de No Antecedentes Penales \n 3) Registra tu vehículo \n Tarjeta de circulación \n Póliza de seguro del vehiculo \n El vehículo debe ser modelo 2000 en adelante \n La Moto debe contar con un cilindraje minimo de 100cc \n 4) La aprobación de tus documentos puede tomar de 24 a 72 horas"
+    }
+  ],
+  "VehicleRequirementCTA.title": "Requisitos del vehículo",
+  "VehicleRequirementCTA.desc": "Para aceptar un vehículo tendrá que estar en buen estado físico (sin daños estéticos), contar con 4 puertas, aire acondicionado y bolsas de aire, así como cumplir con los años de antigüedad mínimos en tu ciudad. \n Para conocer la regulación aplicable en tu ciudad comunícate al 800 725 8888 o envía un correo a help.driver@mx.didiglobal.com. \n • Tarjeta de circulación \n • Póliza de seguro del auto \n • Registro Federal de Contribuyentes (RFC)",
+  "FaqList.title": "Principales preguntas de conductores DiDi",
+  "FaqList.desc": "",
+  "FaqList.linkItem": "/mx/centro-de-ayuda/{{faqSlug}}/",
+  "FaqHero.textColor": "white",
+  "FaqHero.btnMode": "primary",
+  "BankInfoCTA.title": "Actualiza tu información bancaria",
+  "BankInfoCTA.desc": "Queremos ayudarte a actualizar tus datos, sigue los siguientes pasos dentro de la app: \n 1. Haz clic en tu perfil y después en tu nombre \n 2. Haz clic en cuenta bancaria \n 3. Da clic en “Agregar” \n 4. Ingresa todos los datos solicitados en los espacios y da clic en “Enviar” \n 5. Verifica que tus datos sean correctos y da clic en “Confirmar”",
+  "BankInfoCTA.bgColor": "bg-gray-light",
+  "FindInfoCTA.title": "Encuentra tu centro DiDi más cercano",
+  "FindInfoCTA.desc": "Si tienes alguna duda, visítanos en nuestro Centro DiDi o contáctanos a través de: \n • Línea de atención 24/7 800 725 8888 \n • Escríbenos al correo help.driver@mx.didiglobal.com",
+  "FindInfoCTA.items": [
+    {
+      "title": "Centros DiDi",
+      "content": " ",
+      "table": [
+        {
+          "city": "City",
+          "address": "DC Location"
+        },
+        {
+          "city": "Aguascalientes",
+          "address": "Plaza Arcos Campestre, Luis Donaldo Colosio Murrieta 602. Local 29. Col. Villas de San Nicolás, Aguascalientes, AGS. CP 20115."
+        },
+        {
+          "city": "Cancún",
+          "address": "N/A"
+        },
+        {
+          "city": "Celaya",
+          "address": "Boulevard Adolfo López Mateos Oriente, No.1286, Plaza Pabellón Campestre, Planta Alta, Oficina P120, CP 38088"
+        },
+        {
+          "city": "Chihuahua",
+          "address": "Plaza San Agustin, Av. Tecnológico 4101, Local 16, colonia Las Granjas, CP 31100, Chihuahua, Chihuahua."
+        },
+        {
+          "city": "Ciudad Juárez",
+          "address": "Av. Lopez Mateos 924n, Alfa, 32317, Cd Juárez, Chih. Dentro de Thub es en el Edificio Giga oficina G-129"
+        },
+        {
+          "city": "Ciudad de México",
+          "address": "Varsovia 36, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX / Calz. de Tlalpan 2268, El Centinela, Coyoacán, 04450 Ciudad de México, CDMX / Blvd. de la Sta. Cruz 142, Boulevares, 53140 Naucalpan de Juárez, Estado de México, Local 12"
+        },
+        {
+          "city": "Ciudad Obregón",
+          "address": "C. Hidalgo 516, Centro, Fundo Legal, 85000 Cd Obregón, Son."
+        },
+        {
+          "city": "Cuernavaca",
+          "address": "Plaza Corporativo DD 1000 Av. Domingo diez 1003 Col del empleado Cuernavaca Morelos CP 62230."
+        },
+        {
+          "city": "Culiacán",
+          "address": "Blvd. Pedro Infante # 3113-3, Fracc. Country Tres Rios C.P. 80020, CULIACAN, SINALOA."
+        },
+        {
+          "city": "Durango",
+          "address": "Borrego 310, casi esquina con, Calle Gabino Barreda, Zona Centro, 34000 Durango, Dgo."
+        },
+        {
+          "city": "Ensenada",
+          "address": "Pedro Loyola y Delante 206 Plaza Tersa Local 15 Col Carlos Pacheco Cp 22880"
+        },
+        {
+          "city": "Guadalajara",
+          "address": "Av Circunvalación Jorge Álvarez Castillo #1111 y #1113, Col Country Club, CP 44610, Guadalajara, Jalisco."
+        },
+        {
+          "city": "Hermosillo",
+          "address": "Blvd. Juan Navarrete 172 Plaza Valle Local Z-2, Valle Verde, 83200 Hermosillo, Son."
+        },
+        {
+          "city": "La Paz",
+          "address": "Plaza Paseo La Paz Local 10, Libramiento Daniel Roldan #1515 local, Colonia San Antonio el Zacatal. C.P. 23080 La Paz B.C.S."
+        },
+        {
+          "city": "León",
+          "address": "Plaza Forum Center, Boulevard Mariano Escobedo 2920, Col. El Tlacuache, 37500 Leon, Guanajuato."
+        },
+        {
+          "city": "Lomas Verdes CDMX",
+          "address": "Blvd. de la Sta. Cruz 142, Boulevares, 53140 Naucalpan de Juárez, Méx."
+        },
+        {
+          "city": "Los Mochis – Guasave",
+          "address": "Blvd. Rosendo G. Castro Pte. 518, Local 5, Centro, 81200 Los Mochis, Sin."
+        },
+        {
+          "city": "Mazatlán",
+          "address": "Av. Camaron Sabalo #7, Sábalo Country 82100, Plaza Sábalo local #8 Mazatlán Sin."
+        },
+        {
+          "city": "Mérida",
+          "address": "Plaza Centro del Paseo: Calle 56 A Por, Av Pérez Ponce 444A, Centro, 97000 Mérida, Yuc. Local D1"
+        },
+        {
+          "city": "Mexicali",
+          "address": "Calz. Anáhuac 899, Indeco Anáhuac, 21060, Mexicali, B.C."
+        },
+        {
+          "city": "Monterrey",
+          "address": "Pabellón M, Melchor Ocampo 116, Piso E1 Local 10 Col. Centro, 64000, Monterrey, N.L. México."
+        },
+        {
+          "city": "Morelia",
+          "address": "Av. Jesús Sansón Flores 71, Camelinas, 58290 Morelia, Mich."
+        },
+        {
+          "city": "Oaxaca",
+          "address": "Av Benito Juárez 514, Ruta Independencia, Centro, 68000 Oaxaca de Juárez, Oax."
+        },
+        {
+          "city": "Puebla",
+          "address": "Blvrd 14 Sur 4302, Zona Sin Asignación de Nombre de Col 50, Jardines de San Manuel, CP: 72570, Puebla, Puebla."
+        },
+        {
+          "city": "Querétaro",
+          "address": "Avenida Universidad 370 locales 106, 107 y 108, La Piedad, 76150 Santiago de Querétaro, Qro."
+        },
+        {
+          "city": "San Luis Potosí",
+          "address": "Av. Sierra Leona 360 Alttus Corporate Center & Plaza Piso 9 Suite 911 CP. 78214 San Luis Potosí."
+        },
+        {
+          "city": "Saltillo",
+          "address": "C. Sauce 350, Jardín, 25240 Saltillo, Coah."
+        },
+        {
+          "city": "Tepic",
+          "address": "Buenos Aires 68, Cd del Valle, 63157 Tepic, Nay."
+        },
+        {
+          "city": "Tijuana",
+          "address": "Dr. Atl 17, Local 8, Zona Urbana Rio Tijuana, 22010 Tijuana, B.C."
+        },
+        {
+          "city": "Toluca",
+          "address": "Horacio Zúñiga 139, Plaza Maneca Residencial Colón y Col Ciprés, 50120 Toluca de Lerdo, Méx."
+        },
+        {
+          "city": "Torreón",
+          "address": "Av. Escobedo Oriente primer piso Escobedo 46 oriente, Primero de Cobián Centro, 27000 Torreón, Coah."
+        },
+        {
+          "city": "Tuxla Gutiérrez",
+          "address": "Blvd. Belisario Domínguez 2116, Arboledas, 29030 Tuxla Gutiérrez, Chis."
+        },
+        {
+          "city": "Vallarta",
+          "address": "Blvd. Francisco Medina Ascencio #3987, piso 4, Cowork 401, Interior 102 Marina Vallarta.- Puerto Vallarta, Jalisco, C.P. 48335"
+        },
+        {
+          "city": "Veracruz",
+          "address": "N/A"
+        },
+        {
+          "city": "Villahermosa",
+          "address": "Av Samarkanda 306, Heriberto Kehoe Vicent, 86030 Villahermosa, Tab."
+        },
+        {
+          "city": "Zacatecas",
+          "address": "Centro de Negocios Avanti Zacatecas Edificio La Curva, De La Unión 108, Zona A, 98000 Zacatecas, Zac."
+        }
+      ]
+    }
+  ],
+  "DiDiPayEnterpriseHero.title": "Crece tu negocio",
+  "DiDiPayEnterpriseHero.desc": "",
+  "DiDiPayEnterpriseHero.textColor": "white",
+  "DiDiPayEnterpriseHero.btnMode": "primary",
+  "DiDiPayEnterpriseFeatures.title": "Lleva tu negocio al siguiente nivel",
+  "DiDiPayEnterpriseFeatures.bgColor": "bg-white",
+  "DiDiPayEnterpriseFeatures.btnMode": "primary",
+  "DiDiPayEnterpriseFeatures.btnLink": "#",
+  "DiDiPayEnterpriseFeatures.btnText": "Solicita Información",
+  "DiDiPayEnterpriseFeatures.desc": "Comienza a recibir pagos en línea con DiDi Pay:",
+  "DiDiPayEnterpriseFeatures.bullets": [
+    "Con el reconocimiento de millones de usuarios DiDi",
+    "Tus ganancias seguras y disponibles",
+    "Controla tus pagos en tiempo real"
+  ],
+  "DiDiPayEnterpriseWhy.title": "Fácil, sin trámites complicados",
+  "DiDiPayEnterpriseWhy.desc": "Reúne la documentación necesaria, integra DiDi Pay en tu flujo de pago y ¡listo! tendrás acceso a tus transacciones en un clic",
+  "DiDiPayEnterpriseWhy.btnMode": "primary",
+  "DiDiPayEnterpriseWhy.btnLink": "#",
+  "DiDiPayEnterpriseWhy.btnText": "Solicita Información",
+  "DiDiPayEnterpriseWhy.bgColor": "bg-gray-light",
+  "DiDiPayEnterpriseColumns.columns": [
+    {
+      "title": "Comisiones",
+      "desc": "Sin comisiones mensuales ni mínimo de venta. Paga solo por cada transacción: \n 3.7% + MXN$2 (+IVA) por cobro exitoso a una tarjeta."
+    },
+    {
+      "title": "Desarrolladores",
+      "desc": "Consulta nuestras herramientas e información para implementar DiDi Pay en tu negocio. Integración API y SDK disponibles.",
+      "btnText": "Ver documentación",
+      "btnLink": "https://didipay.didiglobal.com/developer/docs/payment-solution/index.html?lang=en-us",
+      "btnMode": "primary"
+    }
+  ],
+  "EntregaHero.title": "DiDi Entrega: Envía cosas grandes o chicas ",
+  "EntregaHero.desc": "",
+  "EntregaHero.textColor": "white",
+  "EntregaHero.btnMode": "light",
+  "EntregaColumns.title": "Contamos con dos opciones de servicios. ¡Elige el que mejor se acomode a tus necesidades!",
+  "EntregaColumns.bgColor": "bg-blue-primary",
+  "EntregaColumns.textColor": "white",
+  "EntregaColumns.columns": [
+    {
+      "title": "Conoce DiDi Entrega Auto",
+      "desc": "Realiza envíos en los carros registrados en la app. Si cabe en la cajuela del vehículo, te lo enviamos.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Conoce DiDi Entrega Moto",
+      "desc": "Realiza envíos en la red de repartidores en motos registradas en la app. Perfecto para envíos más pequeños y rápidos como llaves o documentos.",
+      "bgColor": "bg-white",
+      "textColor": "gray-primary"
+    }
+  ],
+  "EntregaGrid.bgColor": "bg-white",
+  "EntregaGrid.textColor": "gray-primary",
+  "EntregaGrid.columns": [
+    {
+      "title": "Ahorra en Envíos",
+      "desc": "Realiza envíos a precios accesibles.",
+      "bgColor": "white",
+      "textColor": "gray-primary",
+      "width": "w-80"
+    },
+    {
+      "title": "Herramientas de Seguridad",
+      "desc": "Monitorea en tiempo real el recorrido de tu envío.",
+      "bgColor": "white",
+      "textColor": "gray-primary",
+      "width": "w-80"
+    },
+    {
+      "title": "Variedad",
+      "desc": "Usa DiDi Entrega para envíos grandes y DiDi Entrega Light para envíos chicos.",
+      "bgColor": "white",
+      "textColor": "gray-primary",
+      "width": "w-80"
+    },
+    {
+      "title": "Fácil de Usar",
+      "desc": "Con tan solo unos clicks podrás realizar tus envíos a través de la app.",
+      "bgColor": "white",
+      "textColor": "gray-primary",
+      "width": "w-80"
+    },
+    {
+      "title": "Soporte 24/7",
+      "desc": "Contáctanos por medio de chat en vivo 24/7",
+      "bgColor": "white",
+      "textColor": "gray-primary",
+      "width": "w-80"
+    },
+    {
+      "title": "Métodos de pago",
+      "desc": "Elige la opción que mejor se acomode a ti, sea efectivo o tarjeta.",
+      "bgColor": "white",
+      "textColor": "gray-primary",
+      "width": "w-80"
+    }
+  ],
+  "EntregaCityList.title": "Operamos en las siguientes ciudades en México",
+  "EntregaCityList.desc": "Descubre las ciudades de México donde esta operando DiDi Entrega",
+  "EntregaCityList.bgColor": "bg-white",
+  "EntregaCityList.textColor": "gray-primary",
+  "EntregaCityList.linkItem": "/mx/conductor/conductor-en-{{city}}/",
+  "EntregaBusinessCTA.title": "Regístrate en DiDi Entrega Business para envíos empresariales",
+  "EntregaBusinessCTA.desc": "Si necesitas enviar tus productos a tus clientes, conoce esta nueva opción web.",
+  "EntregaBusinessCTA.btnLink": "https://didi-food.com/es-MX/entrega-business/home",
+  "EntregaBusinessCTA.btnText": "Conoce Más Aquí",
+  "EntregaBusinessCTA.btnMode": "primary",
+  "EntregaBusinessCTA.bgColor": "bg-gray-light",
+  "IframeCTA.title": "Regístrate como Socio Conductor",
+  "IframeCTA.desc": "",
+  "IframeCTA.bullets": [
+    "Selecciona ciudad.",
+    "Ingresa tu celular y acepta los \"términos y condiciones.\"",
+    "Ingresa el código de confirmación que llegará a tu celular.",
+    "Selecciona tipo de vehículo y continúa con los pasos."
+  ],
+  "IframeCTA.textColor": "gray-primary",
+  "IframeCTA.bgColor": "bg-gray-light",
+  "SmsCTA.bgColor": "bg-white",
+  "SmsCTA.textColor": "gray-primary",
+  "SmsCTA.btnMode": "primary",
+  "SmsCTA.formTitle": "Recibe un enlace en tu celular para descargar la app",
+  "FoodSmsCTA.title": "Pide un viaje desde donde estés atraves de la app.",
+  "FoodSmsCTA.desc": "Descarga la app DiDi pasajero y ahorra más de un 50% en tu primer viaje. Con DiDi viajaras más pagando menos.",
+  "RidesSmsCTA.title": "Pide un viaje desde donde estés atraves de la app.",
+  "RidesSmsCTA.desc": "Descarga la app DiDi pasajero y ahorra más de un 50% en tu primer viaje. Con DiDi viajaras más pagando menos.",
+  "FoodAppDownloads.title": "Descárgate la App en tu Iphone o Android.",
+  "FoodAppDownloads.desc": "La comida que deseas está a unos minutos y 3 clics de distancia.",
+  "FoodAppDownloads.textColor": "gray-primary",
+  "FoodAppDownloads.bgColor": "bg-white",
+  "FoodAppDownloads.columns": [
+    {
+      "linkItem": "https://global-rides-passenger.onelink.me/xNlo/"
+    },
+    {
+      "linkItem": "https://global-rides-passenger.onelink.me/xNlo/"
+    }
+  ],
+  "VikingSection.vikingColOne.title": "Pal",
+  "VikingSection.vikingColOne.subTitle": "ufffff",
+  "VikingSection.vikingColOne.btnText": "Descarga DiDi Pasajero",
+  "VikingSection.vikingColOne.btnLink": "",
+  "VikingSection.vikingColOne.btnMode": "light",
+  "VikingSection.vikingColOne.btnType": "pax",
+  "VikingSection.vikingColOne.bgColor": "",
+  "VikingSection.vikingColOne.textColor": "text-blue-primary",
+  "VikingSection.vikingColTwo.title": "Pal",
+  "VikingSection.vikingColTwo.subTitle": "ñaaam",
+  "VikingSection.vikingColTwo.btnText": "Descarga DiDi Food",
+  "VikingSection.vikingColTwo.btnLink": "",
+  "VikingSection.vikingColTwo.btnMode": "light",
+  "VikingSection.vikingColTwo.btnType": "foodEater",
+  "VikingSection.vikingColTwo.bgColor": "",
+  "VikingSection.vikingColTwo.textColor": "text-yellow-400",
+  "VikingSection.hasTwoColumns": true,
+  "VikingSection.vikingFooter.text": "Lo bueno es que hay DiDi",
+  "DiDiCreditHero.title": "La nueva tarjeta con beneficios diarios y sin comisiones ocultas",
+  "DiDiCreditHero.desc": "Pídela en 5 minutos.",
+  "DiDiCreditHero.bgColor": "bg-orange-primary",
+  "DiDiCreditHero.textColor": "white",
+  "DiDiCreditHero.btnMode": "light",
+  "DiDiCreditHero.btnText": "Solicitar en DiDi app",
+  "DiDiCreditBanner.title": "Recibe hasta {3% de CASHBACK*} todos los días",
+  "DiDiCreditBanner.desc": "",
+  "DiDiCreditBanner.bgColor": "bg-white",
+  "DiDiCreditBanner.textColor": "gray-primary",
+  "DiDiCreditBanner.btnMode": "light",
+  "DiDiCreditBannerBenefits.title": "Sí, con {DiDi Card} tienes {beneficios reales} todos los días",
+  "DiDiCreditBannerBenefits.desc": "",
+  "DiDiCreditBannerBenefits.bgColor": "bg-white",
+  "DiDiCreditBannerBenefits.textColor": "gray-primary",
+  "DiDiCreditBannerBenefits.btnMode": "light",
+  "DiDiCreditFeatures.title": "La {tarjeta de crédito} que te pone las cosas fáciles, {de verdad.}",
+  "DiDiCreditFeatures.bullets": [
+    "Sin anualidad ni comisiones ocultas",
+    "Hasta {3% de CASHBACK} que podrás usar para pagar tu tarjeta, en {DiDi} y {DiDi Food}, tú decides.",
+    "Creada por {DiDi} respaldad por {Mastercard}",
+    "Para ti  24/7 en {Soporte DiDi} a través del chat de la app."
+  ],
+  "DiDiCreditFeatures.bgColor": "bg-white",
+  "DiDiCreditFeatures.textColor": "gray-primary",
+  "DiDiCreditFeatures.btnMode": "primary",
+  "DiDiCreditColumns.title": "Sí, con {DiDi Card} tienes {beneficios reales} todos los días",
+  "DiDiCreditColumns.desc": "",
+  "DiDiCreditColumns.bgColor": "bg-white",
+  "DiDiCreditColumns.textColor": "gray-primary",
+  "DiDiCreditColumns.columns": [
+    {
+      "title": "MSI",
+      "desc": "Meses sin Intereses",
+      "bgColor": "white",
+      "textColor": "gray-primary"
+    },
+    {
+      "title": "Ofertas Exclusivas",
+      "desc": "solo con tu DiDi Card",
+      "bgColor": "white",
+      "textColor": "gray-primary"
+    }
+  ],
+  "DiDiCreditBenefits.title": "Siéntete Seguro",
+  "DiDiCreditBenefits.desc": "Creada por DiDi y respaldada por Mastercard",
+  "DiDiCreditBenefits.bgColor": "bg-orange-primary",
+  "DiDiCreditBenefits.textColor": "white",
+  "DiDiCreditBenefits.columns": [
+    {
+      "title": "",
+      "desc": "Con el CVV dinámico tus compras en línea son más seguras",
+      "bgColor": "bg-orange-primary",
+      "textColor": "white"
+    },
+    {
+      "title": "",
+      "desc": "Recibe notificaciones de todas tus transacciones",
+      "bgColor": "bg-orange-primary",
+      "textColor": "white"
+    },
+    {
+      "title": "",
+      "desc": "Bloquea tu tarjeta en cualquier momento desde la app DiDi ",
+      "bgColor": "bg-orange-primary",
+      "textColor": "white"
+    },
+    {
+      "title": "",
+      "desc": "Tus datos son solo tuyos nos aseguramos de no compartirlos",
+      "bgColor": "bg-orange-primary",
+      "textColor": "white"
+    }
+  ],
+  "DiDiCreditRequirements.title": "Para pedirla {solo necesitas}:",
+  "DiDiCreditRequirements.bullets": [
+    "Ser mayor de edad.",
+    "Tener una INE/IFE vigente",
+    "Tener un comprobante de domicilio",
+    "Tener tu RFC a la mano"
+  ],
+  "DiDiCreditRequirements.bgColor": "bg-white",
+  "DiDiCreditRequirements.textColor": "gray-primary",
+  "DiDiCreditRequirements.btnMode": "primary",
+  "DiDiCreditWhy.title": "Tasas y costos {con transparencia}",
+  "DiDiCreditWhy.desc": "Regigold, S.A. DE C.V., SOFOM, E.N.R.",
+  "DiDiCreditWhy.bullets": [
+    "Costo Anual Total promedio de {92,3%}, sin IVA",
+    "Fecha de cálculo: {30 de Agosto 2023}",
+    "Tasa de interés promedio ponderada anual fija del {67,2%}, sin IVA"
+  ],
+  "DiDiCreditWhy.bgColor": "bg-white",
+  "DiDiCreditWhy.textColor": "gray-primary",
+  "DiDiCreditFAQ.title": "¿Tienes más dudas? Acá las puedes resolver:",
+  "DiDiCreditFAQ.desc": "",
+  "DiDiCreditFAQ.textColor": "white",
+  "DiDiCreditFAQ.bgColor": "bg-orange-primary",
+  "DiDiCreditFAQ.textAccordionColor": "orange-primary",
+  "DiDiCreditFAQ.bgAccordionColor": "bg-white",
+  "DiDiCreditBeneficiosHero.title": "Beneficios que \n solo pasan con \n tu DiDi Card",
+  "DiDiCreditBeneficiosHero.textColor": "white",
+  "DiDiCreditBeneficiosHero.bgColor": "bg-orange-primary",
+  "DiDiCreditBeneficiosColumns.title": "Buscamos lo mejor de lo mejor para traerte {promos y descuentos que te encantarán} y harán tus días más fácil.",
+  "DiDiCreditBeneficiosColumns.desc": "Échales un ojo",
+  "DiDiCreditBeneficiosColumns.columns": [
+    {
+      "title": "Justo",
+      "imageName": "Justo",
+      "desc": "35% de cashback",
+      "linkItem": "/mx/tarjeta-de-credito/beneficios/justo/"
+    },
+    {
+      "title": "Office Depot",
+      "imageName": "Office Depot",
+      "desc": "10% off en tienda online",
+      "linkItem": "/mx/tarjeta-de-credito/beneficios/office-depot/"
+    },
+    {
+      "title": "Radioshack",
+      "imageName": "Radioshack",
+      "desc": "10% off ",
+      "linkItem": "/mx/tarjeta-de-credito/beneficios/radioshack/"
+    },
+    {
+      "title": "Medicato",
+      "imageName": "Medicato",
+      "desc": "60% off en la suscripción",
+      "linkItem": "/mx/tarjeta-de-credito/beneficios/medicato/"
+    },
+    {
+      "title": "Coderhouse",
+      "imageName": "Coderhouse",
+      "desc": "25% off adicional en la CoderBeca ",
+      "linkItem": "/mx/tarjeta-de-credito/beneficios/coderhouse-mx/"
+    },
+    {
+      "title": "Smart Fit",
+      "imageName": "Smartfit",
+      "desc": "Inscripción a sólo $10 en el SMART PLAN o inscripción a $10 + primer mes a $399 en el BLACK PLAN",
+      "linkItem": "/mx/tarjeta-de-credito/beneficios/smart-fit/"
+    },
+    {
+      "title": "Envia Flores",
+      "imageName": "Envia Flores",
+      "desc": "16% off",
+      "linkItem": "/mx/tarjeta-de-credito/beneficios/envia-flores/"
+    },
+    {
+      "title": "Fitpass",
+      "imageName": "fitpass_logo",
+      "desc": "10% en el primer mes de la membresía Fitpass Pro",
+      "linkItem": "/mx/tarjeta-de-credito/beneficios/fitpass/"
+    },
+    {
+      "title": "Innerassiste",
+      "imageName": "Innerassiste",
+      "desc": "Hasta 45% de descuento en el seguro de tu mascota",
+      "linkItem": "/mx/tarjeta-de-credito/beneficios/innerasisste/"
+    },
+    {
+      "title": "Cinepolis",
+      "imageName": "Cinepolis",
+      "desc": "2x1 en boletos",
+      "linkItem": "/mx/tarjeta-de-credito/beneficios/cinepolis-mx/"
+    },
+    {
+      "title": "Mercado Libre",
+      "imageName": "Mercado Libre",
+      "desc": "10% off",
+      "linkItem": "/mx/tarjeta-de-credito/beneficios/mercadolibre/"
+    }
+  ],
+  "DiDiCreditBlogHero.title": "Blog",
+  "DiDiCreditBlogHero.desc": "",
+  "DiDiCreditBlogHero.textColor": "white",
+  "DiDiCreditBlogHero.bgColor": "bg-orange-primary",
+  "DiDiCreditFaqHero.title": "¿Preguntas?",
+  "DiDiCreditFaqHero.desc": "",
+  "DiDiCreditFaqHero.textColor": "white",
+  "DiDiCreditFaqHero.bgColor": "bg-orange-primary",
+  "DiDiCreditFuncionesHero.title": "DiDi Card te \n la pone fácil.",
+  "DiDiCreditFuncionesHero.desc": "Desde personalizar tu límite de crédito, ver tus \n gastos mensuales por categoria, hasta bloquear tu \n tarjeta desde la App.",
+  "DiDiCreditFuncionesHero.textColor": "white",
+  "DiDiCreditFuncionesHero.bgColor": "bg-orange-primary",
+  "DiDiCreditFuncionesColums.title": "La {tarjeta de crédito} que te pone las cosas fáciles.",
+  "DiDiCreditFuncionesColums.textColor": "gray-primary",
+  "DiDiCreditFuncionesColums.columns.textColor": "white",
+  "DiDiCreditFuncionesColums.columns.bgColor": "bg-orange-primary",
+  "DiDiCreditFuncionesColums.columns": [
+    {
+      "title": "Obtén {CASHBACK} diario {ilimitado} con cada compra."
+    },
+    {
+      "title": "Revisa tu resumen por {semana, mes o año.}"
+    },
+    {
+      "title": "Recibe {notificaciones inmediatas} con cada compra."
+    },
+    {
+      "title": "{Bloquea y desbloquea} tarjeta desde la app."
+    }
+  ],
+  "DiDiCreditCashBack.title": "CASH {BACK}",
+  "DiDiCreditCashBack.subTitle": "¡todos los días!",
+  "DiDiCreditCashBack.desc": "Te regresamos un porcentaje de tus compras que puedes usar para pagar tu tarjeta, viajar en DiDi o pedir comida en DiDi Food.",
+  "DiDiCreditCashBack.textColor": "text-white",
+  "DiDiCreditCashBackColOne.bgColor": "bg-orange-primary",
+  "DiDiCreditCashBack.bullets": [
+    {
+      "text": "de CASHBACK en {DiDi Food}",
+      "icon": "icon-food",
+      "percentCashBack": "3"
+    },
+    {
+      "text": "de CASHBACK en {DiDi}",
+      "icon": "icon-car",
+      "percentCashBack": "1"
+    },
+    {
+      "text": "de CASHBACK en {miles} de establecimientos más",
+      "icon": "icon-shop",
+      "percentCashBack": "1"
+    }
+  ],
+  "SBDiDiCredit.title": "DiDi Card",
+  "SBDiDiCredit.desc": "Todo en una app",
+  "VehicleSection.title": "Genera ganancias en DiDi Conductor",
+  "VehicleSection.bgColor": "bg-gray-light",
+  "VehicleSection.subTitle": "¿Tienes vehículo de?",
+  "VehicleSection.vehicles": [
+    {
+      "text": "4 ruedas",
+      "image": "/car.png"
+    },
+    {
+      "text": "2 ruedas",
+      "image": "/motorcycle.png"
+    }
+  ],
+  "VehicleSection.bulletTitle": "Hay un DiDi para ti.",
+  "VehicleSection.bulletDesc": "Contamos con diferentes modalidades de acuerdo a tus necesidades:",
+  "VehicleSection.bulletFooter": "Completa tu processo de registro en linea.",
+  "VehicleSection.bulletsCar": ["Express", "Fleet", "Flex", "Entrega", "Taxi"],
+  "VehicleSection.bulletsMotorcycle": ["Entrega Light"],
+  "VehicleSection.btnType": "drv",
+  "VehicleSection.btnMode": "primary",
+  "DiDiAirportHero.title": "Desde el aeropuerto al \n corazón de tu ciudad \n con DiDi",
+  "DiDiAirportHero.desc": "¿Cansado de los transportes convencionales desde tu aeropuerto? \n Mejor prueba DiDi.",
+  "DiDiAirportHero.textColor": "white",
+  "DiDiAirportHero.bgColor": "bg-orange-primary",
+  "DiDiAirportHero.btnMode": "light",
+  "DiDiAirportHero.btnText": "Pide tu viaje",
+  "DiDiAirportHero.btnLink": "",
+  "DiDiAirportHero.btnType": "pax",
+  "DiDiAirportCityList.title": "Tu Aeropuerto Ideal a un Clic de Distancia",
+  "DiDiAirportCityList.desc": "¿Necesitas detalies sobre cómo moverte desde el aeropuerto de llegada o salida? Selecciona tu aeropuerto y obtén información adicional",
+  "DiDiAirportCityList.linkItem": "/mx/aeropuerto/{{slug}}",
+  "DiDiAirportCityList.bgColor": "bg-white",
+  "DiDiAirportCityList.textColor": "gray-primary",
+  "DiDiAirporCitytHero.title": "Ciudades cercanas al \n aeropuerto de la \n {{cityName}} \n en donde opera DiDi",
+  "DiDiAirporCitytHero.bgColor": "bg-blue-primary",
+  "DiDiAirporCitytHero.btnMode": "light",
+  "DiDiAirporCitytHero.btnText": "Pide tu viaje",
+  "DiDiAirporCitytHero.textColor": "white",
+  "DiDiAirporDistance.title": "¿Desde que puntos de la {{cityName}} se puede llegar de forma rápido, segura y accesible?",
+  "DiDiAirporDistance.bgColor": "bg-white",
+  "DiDiAirporDistance.textColor": "gray-primary",
+  "DiDiAirporInterstingPoints.title": "Puntos de interés en el aeropuerto de {{cityName}}",
+  "DiDiAirporInterstingPoints.bgColor": "bg-white",
+  "DiDiAirporInterstingPoints.textColor": "gray-primary"
+}
